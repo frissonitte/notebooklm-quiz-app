@@ -4,16 +4,14 @@ NotebookLM tarafından özel bir formatta üretilen testleri ayrıştırmak ve e
 
 ## Önemli Not
 
-Bu arayüz yalnızca özel bir prompt ile NotebookLM’den üretilmiş test çıktılarıyla çalışır.
+Bu arayüz yalnızca özel bir [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0) ile NotebookLM’den üretilmiş test çıktılarıyla çalışır.
 
 Kullanmak için:
 
 1. Kaynaklarınızı NotebookLM’e yükleyin.
-2. Belirlenen test üretme promptunu NotebookLM’in chat kısmına yapıştırın.
+2. Belirlenen test üretme [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0)unu NotebookLM’in chat kısmına yapıştırın.
 3. NotebookLM’in ürettiği cevabı `.txt` dosyası olarak kaydedin.
 4. `.txt` dosyasını bu arayüze yükleyin veya `tests/` klasörünün içine koyun.
-
-Promptu paylaşmak isterseniz uygulama içine prompt linki veya yönlendirme butonu ekleyebilirsiniz.
 
 ## Özellikler
 
@@ -71,7 +69,7 @@ streamlit run app.py
 
 ### 2. Test dosyalarınızı hazırlayın
 
-Testinizi oluşturmak için NotebookLM’de belirtilen özel promptu kullanın. Çıktıyı `.txt` dosyası olarak kaydedin.
+Testinizi oluşturmak için NotebookLM’de belirtilen özel [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0)u kullanın. Çıktıyı `.txt` dosyası olarak kaydedin.
 
 ### 3. Testleri yükleyin
 

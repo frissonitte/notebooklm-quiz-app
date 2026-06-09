@@ -6,16 +6,14 @@ A Streamlit web application designed to parse and interactively render quizzes g
 
 ## Important Note
 
-This interface only works with NotebookLM quiz outputs generated using a specific prompt.
+This interface only works with NotebookLM quiz outputs generated using a specific [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0).
 
 To use it:
 
 1. Upload your sources to NotebookLM.
-2. Paste the designated quiz-generation prompt into NotebookLM's chat.
+2. Paste the designated quiz-generation [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0) into NotebookLM's chat.
 3. Save NotebookLM's response as a `.txt` file.
 4. Upload the `.txt` file to this interface or place it inside the `tests/` folder.
-
-If you want to share the prompt, you can add a prompt link or redirect button inside the app.
 
 ## Features
 
@@ -73,7 +71,7 @@ streamlit run app.py
 
 ### 2. Prepare your test files
 
-Use the designated prompt in NotebookLM to generate your quiz. Save the output as a `.txt` file.
+Use the designated [prompt](https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?tab=t.0) in NotebookLM to generate your quiz. Save the output as a `.txt` file.
 
 ### 3. Load the tests
 
