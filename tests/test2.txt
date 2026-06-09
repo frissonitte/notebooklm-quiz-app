@@ -1,0 +1,381 @@
+### Question 1 [Remember | Easy] [—]
+"Pembe yaka" kavramı, özellikle hangi tarihsel veya toplumsal gelişmenin sonucunda iş yaşamında belirgin şekilde kullanılmaya başlanmıştır?
+A) Savaş dönemlerinde erkeklerin savaşa gitmesiyle işleri kadınların devralması
+B) Sanayi devrimi sonrasında fabrikalarda vasıflı işgücüne duyulan devasa ihtiyaç
+C) İkinci Dünya Savaşı sonrasında ağır sanayide sendikaların çok fazla güçlenmesi
+D) Yenilenebilir enerji yatırımlarının artmasıyla doğa dostu işlerin çok çoğalması
+E) Yüksek teknoloji kullanımının artmasıyla yöneticilerin bilgisayarlarla çalışması
+
+**Correct Answer:** A
+**Document Reference:** Yaşamında Alternatif Yaka Renkleri Üzerine Bir Değerlendirme.pdf (Pembe Yaka)
+**Rationale:** Doğru cevap A seçeneğidir çünkü kaynak belgede savaş dönemlerinde erkeklerin ayrılmasıyla işlerin kadın çalışanlar tarafından yerine getirilmesinin "pembe yaka" kavramını gündeme getirdiği belirtilmektedir. B seçeneği "Hatalı İlişkilendirme (Misattribution - Technique 4)" yöntemiyle oluşturulmuş olup mavi yakanın tarihsel kökenini tanımlamaktadır.
+
+─────────────────────────────────────
+
+### Question 2 [Remember | Easy] [—]
+Kirkpatrick Değerlendirme Merdiveni'nde, eğitime katılanların eğitim programına anlık olarak gösterdikleri memnuniyeti ölçen aşama hangisidir?
+A) Düzey iki - Öğrenme aşaması
+B) Düzey bir - Tepki aşaması
+C) Düzey üç - Davranış aşaması
+D) Düzey dört - Sonuçlar aşaması
+E) Düzey beş - Yatırımın getirisi
+
+**Correct Answer:** B
+**Document Reference:** Strategic_Capability_Blueprint.pptx (Etki Ölçümü: Kirkpatrick Değerlendirme Merdiveni)
+**Rationale:** Doğru cevap B seçeneğidir çünkü belgede Düzey 1 - Tepki (Reaction) aşaması, eğitim katılımcılarının anlık reaksiyonları ve hızlı memnuniyet ölçümü olarak tanımlanmaktadır. A seçeneği, katılımcıların memnuniyetini değil bilgi kazanımını (Öğrenme) ifade ettiği için "Hatalı İlişkilendirme (Misattribution - Technique 4)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 3 [Understand | Easy] [—]
+Gig ekonomisinde çalışanların platformlar üzerinden "bağımsız yüklenici" olarak sınıflandırılmasının "İnsana Yakışır İş" açısından yarattığı en büyük sorun nedir?
+A) Tam zamanlı çalışmayı dayattığı için serbest zamanı kısıtlaması
+B) Sadece mavi yakalı işçilerin bu platformlarda çalışabilmesi
+C) İşçi haklarını ve sosyal korumayı (sigorta vb.) ortadan kaldırması
+D) Platformların çalışanlara çok yüksek ama düzensiz ücret ödemesi
+E) Yalnızca teknolojik altyapısı güçlü gelişmiş ülkelerde görülmesi
+
+**Correct Answer:** C
+**Document Reference:** 3. H İNSANA YAKIŞIR KAVRAMI VE REEL ÇALIŞMA KOŞULLARI.pdf (Dijitalleşme ve Platform Ekonomisi)
+**Rationale:** Doğru cevap C seçeneğidir çünkü çalışanların bağımsız yüklenici olarak görülmesinin işçi haklarını ve sosyal korumayı sınırlandırdığı, sosyal güvence yokluğunun en büyük problem olduğu vurgulanmıştır. A seçeneği, gig ekonomisinin tam tersine esneklik sunduğu gerçeğini kullanarak "Tersine Çevirme (Inversion - Technique 2)" taktiğiyle oluşturulmuş çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 4 [Understand | Easy] [—]
+Yetenek ekosistemi metaforlarına göre, potansiyeli çok yüksek olmasına rağmen henüz istenen sonuçları üretemeyen ve düşük motivasyona sahip profil hangisidir?
+A) Kurumun günlük rutin yükünü taşıyan tombul tavşan
+B) Organizasyonun içinde kapasitesi dolmuş kurumuş ağaç
+C) Şirketin gelecekteki liderliğini yapacak uçan kartal
+D) Yanlış rolde kalmış olabilecek potansiyelli köpek balığı
+E) Sadece kendi sınırları içinde kalan beyaz yaka
+
+**Correct Answer:** D
+**Document Reference:** İK ETKİSİ_2. BÖLÜM_YETENEK YÖNETİMİ VE PERFORMANS_Strategic_Talent_Architecture.pptx (Yetenek Ekosistemi Metaforları)
+**Rationale:** Doğru cevap D seçeneğidir çünkü matriste "Köpek Balığı", yüksek potansiyele sahip ancak düşük performans (sonuç üretemeyen, yanlış rolde veya düşük motivasyonlu) sergileyen profil olarak tanımlanmaktadır. A seçeneği, yüksek performans ve düşük potansiyeli temsil eden Tombul Tavşan profiline ait özellikler taşıdığı için "Hatalı İlişkilendirme (Misattribution - Technique 4)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 5 [Apply | Easy] [Counter-Intuitive Setup]
+Deneyimsiz bir aday, yetkinlik bazlı mülakatta sorulan bir soruyu cevaplarken sezgisel olarak hemen yaptığı eylemi (aksiyonu) ve başarısını anlatmaya başlar. Ancak STAR metoduna göre adayın bu eylemden *önce* hangi adımları atlamaması gerekir?
+A) Referanslarını ve staj bağlantılarını detaylıca listelemeyi
+B) Şirketin finansal hedefleriyle olan uyumunu belirtmeyi
+C) Liderlik özelliklerini kanıtlayan teorik varsayımlar sunmayı
+D) Hangi sertifikalara sahip olduğunu kronolojik olarak anlatmayı
+E) Karşılaştığı durumu ve üstlendiği spesifik görevi açıklamayı
+
+**Correct Answer:** E
+**Document Reference:** Yetkinlik Bazlı Mülakat Soruları ve Cevapları | 5 Örnek Cevap (Youtube - STAR Metodu)
+**Rationale:** Doğru cevap E seçeneğidir çünkü STAR metodolojisinde Aksiyon (Action) ve Sonuç (Result) aşamalarından önce adayın Durumu (Situation) ve Görevi (Task) tanımlaması gerekmektedir. C seçeneği, yetkinlik bazlı mülakatların geçmiş davranışları aradığı gerçeğiyle çelişip teorik varsayımları öne sürdüğü için "Kapsam Hatası / Tersine Çevirme (Scope Error / Inversion - Technique 1 & 2)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 6 [Apply | Medium] [Misapplication Trap]
+Bir şirket, çalışan sadakatini artırmak için mülakat süreçlerini gevşeterek çok uyumlu görünen ama performansı belirsiz kişileri hızla işe almıştır. Ancak zamanla bu kişiler toksik bir kültür yaratmış ve verimlilik düşmüştür. Şirket, İşe Alım Karar Matrisi'ndeki hangi en maliyetli hataya düşmüştür?
+A) Yanlış kişiyi işe almak şeklindeki negatif duruma
+B) Doğru kişiyi kaçırmak şeklindeki fırsat maliyetine
+C) Yanlış kişiyi işe almamak şeklindeki başarılı elemeye
+D) Doğru kişiyi işe almak şeklindeki uyumlu yeteneğe
+E) Görüşmecinin bilgi eksikliği şeklindeki ön yargı türüne
+
+**Correct Answer:** A
+**Document Reference:** 7. H. İKY_ İŞE ALIM.pdf (İşe Alım Karar Matrisi: 4 Olası Sonuç)
+**Rationale:** Doğru cevap A seçeneğidir çünkü matriste toksik kültür yaratan ve düşük performans sergileyen birini şirkete dahil etmek "Yanlış Kişiyi İşe Almak" olarak sınıflandırılır ve en maliyetli hatadır. B seçeneği, yanlış kişiyi işe alma durumu yerine matristeki diğer bir hata olan "Doğru Kişiyi Kaçırmak" (gizli maliyet) kavramını kullanarak "Hatalı İlişkilendirme (Misattribution - Technique 4)" yapmaktadır.
+
+─────────────────────────────────────
+
+### Question 7 [Apply | Medium] [Boundary Case]
+Ekonomik daralma döneminde bir şirket "işgücünde küçülme" stratejisiyle birçok çalışanını işten çıkarmıştır. Geriye kalan bir çalışan ise işini kaybetmediği halde aşırı stres, suçluluk hissi ve performans düşüklüğü yaşamaktadır. Sınır durumu analiz edildiğinde, kalan çalışanın bu reaksiyonu ne ile tanımlanır?
+A) Olaylara takılıp kalma engeli
+B) Geride kalanlar sendromu etkisi
+C) Proaktiflik taklidi yapma sorunu
+D) Hale ve boynuz yanılsaması
+E) Eksik işbaşı deneyim transferi
+
+**Correct Answer:** B
+**Document Reference:** 4.H İKY_ İNSAN KAYNAKLARI PLANLAMASI.pdf (Küçülme uzun vadede kârlı bir strateji değildir)
+**Rationale:** Doğru cevap B seçeneğidir çünkü işten çıkarmalar sonrası şirkette kalmaya devam eden personelde görülen performans ve moral bozukluğu doğrudan "Geride Kalanlar Sendromu" (Survivor Syndrome) olarak adlandırılır. A seçeneği, Peter Senge'nin öğrenen organizasyon engellerinden birini kullanarak bağlam dışı bir "Hatalı İlişkilendirme (Misattribution - Technique 4)" yaratmaktadır.
+
+─────────────────────────────────────
+
+### Question 8 [Apply | Medium] [Synthesis Conflict]
+Bir mağazada satışlar düşmektedir. Şirket merkezi bunun "iletişim becerisi eksikliğinden" kaynaklandığını varsayıp personele acil eğitim atar. Ancak yerel mağaza müdürü, asıl sorunun çalışanların "ilgisiz" davranması ve görev tanımlarının kısıtlı olması olduğunu bilmektedir. Bu çelişkili teşhis durumu nasıl sonuçlanır?
+A) Eğitim başarıyla tamamlandığı için mağazanın kârlılık oranları çok hızlı bir şekilde artar.
+B) İletişim becerisi eksiklikleri giderilerek personelin müşterilerle kurduğu bağ aniden tamamen düzelir.
+C) Eğitim müdahalesi motivasyonel sistem sorunlarını çözemeyeceği için atılan bu gelişim köprüsü çöker.
+D) Yerel mağaza müdürü süreci yanlış anladığı için merkez ofisin teorik yaklaşımı haklı çıkar.
+E) Personel yeni iletişim yöntemlerini kullanarak kendi aralarındaki tüm organizasyonel uyuşmazlıkları hemen bitirir.
+
+**Correct Answer:** C
+**Document Reference:** Strategic_Capability_Blueprint.pptx (Vaka Analizi: Yanlış Teşhisin Maliyeti)
+**Rationale:** Doğru cevap C seçeneğidir çünkü belgede net bir şekilde "eğitim, motivasyon ve sistem sorunlarını çözmek için kullanılamaz; doğru teşhis olmadan atılan köprü çöker" denmektedir. A seçeneği, eğitimin her derde deva olduğu yanılgısını destekleyerek "Tersine Çevirme / Kapsam Hatası (Inversion / Scope Error - Technique 2 & 1)" taktikleriyle kurgulanmış bir çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 9 [Apply | Medium] [Misapplication Trap]
+Bir yönetici, mülakat yaptığı adayın kendisiyle aynı üniversiteden mezun olduğunu ve aynı öğrenci kulübünde çalıştığını öğrenince adayı "çok uyumlu ve yetenekli" olarak değerlendirmiştir. Ancak aday işe girdikten sonra yetersiz kalmıştır. Yöneticinin mülakat esnasında düştüğü sistematik hata hangisidir?
+A) Önceki kötü adayın ardından bu adayın vasatlığını parlak zannederek Kontrast Etkisi yaratması
+B) Adayın sadece temiz yüzlü olmasına aldanarak değerlendirmeyi kör eden Hale Etkisi yaşaması
+C) Adaya açıkça düşmanlık içeren zor sorular sorarak gereksiz ve yıpratıcı Stres Mülakatı yapması
+D) Kendi okulundan gelen adayı objektif kriterleri atlayarak ideal sanıp Benzerlik Etkisi göstermesi
+E) Addayın tek bir olumsuz yanıtına odaklanıp tüm görüşmeyi iptal eden Boynuz Etkisi kurması
+
+**Correct Answer:** D
+**Document Reference:** 7. H. İKY_ İŞE ALIM.pdf (Ön Yargı Radarı: Karar Sistemindeki Yanılsamalar)
+**Rationale:** Doğru cevap D seçeneğidir çünkü yöneticinin kendi okulundan veya kendine benzeyen karakterleri 'iyi aday' sanması "Benzerlik Etkisi" olarak tanımlanır. A seçeneği, başka bir mülakat ön yargısı olan Kontrast Etkisi'ni detaylandırarak "Hatalı İlişkilendirme (Misattribution - Technique 4)" çeldiricisi olarak sunulmuştur.
+
+─────────────────────────────────────
+
+### Question 10 [Apply | Medium] [Counter-Intuitive Setup]
+Yeni mezun bir aday, yaptığı birçok iş başvurusundan ret cevabı almış ve hayal kırıklığına uğramıştır. Sezgisel olarak artık başvurmayı bırakıp eve kapanması beklenirken, "Tasarlayan Zihniyet" modeline sahip olduğu için farklı bir tutum sergiler. Bu adayın karşı-sezgisel hamlesi ne olmalıdır?
+A) Mevcut durumu kabullenerek tüm kariyer hedeflerini yalnızca daha alt düzey pozisyonlara yöneltmek
+B) Reddedilme sürecinin tamamen dış faktörlere bağlı olduğunu savunup sadece şartlardan şikayet etmek
+C) İlanların kendisine ulaşmasını beklemek için iş arama platformlarındaki tüm eski kayıtlarını silmek
+D) Mülakatlarda reddedildiğini gizlemek için daha önceki deneyimleri hakkında abartılı sahte başarılar anlatmak
+E) Reddedilmeyi çok değerli bir analitik veri olarak kullanıp kişisel fırsatlarını aktif olarak yeniden tasarlamak
+
+**Correct Answer:** E
+**Document Reference:** 8. HAFTA İNSAN KAYNAKLARINDEN MEKTUPLAR_1,2,3_The_Career_Navigator.pptx (Zihniyet Değişimi: Bekleyen mi, Tasarlayan mı?)
+**Rationale:** Doğru cevap E seçeneğidir çünkü "Tasarlayan Zihniyet" modeli reddedilmeyi bir başarısızlık değil, bir veri olarak kullanır ve kendini sürekli adapte eder. B seçeneği, tamamen şikayet edip dış faktörleri mazeret yapan "Bekleyen Zihniyet"in özelliklerini taşıdığı için "Tersine Çevirme (Inversion - Technique 2)" kullanan zıt bir çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 11 [Apply | Medium] [Boundary Case]
+Makine mühendisliği mezunu bir uzman, geleneksel petrol rafinelerinde üretim mühendisi olarak yıllarca çalıştıktan sonra tamamen rüzgar enerjisi sistemleri ve ekolojik tasarım üzerine uzmanlaşarak kariyerini değiştirmiştir. İşin doğasındaki bu sınır değişimi, çalışanı hangi yaka rengine taşır?
+A) Çevresel tehditleri gidermeyi amaçlayan ekolojik teknoloji odaklı yeşil yaka
+B) İmalat sanayisinde bedensel gücü teknolojiyle birleştiren klasik mavi yaka
+C) Savaş döneminde ofis içi hizmet işlerini devralan modern pembe yaka
+D) Temel üretim hatlarında amirlik yapan ara kademe tecrübeli gri yaka
+E) Bilgiyi işleyen ve bürokratik ofis hiyerarşisine sıkışan tipik beyaz yaka
+
+**Correct Answer:** A
+**Document Reference:** Yaşamında Alternatif Yaka Renkleri Üzerine Bir Değerlendirme.pdf (Yeşil Yaka)
+**Rationale:** Doğru cevap A seçeneğidir çünkü yenilenebilir enerji, rüzgar enerjisi mühendisliği ve ekolojik tasarıma odaklanan meslekler doğrudan "Yeşil Yaka" sınıfına girmektedir. E seçeneği, mühendislerin geleneksel algıdaki karşılığı olan "Kısmi Doğruluk (Partial Truth - Technique 3)" barındıran ancak değişen iş doğasını ıskalayan beyaz yaka çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 12 [Apply | Medium] [Synthesis Conflict]
+Bir kurum, yeni anne olmuş kadın çalışanlarına tam zamanlı iş yükü yerine yarı zamanlı (PTE) esnek çalışma hakkı vermiştir. Ancak bu modelde çalışan annelerin maaşları ciddi oranda düşmüş ve formel kariyer yolları tıkanmıştır. Esneklik ve kariyer sürdürülebilirliği arasındaki bu çatışma, hangi politika ile uzlaştırılır?
+A) Annelerin çalışma saatlerini artırıp onları doğrudan evden tam zamanlı çalışmaya sürekli zorlamakla
+B) Kısmi zamanlı çalışma modeline sosyal güvenlik (SGK) koruması ve kıdem telafisi eklemekle
+C) Kadın istihdamını tamamen kayıt dışı ekonomiye kaydırıp işveren esnekliğini maksimum düzeye çıkarmakla
+D) Baba izinlerini tamamen iptal ederek annelerin evdeki çocuk bakım yükünü daha da artırmakla
+E) Şirket içindeki tüm terfi imkanlarını sadece mavi yakalı genç bekar personellere tahsis etmekle
+
+**Correct Answer:** B
+**Document Reference:** 6. H. İKY_sinif_child_penalty_istihdam_etkisi_ders_notu.pdf (Politika Araçları ve İK Uygulamaları)
+**Rationale:** Doğru cevap B seçeneğidir çünkü Child Penalty (annelik cezası) sorununu çözen sürdürülebilir esneklik politikası, "kısmi zamanlı ama sosyal güvenceli (SGK korumalı)" olan esnek-güvenceli modeldir. C seçeneği, işveren tarafı için kısmi bir esneklik gibi görünse de çalışan tarafını mağdur edeceği için "Kapsam Hatası / Tersine Çevirme (Scope Error / Inversion - Technique 1 & 2)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 13 [Analyze | Medium] [Misapplication Trap]
+Bir İK uzmanı "İstihdam içindeki PTE (yarı zamanlı) payını" hesaplamak ister. Uzman, kurumdaki yarı zamanlı çalışan sayısını tespit eder ancak formülü yanlış kurarak bu sayıyı şirketteki "toplam çalışan sayısına" değil, bölgedeki "toplam çalışma çağındaki nüfusa" böler. Bu hesaplama misuygulaması hangi iki kavramın karıştırılmasıdır?
+A) Tam zaman eşdeğeri (FTE) ile haftalık net çalışma saati verilerinin birbiriyle değiştirilmesi
+B) İşgücüne katılım oranı (LFP) ile formel piyasadaki aktif işsizlik oranının birbirine toplanması
+C) İstihdam içindeki PTE payı ile nüfus içindeki PTE oranı ölçütlerinin birbirine karıştırılması
+D) Babaya tahsisli ebeveyn izni kullanım oranı ile şirket işyeri kreşi kapasitesinin oranlanması
+E) Çocuk bakım maliyetleri endeksi ile doğrudan istihdam kaybı değişkenlerinin hatalı şekilde bölünmesi
+
+**Correct Answer:** C
+**Document Reference:** 6. H. İKY_sinif_child_penalty_istihdam_etkisi_ders_notu.pdf (PTE)
+**Rationale:** Doğru cevap C seçeneğidir çünkü İK uzmanı yarı zamanlı çalışan sayısını istihdama (toplam çalışana) bölmek yerine çalışma çağındaki nüfusa bölerek "İstihdam içindeki PTE payı" ile "Nüfus içindeki PTE oranını" birbirine karıştırmıştır. A seçeneği, her ikisi de zaman ölçütü olduğu için mantıklı görünen ancak formül bağlamıyla ilgisiz bir "Hatalı İlişkilendirme (Misattribution - Technique 4)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 14 [Analyze | Medium] [Counter-Intuitive Setup]
+Bir üretim biriminde kalite sorunları yaşanmakta ve teslimatlar gecikmektedir. Departman yöneticisi, sürecin kendi sorumluluğunda olduğunu kabul etmek yerine sezgisel bir savunma mekanizmasıyla sürekli Lojistik ve Satın Alma birimlerini suçlamaktadır. Senge'nin organizasyonel öğrenme engellerine göre, yöneticinin bu tutumu hangi kavramla açıklanır?
+A) Sadece uzun vadeli hayati tehditlere karşı tepkisiz kalınan "haşlanmış kurbağa meselesi" engeli
+B) Kararların takım içinde uyumlu görünmek adına bastırıldığı "yönetici takım miti" illüzyonu
+C) Sadece görev tanımına odaklanıp büyük resmi kaçıran "pozisyonum neyse ben oyum" sorunu
+D) Tersliklerde tüm sorumluluğu kendi dışındaki faktörlere atan "düşman dışarıda" psikolojik yanılgısı
+E) Geçmiş hataları analiz etmeden sürekli yeni hatalar yapılan "tecrübeyle öğrenme hayali" tuzağı
+
+**Correct Answer:** D
+**Document Reference:** İK ETKİSİ_2. BÖLÜM_YETENEK YÖNETİMİ VE PERFORMANS_Strategic_Talent_Architecture.pptx (Organizasyonel Öğrenmenin Önündeki 7 Temel Engel)
+**Rationale:** Doğru cevap D seçeneğidir çünkü yöneticinin kendi bölümündeki tersliklerin sorumluluğunu sürekli başka departmanlara (dış faktörlere) atması Peter Senge'nin modelinde "Düşman Dışarıda" engeli olarak adlandırılır. C seçeneği, yöneticinin kendi görev sınırlarında kalması fikrini barındırdığı için "Kısmi Doğruluk (Partial Truth - Technique 3)" içeren çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 15 [Analyze | Medium] [Boundary Case]
+RGT kariyer modelinde bir çalışan, kendisine verilen süreçleri sadece yürütmekle veya biraz daha verimli hale getirmekle kalmamış, aynı zamanda teknolojik araçları kullanarak oyunun kurallarını tamamen değiştirip kendi pozisyonunu baştan tanımlamıştır. Bu çalışanın RGT merdivenindeki sınır durumu neresidir?
+A) Sadece temel işleri hatasız olarak sürdürdüğü için birinci basamak olan RUN (Yürütmek)
+B) İşin felsefesine hiç dokunmadan yalnızca kapasiteyi artırdığı için ikinci aşama GROW (Büyütmek)
+C) Organizasyonun günlük rutin yükünü taşıyan sadık bir Tombul Tavşan olma (Yüksek Performans)
+D) Düşük performans gösterip yüksek potansiyel vadettiği için potansiyel Köpek Balığı (Gelişim Alanı)
+E) Teknolojiyi kullanarak iş modelini tamamen yeniden tanımladığı için en üst aşama TRANSFORM (Dönüştürmek)
+
+**Correct Answer:** E
+**Document Reference:** 7. H. İKY_ İŞE ALIM.pdf (Kariyer Merdiveni: RGT Modeli)
+**Rationale:** Doğru cevap E seçeneğidir çünkü çalışanın işin kurallarını baştan tanımlaması, teknolojiyi kullanarak oyunu değiştirmesi RGT modelindeki "Transform (İşi Dönüştürmek)" aşamasına karşılık gelir. B seçeneği, bir alt basamak olan Grow'un özelliklerini taşıdığı ve adayın konumunu yanlış saptadığı için "Kısmi Doğruluk (Partial Truth - Technique 3)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 16 [Analyze | Medium] [Synthesis Conflict]
+Bir yandan bilgi teknolojileri "Altın Yaka" olarak adlandırılan yüksek vasıflı bilgi işçilerine (veri analistleri vb.) ihtiyacı inanılmaz düzeyde artırırken, diğer yandan yapay zeka otomasyonu geleneksel ofis ve veri işleme görevlerini elimine etmektedir. Bu zıt yönlü teknolojik dalganın işgücü piyasasında yarattığı kavramsal sentez nedir?
+A) Teknoloji bazı vasıfsız işleri yok ederken karmaşık bilgiyi yöneten yeni üst düzey sınıflar yaratır.
+B) Yapay zeka tüm sektörlerde insan emeğini tamamen bitirerek işgücü planlamasını tümüyle gereksiz kılar.
+C) Mavi yakalı çalışanların tümü çok kısa süre içinde doğrudan altın yakalı yöneticilere dönüşür.
+D) Klasik eğitim modelleri teknolojik gelişmelere mükemmel uyum sağlayarak işsizlik oranını tamamen sıfırlar.
+E) Pembe yakalı çalışanların hizmet sektöründeki tüm görevleri sadece yapay zeka robotlarına devredilir.
+
+**Correct Answer:** A
+**Document Reference:** 5.H. İKY_Workforce_Disrupted.pdf & Yaşamında Alternatif Yaka Renkleri Üzerine Bir Değerlendirme.pdf
+**Rationale:** Doğru cevap A seçeneğidir çünkü otomasyon tekrar eden işleri elimine ederken, teknoloji ve bilgiyi yönetebilen "Altın Yaka" (bilgi işçisi) ve derin insani becerilere sahip yeni sınıflara ihtiyacı artırır. B seçeneği, tüm insan emeğinin biteceğini iddia eden mutlak ve aşırı genelleştirilmiş bir "Kapsam Hatası (Scope Error - Technique 1)" barındırır.
+
+─────────────────────────────────────
+
+### Question 17 [Analyze | Medium] [Misapplication Trap]
+İnsan Kaynakları departmanı, bir adayın "liderlik ve baskı altındaki takım içi insan ilişkileri becerilerini" ölçmek istemektedir. Bu amaçla adayı karşısına alıp beş yöneticinin aynı anda sırayla spesifik yapılandırılmış sorular sorduğu "Panel Mülakat" formatını kullanır. Bu mülakat tasarımı neden hedeflenen yetkinliği tam ölçemez?
+A) Panel mülakatlar maliyeti en düşük yöntem olduğu için adayın teknik becerilerini ölçmede yetersizdir.
+B) Adayın diğer insanlarla etkileşimini gözlemlemek yerine sadece komiteye verdiği sözlü cevaplarla kısıtlı kalır.
+C) Beş yöneticinin aynı anda soru sorması, adayın liderlik potansiyelini haksız şekilde aşırı yükseltir.
+D) Bu mülakat türü yalnızca mavi yakalı fabrika işçilerinin kas gücünü ölçmek için tasarlanmıştır.
+E) Adayın geçmişteki deneyimlerini anlatmasına kesinlikle izin vermediği için davranışsal analiz yapılamaz.
+
+**Correct Answer:** B
+**Document Reference:** 12. HAFTA SEÇME ve YERLEŞTİRME.pdf (Panel Mülakat vs. Grup Mülakatı)
+**Rationale:** Doğru cevap B seçeneğidir çünkü takım içi insan ilişkileri ve etkileşim en iyi "Grup Mülakatı"nda (informel bir ortamda adayların tartışması izlenerek) ölçülür. Panel mülakatta aday sadece komitenin sorularını cevaplar ve takım dinamikleri doğmaz. C seçeneği, panel mülakatın baskısını liderlikle yanlış ilişkilendiren "Tersine Çevirme (Inversion - Technique 2)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 18 [Analyze | Hard] [Counter-Intuitive Setup]
+Mülakatlarda yöneticilerin, adayları zorlamak ve gerçek yüzlerini ortaya çıkarmak için ilgisiz sorular (örneğin yeni mezuna Freud sormak) sorması ve gerginlik yaratması ("Sorgulayıcı" model) sektörde akıllıca bir filtreleme yöntemi sanılabilir. Ancak İK yetenek mimarisine göre bu tutumun adayın değerlendirilmesindeki asıl karşı-sezgisel tahribatı nedir?
+A) Adayların sadece teknik becerilerine odaklanılmasına neden olup şirket içindeki rotasyon planlarını güçlendirmesi
+B) Mülakatın kimyasını tamamen objektif bir formata dönüştürerek kalabalıkların bilgeliğini kusursuz şekilde uygulaması
+C) Adayı tanımak yerine sadece elemeye odaklanarak yüksek potansiyelli yeteneklerin gizli maliyetle kaçırılması
+D) Stres altında yaratıcı düşünme becerilerini çok daha net bir şekilde ortaya çıkarması
+E) Sadece altın yakalı yöneticilerin işe alınmasını sağlayarak şirket vizyonunu çok hızla yukarı taşıması
+
+**Correct Answer:** C
+**Document Reference:** 7. H. İKY_ İŞE ALIM.pdf (Yönetici Davranış Matrisi: Sorgulayıcı vs. Ev Sahibi)
+**Rationale:** Doğru cevap C seçeneğidir çünkü "Sorgulayıcı" yönetici modeli adayı bir misafir gibi ağırlamak (Ev Sahibi) yerine gereksiz stres yaratıp elemeye odaklanır, bu da mülakatı kişiselleştirerek "Doğru Kişiyi Kaçırmak" şeklindeki gizli maliyete yol açar. D seçeneği, yöneticinin stres yaratarak fayda sağladığına inandıran "Tersine Çevirme (Inversion - Technique 2)" taktiğiyle oluşturulmuş çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 19 [Analyze | Hard] [Boundary Case]
+Sadakatle çalışan ancak mevcut kapasitesinin zirvesinde olan bir "Tombul Tavşan" personeli, kurumun yeni girdiği inovatif teknoloji pazarında aniden "Kartal" (yüksek potansiyel) rolüne atanmıştır. Peter İlkesi ve yetenek matrisi sınırlarına göre bu senaryonun organizasyonel çıktısı ne olacaktır?
+A) Çalışan aniden içsel bir motivasyon sıçraması yaşayarak tüm teknolojik eksiklerini birkaç günde kapatacaktır.
+B) Kurumun sağladığı mikro-öğrenme eğitimleriyle personel kusursuz bir şekilde üst düzey altın yakaya dönüşecektir.
+C) Personel eski departmanına geri döndürülerek kurumuş ağaç statüsünden doğrudan köpek balığı seviyesine çıkacaktır.
+D) Kapasitesini aşan bu görevde personel yetersiz kalacak ve bulunduğu uzmanlık alanındaki verimliliğini de kaybedecektir.
+E) Çalışan sadece kendisine verilen rutin görevleri yapmaya devam edecek ve hiçbir performans kaybı yaşamayacaktır.
+
+**Correct Answer:** D
+**Document Reference:** İK ETKİSİ_2. BÖLÜM_YETENEK YÖNETİMİ VE PERFORMANS_Strategic_Talent_Architecture.pptx (Matris İçin Stratejik Aksiyon Planı)
+**Rationale:** Doğru cevap D seçeneğidir çünkü "Tombul Tavşanlar" (yüksek performans, düşük potansiyel) kapasitelerini aşan görevlere atandıklarında Peter İlkesi uyarınca yetersiz kalacakları noktaya terfi ettirilip uzmanlıklarını ve verimliliklerini kaybederler. E seçeneği, personelin eskisi gibi rutinleri hatasız yürüteceğini savunan "Kısmi Doğruluk (Partial Truth - Technique 3)" barındıran ancak değişen sınırları ıskalayan çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 20 [Analyze | Hard] [Synthesis Conflict]
+Geleneksel iş arama sürecinde adaylar kronolojik olarak eğitimlerini ve iş deneyimlerini listeleyen standart bir özgeçmiş (CV) sunarlar. Ancak Kariyer Pusulası yaklaşımı, bu donuk listenin karşısına "Kendi Hikayeni (His-Story)" koyar. Bu iki yaklaşım arasındaki sentez çatışmasında kurumlar adayın hikayesinde aslında neyi aramaktadır?
+A) Adayın geçmişteki tüm unvanlarının ve akademik not ortalamalarının eksiksiz bir resmi dökümünü
+B) Adayın okul yıllarında hiçbir kriz yaşamadığını ve her zaman sorunsuz bir profil çizdiğini
+C) Adayın mülakat sırasında sorulan teknik sorulara sadece literatürdeki ezberlenmiş doğrularla cevap vermesini
+D) Adayın iş dünyasındaki eski yöneticilerini tamamen kötüleyerek kendi bağımsız kimliğini agresifçe savunmasını
+E) Adayın kriz anlarında aldığı inisiyatifleri, neden-nasıl sorularına verdiği yanıtları ve gerçek liderlik azmini
+
+**Correct Answer:** E
+**Document Reference:** 7. H. İKY_ İŞE ALIM.pdf (Öz Geçmiş (CV) vs. Kendi Hikâyen (His-Story))
+**Rationale:** Doğru cevap E seçeneğidir çünkü kurumlar kronolojik ve sıradan bir CV yerine adayın krizde aldığı inisiyatifi, zorlu başlangıçlarını ve inançla kurgulanmış "Nasıl" ve "Neden"ini (Simon Sinek'in Start with Why prensibi) aramaktadır. A seçeneği, eski model donuk özgeçmişin özelliklerini tanımlayarak "Hatalı İlişkilendirme (Misattribution - Technique 4)" çeldiricisi olarak sunulmuştur.
+
+─────────────────────────────────────
+
+### Question 21 [Synthesize | Hard] [Misapplication Trap]
+Bir İK yöneticisi, şirketin yeni geçiş yaptığı dijital yazılım sistemi için sadece çalışanların "bireysel bilgi eksikliklerini" analiz etmiş ve bu doğrultuda bilgisayar testleri yapıp hızla eğitime başlamıştır. İhtiyaç mimarisi karar ağacına göre bu süreçteki sistematik misuygulama (misapplication) hangi aşamanın tamamen atlanmasından kaynaklanır?
+A) Makro düzeydeki organizasyonel çevrenin ve departmanların iş (görev) tanımlarındaki asıl gerekliliklerin analiz edilmemesi
+B) Eğitim katılımcılarının anlık tepkilerini (Reaction) ölçmek için Düzey 1 anketlerinin çok geç hazırlanması
+C) Sadece kurumuş ağaç statüsündeki personellerin tespit edilerek onlara zorunlu mikro-öğrenme parçalarının verilmemesi
+D) Mülakat süreçlerinde adayların stres yönetimini test eden davranışsal ve durumsal yetkinlik sorularının sorulmaması
+E) Şirket içindeki tüm çalışanların yeşil yakalı pozisyonlara geçiş yapmasını sağlayacak ekolojik eğitimlerin unutulması
+
+**Correct Answer:** A
+**Document Reference:** Strategic_Capability_Blueprint.pptx (Teşhis Karar Ağacı: Doğru Müdahaleyi Seçmek & Eğitim Planlama Süreci)
+**Rationale:** Doğru cevap A seçeneğidir çünkü eğitim planlama sürecinde organizasyon analizi ve iş (görev) analizi yapılmadan doğrudan birey analizine geçmek, kök nedenin ve sistemin ihtiyaçlarının ıskalanmasına yol açan ciddi bir sistem hatasıdır. B seçeneği, eğitim sürecinin en son aşamasındaki bir metodu başlangıç aşamasındaki hataya taşıyarak "Hatalı İlişkilendirme (Misattribution - Technique 4)" yapmaktadır.
+
+─────────────────────────────────────
+
+### Question 22 [Synthesize | Hard] [Counter-Intuitive Setup]
+Yeni işe giren bir genç profesyonele, ilk günlerinde sadece "evrak zarfı dağıtma" gibi angarya ve düşük statülü bir görev verilmiştir. Sezgisel olarak çalışanın şikayet etmesi veya pasif kalması beklenirken, "Etki Alanı" odaklı proaktif zihniyet bu durumu nasıl büyük bir avantaja çevirir?
+A) İşi tamamen reddederek şirket yönetimine yetkinlik bazlı mülakatta anlattığı yüksek potansiyelini sertçe hatırlatarak
+B) Bu görevi şirket içindeki tüm departman yöneticileriyle şahsen tanışmak ve iletişim ağını kurmak için kullanarak
+C) Zarf dağıtma işini diğer stajyerlere gizlice devredip sadece kendi masasında teknik becerilerini geliştirerek
+D) Durumu derhal sosyal medyada eleştirip "düşman dışarıda" psikolojisiyle şirketin toksik kültürünü ifşa ederek
+E) Yalnızca verilen zarfları en kısa sürede dağıtmaya odaklanıp "görev insanı" rolünde kalarak sessizce bekleyerek
+
+**Correct Answer:** B
+**Document Reference:** 10. İŞE YENİ BAŞLAYANLAR İÇİN 11 ÖNERİ_ İK ETKİSİ_The_Career_Compass.pptx (İletişim Ağını Güçlendirmek: Gerçek Hayattan Bir Kesit)
+**Rationale:** Doğru cevap B seçeneğidir çünkü belgede geçen zarf dağıtan genç profesyonel vakasında, çalışan angarya işi tüm şirketi dolaşıp kilit yöneticilerle tanışmak ve ağ (network) kurmak için dev bir avantaja çevirmiştir. E seçeneği, şikayet etmese de inisiyatif almayan pasif zihniyetin bir parçası olduğu için "Kısmi Doğruluk / Tersine Çevirme (Partial Truth / Inversion - Technique 3 & 2)" özellikleri gösteren bir çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 23 [Evaluate | Hard] [Boundary Case]
+Bir departman müdürü, satışların düşmesi üzerine hızla bir toplantı düzenler ve "Arkadaşlar, pazar daralıyor ama biz rakiplerin zayıf olduğu X bölgesine agresif gireceğiz, sorumluluk bende!" der. Ancak pratikte sadece toplantı yapmış ve hiçbir somut aksiyon planı başlatmamıştır. Bu sınır vaka organizasyonel öğrenmede neyi temsil eder?
+A) İleri dönük net ve uygulanabilir bir RGT (İşi Dönüştürmek) modelinin başarıyla hayata geçirilmesini
+B) Gelecek tehditleri sezerek onlara karşı kalıcı önlemler alan stratejik kâşif zihniyetinin uygulanmasını
+C) Reaktif olduğu halde proaktiflik taklidi yapan "sorumluluk üstlenme yanılsaması" engelinin ortaya çıkmasını
+D) Kurumun mevcut yetenek haritasında tamamen yüksek potansiyelli bir kartal profili çizilmesini
+E) Çalışanların anlık dijital performans takiplerini sağlayacak şeffaf cehalet ilkesinin yürürlüğe konmasını
+
+**Correct Answer:** C
+**Document Reference:** İK ETKİSİ_2. BÖLÜM_YETENEK YÖNETİMİ VE PERFORMANS_Strategic_Talent_Architecture.pptx (Organizasyonel Öğrenmenin Önündeki 7 Temel Engel)
+**Rationale:** Doğru cevap C seçeneğidir çünkü reaktif olunduğu halde toplantılarda durumu kurtarmaya yönelik süslü konuşmalar yapıp eylemsiz kalmak Senge'nin modelinde "Sorumluluk Üstlenme Yanılsaması" (Proaktiflik Taklidi) olarak değerlendirilir. B seçeneği, toplantıdaki söylemler üzerinden yöneticinin başarılı olduğuna inandıran "Tersine Çevirme (Inversion - Technique 2)" çeldiricisidir.
+
+─────────────────────────────────────
+
+### Question 24 [Evaluate | Hard] [Synthesis Conflict]
+İş dünyası, çalışanlarından eleştirel düşünme, etik sorgulama ve adaptasyon (derin insani beceriler) beklemektedir. Ancak diğer taraftan üniversiteler, kısa vadeli iş bulma baskısıyla tüm kaynakları teknik STEM alanlarına (Bootcamp tarzı ezberci müfredata) kaydırmaktadır. Bu iki zıt kuvvetin sentezlenememesi sonucunda oluşan "sistemik çatlak" şirketlere nasıl yansır?
+A) Şirketlerin kendi bünyelerinde üniversiteler kurarak akademik diplomaların geçerliliğini tamamen ortadan kaldırmasıyla
+B) Üniversitelerin kısa vadeli işgücü açıklarını kusursuz bir şekilde kapatarak işsizliği sıfıra indirmesiyle
+C) Pembe yakalı çalışanların teknik müfredattan en fazla yararlanıp hızla yönetici pozisyonlarına yükselmesiyle
+D) Şirketlerin, teknik olarak mükemmel ama uyum sağlama ve iletişim kurma yeteneği olmayan adaylarla dolmasıyla
+E) İşbaşı deneyim transferinin sadece stajyerlerin sorumluluğuna bırakılarak eğitim bütçelerinin tamamen sıfırlanmasıyla
+
+**Correct Answer:** D
+**Document Reference:** 5.H. İKY_Workforce_Disrupted.pdf (Paradoks: Beşeri Bilimlerin İnfazı)
+**Rationale:** Doğru cevap D seçeneğidir çünkü sistemik çatlak, şirketlerin sadece ezberci eğitim almış, yeni durumlara uyum sağlayamayan ve iletişim becerisi zayıf (ancak teknik puanı yüksek) adaylarla (teknokrat ordularıyla) dolmasına yol açmaktadır. B seçeneği, üniversitelerin istihdam hedefine tam ulaştığını savunan "Tersine Çevirme (Inversion - Technique 2)" kurgusuna sahip çeldiricidir.
+
+─────────────────────────────────────
+
+### Question 25 [Synthesize | Hard] [Misapplication Trap]
+Yeni işe alınan yüksek becerili bir uzman, yöneticisinden görev tanımını tam ve eksiksiz almıştır (İletişim = Yüksek). Uzmanın işi yapacak teknik kapasitesi de tamdır (Nitelik = Yüksek). Ancak yönetici, personelin fikirlerini hiç dinlemediği için uzmanın performansı sıfıra düşer. Yöneticinin performans formülünde göz ardı ettiği spesifik psikolojik prensip nedir?
+A) Çalışanların fiziksel çalışma ortamlarının sürekli olarak değiştirilmesinin performansı doğrudan artıracağı beklentisi
+B) Sadece dışsal parasal ödüllerin her zaman en yüksek içsel motivasyonu sağlayacağı inancı
+C) Yetkinlik buzdağının su üstünde kalan kısmının su altındaki değerlerden daha önemsiz olması durumu
+D) Hale ve boynuz etkisinin mülakat değerlendirmelerinde objektif kararları her zaman engellemesi riski
+E) Çalışanların koşullardan ziyade birey olarak algılanıp dinlenmesinin motivasyonu artırdığı Hawthorne Etkisi
+
+**Correct Answer:** E
+**Document Reference:** İK ETKİSİ_2. BÖLÜM_YETENEK YÖNETİMİ VE PERFORMANS_Strategic_Talent_Architecture.pptx (Denklemin Bileşenlerini Çözümlemek: Motivasyon)
+**Rationale:** Doğru cevap E seçeneğidir çünkü formüldeki Motivasyon çarpanı, "Hawthorne Etkisi" ile (çalışanların çevre koşullarından ziyade birey olarak algılanıp dinlenmesinin performansı artırmasıyla) açıklanmaktadır. C seçeneği, Yetkinlik Buzdağı üzerinden "Hatalı İlişkilendirme (Misattribution - Technique 4)" yaparak adayın performansı değil işe alım kararlarını etkileyen farklı bir konsepti çeldirici olarak sunmaktadır.
+
+─────────────────────────────────────
+
+## ANSWER KEY SUMMARY
+| Q  | Answer | Bloom's Level     | Difficulty | Scenario Frame         |
+|----|--------|-------------------|------------|------------------------|
+| 1  |   A    | Remember          | Easy       | —                      |
+| 2  |   B    | Remember          | Easy       | —                      |
+| 3  |   C    | Understand        | Easy       | —                      |
+| 4  |   D    | Understand        | Easy       | —                      |
+| 5  |   E    | Apply             | Easy       | Counter-Intuitive Setup|
+| 6  |   A    | Apply             | Medium     | Misapplication Trap    |
+| 7  |   B    | Apply             | Medium     | Boundary Case          |
+| 8  |   C    | Apply             | Medium     | Synthesis Conflict     |
+| 9  |   D    | Apply             | Medium     | Misapplication Trap    |
+| 10 |   E    | Apply             | Medium     | Counter-Intuitive Setup|
+| 11 |   A    | Apply             | Medium     | Boundary Case          |
+| 12 |   B    | Apply             | Medium     | Synthesis Conflict     |
+| 13 |   C    | Analyze           | Medium     | Misapplication Trap    |
+| 14 |   D    | Analyze           | Medium     | Counter-Intuitive Setup|
+| 15 |   E    | Analyze           | Medium     | Boundary Case          |
+| 16 |   A    | Analyze           | Medium     | Synthesis Conflict     |
+| 17 |   B    | Analyze           | Medium     | Misapplication Trap    |
+| 18 |   C    | Analyze           | Hard       | Counter-Intuitive Setup|
+| 19 |   D    | Analyze           | Hard       | Boundary Case          |
+| 20 |   E    | Analyze           | Hard       | Synthesis Conflict     |
+| 21 |   A    | Synthesize        | Hard       | Misapplication Trap    |
+| 22 |   B    | Synthesize        | Hard       | Counter-Intuitive Setup|
+| 23 |   C    | Evaluate          | Hard       | Boundary Case          |
+| 24 |   D    | Evaluate          | Hard       | Synthesis Conflict     |
+| 25 |   E    | Synthesize        | Hard       | Misapplication Trap    |
+
+## ANSWER POSITION AUDIT
+A: 5 times | B: 5 times | C: 5 times | D: 5 times | E: 5 times
