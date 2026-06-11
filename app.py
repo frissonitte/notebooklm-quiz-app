@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -77,6 +78,20 @@ CUSTOM_CSS = """
     margin-bottom: 0.8rem;
 }
 
+/* YENİ EKLENEN ROZET STİLİ */
+.tag-pill {
+    display: inline-block;
+    background: #F1F5F9;
+    color: #475569;
+    border: 1px solid #E2E8F0;
+    padding: 0.25rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    margin-right: 0.5rem;
+    margin-bottom: 0.6rem;
+}
+
 .small-muted {
     color: var(--muted);
     font-size: 0.92rem;
@@ -102,14 +117,6 @@ CUSTOM_CSS = """
     border-radius: 12px;
     padding: 0.9rem 1rem;
 }
-
-.option-line {
-    background: #FFFFFF;
-    border: 1px solid #E2E8F0;
-    border-radius: 12px;
-    padding: 0.65rem 0.8rem;
-    margin: 0.35rem 0;
-}
 </style>
 """
 
@@ -117,7 +124,6 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 
 
 def load_tests_from_uploads(uploaded_files) -> Dict[str, List[dict]]:
-    """Parse Streamlit-uploaded txt files without writing them to disk."""
     parsed: Dict[str, List[dict]] = {}
     for file in uploaded_files or []:
         try:
@@ -125,7 +131,7 @@ def load_tests_from_uploads(uploaded_files) -> Dict[str, List[dict]]:
             parsed[file.name] = parse_test_text(text)
         except UnicodeDecodeError:
             parsed[file.name] = [{"error": "Dosya UTF-8 olarak okunamadı."}]
-        except Exception as exc:  # defensive: show parser errors in the UI
+        except Exception as exc:
             parsed[file.name] = [{"error": str(exc)}]
     return parsed
 
@@ -140,7 +146,7 @@ def init_state() -> None:
         "current_test_name": "",
         "current_index": 0,
         "answers": {},
-        "feedback_mode": None,  # None | correct | wrong | reveal
+        "feedback_mode": None,
     }
     for key, value in defaults.items():
         st.session_state.setdefault(key, value)
@@ -215,7 +221,7 @@ def render_feedback(question: dict, selected: Optional[str]) -> None:
     if selected and mode in {"correct", "wrong"}:
         body_parts.append(f"<p><strong>Senin cevabın:</strong> {selected}</p>")
     if docref:
-        body_parts.append(f"<p><strong>Belge:</strong> {docref}</p>")
+        body_parts.append(f"<p style='margin-top: 8px;'><strong>Belge:</strong> {docref}</p>")
     if rationale:
         body_parts.append(f"<p><strong>Açıklama:</strong> {rationale}</p>")
 
@@ -230,17 +236,6 @@ def render_empty_state() -> None:
         "Henüz soru bulunamadı. `tests` klasörüne `.txt` test dosyaları koyabilir "
         "veya sol menüden dosya yükleyebilirsin."
     )
-    st.code(
-        "streamlit run app.py\n\n"
-        "Proje yapısı örneği:\n"
-        "quiz-interface/\n"
-        "├─ app.py\n"
-        "├─ tests_parser.py\n"
-        "└─ tests/\n"
-        "   ├─ test-1.txt\n"
-        "   └─ test-2.txt",
-        language="bash",
-    )
 
 
 def main() -> None:
@@ -248,15 +243,15 @@ def main() -> None:
 
     st.title("📝 Test Çözme Arayüzü")
     st.markdown(
-    """
-    <small>
-    Bu arayüz yalnızca özel bir prompt ile NotebookLM’den üretilmiş test formatlarıyla çalışır.
-    Kaynaklarınızı NotebookLM’e yükledikten sonra promptu chat kısmında kullanın.
-    NotebookLM’in verdiği cevabı <code>.txt</code> olarak kaydedip bu arayüze yükleyerek çözebilirsiniz.
-    </small>
-    """,
-    unsafe_allow_html=True 
-)
+        """
+        <small>
+        Bu arayüz yalnızca özel bir prompt ile NotebookLM’den üretilmiş test formatlarıyla çalışır.
+        Kaynaklarınızı NotebookLM’e yükledikten sonra promptu chat kısmında kullanın.
+        NotebookLM’in verdiği cevabı <code>.txt</code> olarak kaydedip bu arayüze yükleyerek çözebilirsiniz.
+        </small>
+        """,
+        unsafe_allow_html=True 
+    )
     st.link_button("Prompt için tıklayın!", "https://docs.google.com/document/d/1mdE6tZsboI-qEATvKEXzD_JNTWwMu4Qq9p3M9kNphFU/edit?usp=sharing")
 
     local_tests = load_local_tests()
@@ -356,8 +351,17 @@ def main() -> None:
 
     st.markdown(f"<span class='meta-pill'>Soru {index + 1} / {total}</span>", unsafe_allow_html=True)
     st.subheader(f"Soru {number}")
+    
+    # METADATA BÖLÜMÜNÜN İŞLENMESİ (ROZETLER)
     if header:
-        st.markdown(f"<div class='small-muted'>{header}</div>", unsafe_allow_html=True)
+        tags = re.findall(r"\[(.*?)\]", header)
+        if tags:
+            # Sadece kısa çizgi olanları atlayıp geçerli tagleri filtrele
+            valid_tags = [t for t in tags if t.strip() and t.strip() != "—"]
+            tags_html = "".join([f"<span class='tag-pill'>{t}</span>" for t in valid_tags])
+            st.markdown(f"<div>{tags_html}</div>", unsafe_allow_html=True)
+        else:
+            st.markdown(f"<div class='small-muted'>{header}</div>", unsafe_allow_html=True)
 
     st.markdown(
         f"<div class='question-box'>{question.get('stem', '').strip()}</div>",
@@ -371,7 +375,6 @@ def main() -> None:
 
     if not choice_labels:
         st.warning("Bu soruda şık bulunamadı.")
-        st.markdown("</div>", unsafe_allow_html=True)
         return
 
     default_choice_index = None
@@ -411,8 +414,6 @@ def main() -> None:
             st.rerun()
 
     render_feedback(question, selected_letter)
-
-    st.markdown("</div>", unsafe_allow_html=True)
 
 
 if __name__ == "__main__":

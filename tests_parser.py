@@ -2,13 +2,15 @@ import os
 import re
 from typing import Dict, List
 
-
 CHOICE_LETTERS = ["A", "B", "C", "D", "E"]
-
 
 def parse_test_text(text: str) -> List[Dict]:
     """Parse NotebookLM-style markdown test text into question dictionaries."""
-    parts = re.split(r"###\s*Question\s+", text)
+    
+    # 1. Metnin sonundaki tabloyu atıyoruz, böylece son sorunun içerisine sızmaz.
+    text = re.split(r"##\s*ANSWER KEY SUMMARY", text, flags=re.IGNORECASE)[0]
+
+    parts = re.split(r"###\s*Question\s+", text, flags=re.IGNORECASE)
     questions = []
 
     for part in parts:
@@ -29,18 +31,20 @@ def parse_test_text(text: str) -> List[Dict]:
         header = m.group(2).strip()
         rest = "\n".join(lines[1:])
 
+        # 2. Kalın yıldız işaretlerini (\*?\*?) opsiyonel yaptık. (Eski formata uyumluluk için)
         correct = None
-        m_corr = re.search(r"\*\*Correct Answer:\*\*\s*([A-E])", rest)
+        m_corr = re.search(r"\*?\*?Correct Answer:\*?\*?\s*([A-E])", rest, flags=re.IGNORECASE)
         if m_corr:
-            correct = m_corr.group(1)
+            correct = m_corr.group(1).upper()
 
         docref = None
-        m_ref = re.search(r"\*\*Document Reference:\*\*\s*([^\n]+)", rest)
+        m_ref = re.search(r"\*?\*?Document Reference:\*?\*?\s*([^\n]+)", rest, flags=re.IGNORECASE)
         if m_ref:
             docref = m_ref.group(1).strip()
 
+        # 3. Rationale'in yeni gelen yatay çizgilerde durmasını sağlıyoruz: (?=\n[─━\-]{3,}|\Z)
         rationale = None
-        m_rat = re.search(r"\*\*Rationale:\*\*\s*([^\n]*(?:\n(?!\*\*)[^\n]*)*)", rest)
+        m_rat = re.search(r"\*?\*?Rationale:\*?\*?\s*(.*?)(?=\n[─━\-]{3,}|\Z)", rest, flags=re.S | re.IGNORECASE)
         if m_rat:
             rationale = m_rat.group(1).strip()
 
@@ -48,15 +52,19 @@ def parse_test_text(text: str) -> List[Dict]:
         for i, letter in enumerate(CHOICE_LETTERS):
             next_letters = "|".join(CHOICE_LETTERS[i + 1 :])
             if next_letters:
-                pattern = rf"(?:^|\n){letter}\)\s*(.*?)(?=\n(?:{next_letters})\)|\n\*\*Correct Answer:\*\*|\Z)"
+                pattern = rf"(?:^|\n){letter}\)\s*(.*?)(?=\n(?:{next_letters})\)|\n\*?\*?Correct Answer:\*?\*?|\Z)"
             else:
-                pattern = rf"(?:^|\n){letter}\)\s*(.*?)(?=\n\*\*Correct Answer:\*\*|\Z)"
-            m_choice = re.search(pattern, rest, flags=re.S)
+                pattern = rf"(?:^|\n){letter}\)\s*(.*?)(?=\n\*?\*?Correct Answer:\*?\*?|\Z)"
+            m_choice = re.search(pattern, rest, flags=re.S | re.IGNORECASE)
             if m_choice:
                 choices[letter] = " ".join(m_choice.group(1).strip().split())
 
-        m_first_choice = re.search(r"\nA\)", rest)
-        stem = rest[: m_first_choice.start()].strip() if m_first_choice else rest.strip()
+        # İlk şıkkı bulup öncesini soru gövdesi (stem) olarak alıyoruz.
+        m_first_choice = re.search(r"(?:^|\n)A\)", rest, flags=re.IGNORECASE)
+        if m_first_choice:
+            stem = rest[: m_first_choice.start()].strip()
+        else:
+            stem = rest.strip()
 
         if not stem or not choices:
             continue
@@ -75,11 +83,9 @@ def parse_test_text(text: str) -> List[Dict]:
 
     return questions
 
-
 def parse_test_file(path: str) -> List[Dict]:
     with open(path, "r", encoding="utf-8") as f:
         return parse_test_text(f.read())
-
 
 def load_all_tests(tests_dir: str) -> Dict[str, List[Dict]]:
     data = {}
