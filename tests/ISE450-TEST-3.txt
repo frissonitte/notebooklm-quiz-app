@@ -1,0 +1,333 @@
+### Question 1 [Remember | Easy] [—]
+Nesnelerin İnterneti (IoT) ağ katmanında sıkça kullanılan Bluetooth teknolojisinin geliştirilmesindeki ilk ve temel amacı aşağıdakilerden hangisidir?
+A) Kısa mesafelerde kablosuz iletişim kurarak veri transferi yapmak.
+B) Büyük verilerin çok uzak mesafelere yüksek enerjiyle aktarılmasını sağlamak.
+C) Cihazların elektrik şebekelerine kablo ile güvenli bir şekilde bağlanmasını sağlamak.
+D) Tüm nesnelerin doğrudan IP adresleriyle internete kablolu olarak çıkmasını sağlamak.
+E) Sadece ses verilerini analog sinyaller üzerinden uzun mesafelere iletmek.
+
+Correct Answer: A
+Document Reference: Chapter-03-IoT.pdf, Bluetooth
+Rationale: Metne göre Bluetooth teknolojisi, ilk çıktığında RS-232 bağlantıya kablosuz bir alternatif olması için kısa mesafelerde veri transferi amacıyla geliştirilmiş düşük güç tüketimli bir teknolojidir. B seçeneği, Bluetooth'un kısa menzilli ve düşük enerjili doğasını tam tersi bir şekilde uzun mesafe ve yüksek enerji olarak yansıtan bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 2 [Remember | Easy] [—]
+Büyük Veri analizindeki bilgi hiyerarşisinde 'Enformasyon' basamağının 'Veri' basamağından farkı nasıl tanımlanır?
+A) Deneyimlerle zenginleştirilmiş ve tamamen karar vermeye hazır hale getirilmiş olan üst düzey bilgi aşamasıdır.
+B) Belirli bir konuya ilişkin olarak derlenmiş, sınıflandırılmış ve biçimlendirilmiş olan işlenmiş veri parçalarıdır.
+C) Ölçüm veya sayım yoluyla elde edilmiş ve hiçbir işlemden geçmemiş olan ham yapısal gerçeklerdir.
+D) Cihazlar arasındaki karmaşık iletişim ağıyla üretilmiş ve hiçbir zaman sınıflandırılamayan dağınık fiziksel kayıtlardır.
+E) Derin kavrayış sağlayarak gelecekteki problemleri tamamen ortadan kaldırmayı garantileyen yeni nesil teknolojik bilgeliktir.
+
+Correct Answer: B
+Document Reference: Chapter-04-Big Data.pdf, Bilgi Hiyerarşisi
+Rationale: Veri (data) ham ve işlenmemiş bir gerçek iken; enformasyon (information) sınıflandırılmış, derlenmiş ve düzenlenmiş veri parçacıklarıdır. A seçeneği, Enformasyon'u tanımlamak yerine bilgi hiyerarşisindeki daha üst bir basamak olan 'Bilgi' (Knowledge) ve 'Bilgelik' (Wisdom) aşamalarına atıfta bulunan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 3 [Remember | Easy] [—]
+John Searle tarafından geliştirilen "Çin Odası" düşünce deneyinin yapay zeka alanında savunduğu temel iddia nedir?
+A) Makinelerin karmaşık problemleri insanlardan daha hızlı ve daha güvenilir şekilde çözebilecek tamamen kusursuz varlıklar olduğudur.
+B) Doğal dil işleme süreçlerinin sadece sesbilim katmanında başarılı biçimde çalıştırılarak metinlerin tamamen hatasız şekilde doğrudan süzülebileceğidir.
+C) Sembolleri biçimsel kurallara göre işlemenin o dili gerçekten ve bilinçli bir biçimde anlamakla kesinlikle aynı anlama gelmeyeceğidir.
+D) Yapay sinir ağlarının insan beynindeki biyolojik yapıyı tamamen ve kusursuzca kopyalayarak üstün fiziksel robotlara kolayca dönüşebileceğidir.
+E) Algoritmaların insanlardan gelen yüzyıllık satranç deneyimleriyle eğitilmesinin günümüzdeki modern yapay zeka için en doğru yol olduğudur.
+
+Correct Answer: C
+Document Reference: Chapter-06-AI.pdf, Çin Odası Testi
+Rationale: Çin Odası deneyi, sembollerin (Çince karakterlerin) kurallara göre dizilmesinin dışarıdan anlıyormuş gibi görünse de aslında "anlamak" anlamına gelmediğini, yani makinelerin sadece biçimsel işlem yaptığını savunur. B seçeneği, deneyin kapsamındaki asıl problemi doğal dil işlemenin sesbilim (phonology) katmanına atfeden bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 4 [Remember | Easy] [—]
+Microsoft Azure altyapısındaki "Bölge Çiftleri" (Region Pairs) mimarisinin kurulmasındaki en temel amaç aşağıdakilerden hangisidir?
+A) Şirketlerin kendi fiziksel donanımlarını fabrikalarında tamamen yerel ağlar üzerinden son derece bağımsızca ve hızlıca yönetebilmesidir.
+B) Bulut altyapısında sadece yapısal verilerin depolanması için dışarıdan izole edilmiş büyük güvenli SQL veritabanları yaratılmasıdır.
+C) Müşterilerin yalnızca kullandıkları kaynak kadar ödeme yapmasını sağlayan oldukça esnek ve yenilikçi ekonomik finansal sistemin kurulmasıdır.
+D) Olası bir felaket veya arıza durumunda verilerin otomatik olarak yedeklenen ve eşleşen diğer bölgeye güvenle geçişinin sağlanmasıdır.
+E) Tüm kullanıcıların kod yazmadan yalnızca hazır kurumsal yazılımları çok daha uygun maliyetle ve hızla kullanabileceği platformların geliştirilmesidir.
+
+Correct Answer: D
+Document Reference: Chapter-05-Bulut.pdf, Azure Ekosistemine Derinlemesine Bakış
+Rationale: Region Pairs (Bölge Çiftleri), coğrafi olarak birbirine yakın iki bölgenin eşleşerek, olası bir felaket durumunda veri yedekleme ve birinden diğerine otomatik geçiş (felaket kurtarma) yapabilmesi için kurgulanmıştır. C seçeneği, Azure'un donanım/mimari özelliği olan Bölge Çiftlerini anlatmak yerine fiyatlandırma modeli olan "Kullandıkça Öde" (Pay-As-You-Go) sistemini tanımlayan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 5 [Apply | Medium] [Misapplication Trap]
+Bir e-ticaret firması, müşterilerine ait çağrı merkezi ses kayıtlarını ve ürün değerlendirme videolarını "yapısal veri" kabul ederek standart bir ilişkisel veri tabanında (SQL) satır ve sütunlar halinde analiz etmeye çalışmaktadır. Metne göre bu analiz sürecinde düşülen yöntemsel hata aşağıdakilerden hangisidir?
+A) Çağrı kayıtları hız kısıtını doğrudan ihlal ettiği için ilişkisel veri tabanlarına işlenmeden önce her zaman tamamen sistemden silinmesidir.
+B) Yapısal verilerin NoSQL gibi yeni mekanizmalarda işlenmesi gerekirken geleneksel ilişkisel veri tabanlarına yanlışlıkla aktarılarak veri analizinin tamamen engellenmesidir.
+C) İlişkisel veritabanlarının depolanması için her zaman sadece yapısal olmayan esnek bulut veritabanlarına kesinlikle çok büyük bir fiziksel ihtiyaç duyulmasıdır.
+D) Ses kayıtlarının kullanımbilim katmanında kilitlenerek bulut bilişim hizmetlerindeki fiziksel yerel sanal makinelerin işletim sistemlerini tamamen ve doğrudan hızlıca çökertmesidir.
+E) Ses ve video gibi yapısal olmayan formatların yapısal veri zannedilerek ilişkisel veritabanlarının son derece katı satır ve sütunlarına doğrudan zorlanmasıdır.
+
+Correct Answer: E
+Document Reference: Chapter-04-Big Data.pdf, Yapısal Olmayan Veri
+Rationale: Ses ve video gibi veriler "yapısal olmayan" veri türleridir ve belirli bir modele sahip ilişkisel veri tabanlarında (katı satır ve sütunlar) tutulamazlar; bu firmada NoSQL gibi esnek yeni mekanizmalar kullanılmalıdır. B seçeneği, yapısal verilerin geleneksel ilişkisel veri tabanlarında gayet başarılı işlenebileceği gerçeğini "yanlışlıkla aktarılarak engellenmesi" şeklinde ters yüz eden bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 6 [Apply | Medium] [Counter-Intuitive Setup]
+Kriz anlarında (örneğin kaza riski) ahlaki kararların algoritmalara bırakılması ilk bakışta birçok insana korkutucu ve güvensiz gelmektedir. Ancak metinde anlatılan "Filozof Araba" senaryosuna göre bu sezginin aksine algoritmaların insanlardan çok daha etik kararlar verebilmesinin altında yatan işleyiş ilkesi nedir?
+A) Algoritmaların korku ve panik gibi içgüdülere sahip olmaması sayesinde önceden kodlanan ahlaki felsefi kuralları kriz anlarında sarsılmaz bir soğukkanlılıkla uygulamasıdır.
+B) İnsanların tehlike anında ahlak felsefesini mükemmel şekilde hatırlayarak sadece kendi canlarını değil çevrelerindeki yayaları da çok büyük bir kolaylıkla koruyabilme kapasiteleridir.
+C) Bilgisayarların yalnızca yapısal verilerle çalışarak fiziksel dünyadaki çocukları ve engelleri hiçbir zaman algılayamaması ve bu sayede ahlaki sorumluluktan tamamen kurtulmasıdır.
+D) Otonom arabaların kaza yapma ihtimali olan durumlarda sadece bulut bilişim merkezlerine sinyal göndererek motorlarını uzaktan tamamen durdurmaya özel ve kusursuz programlanmasıdır.
+E) Yapay zekanın genetik algoritmalar sayesinde insanlardan gelen yüzyıllık kaza verilerini ezberleyerek sadece geçmiş kaza türlerinde kusursuzca ve son derece mükemmel kararlar alabilmesidir.
+
+Correct Answer: A
+Document Reference: Chapter-06-AI.pdf, Filozof Araba
+Rationale: Metne göre otonom arabalar korku veya panik hissetmedikleri için kaza riski anında duygusal tepki vermek yerine kodlanan etik-felsefi prensipleri (şayet doğru kurgulanmışsa) çok daha istikrarlı uygulayabilirler. B seçeneği, insanların kaza anında ahlak felsefesini mükemmel uyguladığını iddia ederek metindeki insanların paniğe kapıldığı gerçeğini tersine çeviren bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 7 [Apply | Medium] [Boundary Case]
+Bir yazılım ekibi, yeni geliştirdikleri uygulamanın kodlarını kendileri yazmakta ve mantığını kurgulamaktadır; ancak sunucuların kurulumu, işletim sistemlerinin güncellenmesi veya fiziksel ağ yönetimi gibi hiçbir altyapı işiyle uğraşmak istememektedirler. Metindeki sınıflandırmaya göre bu ekibin bulut bilişimde konumlandığı sınır noktası hangisidir?
+A) Sadece hazır uygulamaların doğrudan kullanıldığı ve yeni kodlamaya hiçbir şekilde izin verilmeyen kapalı Software as a Service (SaaS) sınır modelidir.
+B) Uygulama mantığının tamamen kullanıcıda, altyapı yönetiminin ise sadece bulut sağlayıcısında olduğu esnek Platform as a Service (PaaS) sınır modelidir.
+C) Sanal sunucuların, işletim sistemlerinin ve ağ ayarlarının doğrudan kullanıcı tarafından yapılandırıldığı Infrastructure as a Service (IaaS) sınır modelidir.
+D) Donanımların şirket içindeki yerel sistem odalarında fiziksel olarak barındırılarak kullanıcılar tarafından yönetildiği geleneksel kurumsal donanım mimarisi sınır modelidir.
+E) Büyük verilerin yapısal olmayan formatlarda işlenerek kümeleme algoritmalarıyla özel analiz edildiği karmaşık ve esnek makine öğrenmesi algoritmaları sınır modelidir.
+
+Correct Answer: B
+Document Reference: Chapter-05-Bulut.pdf, Bulut Sunum Modelleri
+Rationale: Ekip kod geliştirmek isteyip sunucu ve işletim sistemi altyapısını başkasına bırakmak istediği için PaaS (Platform as a Service) kullanmalıdır. C seçeneği, ekibin ihtiyaç duyduğu "altyapıyı devretme" amacının tam tersine, altyapının ve işletim sisteminin doğrudan kullanıcı tarafından yapılandırıldığı IaaS modelini işaret eden bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 8 [Apply | Hard] [Synthesis Conflict]
+Bir yandan Nesnelerin İnterneti (IoT) cihazlarının her yere yayılıp bulut sistemlerine sürekli veri aktarmasıyla yaşam kalitesinin devasa oranda artacağı savunulurken, diğer yandan bir "hacker ütü" vakasıyla kişisel bilgisayarların bile ele geçirilebileceği vurgulanmaktadır. Bir şehir planlamacısı bu iki zıt durumu metne göre pratik bir projede nasıl uzlaştırabilir?
+A) Cihazların internet bağlantılarını tamamen keserek sadece yerel sensörlerle veri toplamalarını sağlayıp bulut bilişimin getirdiği siber güvenlik risklerini tümüyle sıfırlayarak ve kalıcı olarak uzlaştırabilir.
+B) Güvenlik risklerini tamamen göz ardı edip cihaz sayısını milyonlara çıkararak veri hacmini devasa boyutlara taşıyıp hackerların bu aşırı karmaşık veri akışında doğrudan kaybolmasını bekleyerek uzlaştırabilir.
+C) Cihazları bulut ağına bağlayıp verimliliği artırırken, donanım uyumu ve standardizasyon eksikliklerini giderip veri iletişiminde üst düzey şifreleme ve güvenlik politikaları kurgulayarak ve yöneterek uzlaştırabilir.
+D) Hacker saldırılarını durdurmak için bulut bilişimdeki PaaS modelinden IaaS modeline geçiş yapıp tüm fiziksel sunucuların kontrolünü doğrudan devlet güvenlik birimlerine koşulsuz şartsız devrederek uzlaştırabilir.
+E) Sadece geleneksel Endüstri 2.0 mekanik araçlarına geri dönerek dijital verilerin manipüle edilmesini engelleyip akıllı şehir projelerini ilkel temel altyapı hizmetlerine doğrudan hızla ve kesinlikle indirgeyerek uzlaştırabilir.
+
+Correct Answer: C
+Document Reference: Chapter-03-IoT.pdf, IOT vs Güvenlik / Zorluklar
+Rationale: IoT büyük faydalar sunmasına rağmen siber saldırı, cihazların düşük işlem kapasitesi nedeniyle şifreleme zorlukları ve standardizasyon eksikliği barındırır. Ancak çözüm, interneti veya IoT'yi reddetmek değil; güvenlik algısını donanım seviyesinde güçlendirmek ve uyum problemlerini teknolojik olarak çözmektir. A seçeneği, IoT'nin temel fonksiyonu olan internet bağlantısını keserek güvenlik sağlandığını iddia edip tüm yeniliği durduran ve prensibi ihlal eden bir distraktördür (TECHNIQUE 1 — Scope Error).
+─────────────────────────────────────
+### Question 9 [Apply | Medium] [Misapplication Trap]
+Bir yazılımcı, kurduğu makine çevirisi programının kelimelerin eklerini (morfoloji) mükemmel bulduğunu ve sesleri hatasız algıladığını görmüştür. Ancak program "Ali topu at" yerine "At Ali topu" gibi dilin yapısına tamamen aykırı, hatalı sıralanmış cümleler üretmektedir. Metne göre bu programın görevini yanlış kurguladığı ve başarısız olduğu doğal dil işleme katmanı hangisidir?
+A) Ses dalgalarını sürekli akış halinden kesikli fonemlere dönüştürmekte ciddi zorluklar yaşayan donanımsal odaklı temel seviyedeki akustik analiz sesbilim (phonology) katmanıdır.
+B) Cümlelerin normal veya sözlük anlamından farklı amaçlarla, örneğin ironi veya istek olarak kullanıldığını deşifre eden gelişmiş ve karmaşık kullanımbilim (pragmatics) katmanıdır.
+C) Kelime köklerinin ve bu köklerin üzerine eklenen yapım ile çekim eklerinin kural dizgesini açıkça parçalayan ve gruplandıran yapısal çözümleyici biçimbilim (morphology) katmanıdır.
+D) Cümleyi oluşturan sözcüklerin dilbilgisine uygun bir şekilde sıralanmalarını ve yapısal görevlerinin ayrıştırılarak birleştirilmesini sağlayan kurallar bütünü sözdizimbilim (syntax) katmanıdır.
+E) Algoritmaların insan yüzündeki mimiklerden yola çıkarak kelimelerin hissi ve duygusal bağlamlarını tespit edip siyasette uyguladığı manipülatif dijital diktatörlük anlambilim (semantics) katmanıdır.
+
+Correct Answer: D
+Document Reference: Chapter-06-AI.pdf, Doğal Dil İşleme Katmanları
+Rationale: Sözcüklerin cümle oluşturmak üzere sıralanması, dilbilgisi kurallarına uyması ve bileşenlerine ayrıştırılması sözdizimbilim (syntax) seviyesinin işlevidir. C seçeneği, programın zaten başarılı olduğu kelime kök/ek analizini yapan biçimbilim (morphology) katmanını sorunun kaynağıymış gibi gösteren bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 10 [Apply | Easy] [Counter-Intuitive Setup]
+Veri madenciliğine yeni başlayan bir uzman, dünyada üretilen verilerin büyük bir kısmının sadece satır ve sütunlardan oluşan düzenli Excel veya SQL tabloları olduğunu sezgisel olarak varsayabilir. Metne göre bu varsayım Büyük Veri'nin (Big Data) hangi gerçeğiyle açıkça çelişir?
+A) Üretilen verilerin yüzde sekseninin tamamen donanımsal sensörlerden gelen şifreli sayısal sinyaller olması gerçeğiyle çelişir.
+B) Devasa veri setlerinin sadece geleneksel ilişkisel veritabanı sistemleri kullanılarak günümüzde oldukça rahatlıkla depolanabildiği gerçeğiyle çelişir.
+C) Veri analitiğinde en önemli amacın her zaman yapısal veriyi anlambilim katmanına hızlıca ve doğrudan doğrudan iletmek olması gerçeğiyle çelişir.
+D) Yapısal verilerin yarı yapısal JSON formatlarına hiçbir özel yazılım kullanılmadan doğrudan aktarılabildiği gerçeğiyle ve pratikliğiyle çelişir.
+E) Günümüzde üretilen verilerin yüzde sekseninden fazlasının video, ses veya serbest metin gibi yapısal olmayan formatlarda olması gerçeğiyle çelişir.
+
+Correct Answer: E
+Document Reference: Chapter-04-Big Data.pdf, 5V - Variety
+Rationale: Günümüzde üretilen verilerin (büyük verinin) %80'inden fazlası satır ve sütunlara sığmayan yapısal olmayan (video, ses, metin) verilerden oluşur. B seçeneği, devasa verilerin geleneksel sistemlerle rahatça depolanabildiğini iddia ederek büyük veri problemlerinin temelini oluşturan hacim gerçeğini tersine çeviren bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 11 [Apply | Medium] [Boundary Case]
+Bir hastane, hastaların yaş, kan basıncı ve genetik geçmiş verilerini sisteme yüklemiştir. Geliştirilen algoritma, hastanın belirli bir genetik hastalığa "sahip" veya "sahip değil" şeklinde iki farklı durumdan birine kesin olarak atanmasını sağlamaktadır. Metne göre bu sınır durumunda kullanılan makine öğrenmesi modeli aşağıdakilerden hangisidir?
+A) Verileri daha önceden bilinen kesin ve etiketli kategorilere ayırmayı amaçlayan denetimli öğrenme yöntemlerinden biri olan Sınıflandırma (Classification) modelidir.
+B) Bağımsız değişkenler üzerinden geleceğe dönük kesintisiz ve sürekli sayısal değerleri tahmin etmeyi amaçlayan denetimli öğrenme yöntemlerinden Regresyon (Regression) modelidir.
+C) Veri seti içerisinde etiket olmadan doğal örüntüleri bularak hastaları birbirine benzeyen belirsiz gruplara ayıran denetimsiz öğrenme yöntemlerinden Kümeleme (Clustering) modelidir.
+D) Herhangi bir insan veya etiket müdahalesi olmadan tamamen kendi kendine deneme yanılma yoluyla strateji geliştiren geleneksel Uzman Sistemler (Expert Systems) modelidir.
+E) Doğal dil işleme teknolojileri kullanılarak doktor notlarını yapısal veriye dönüştürmeyi hedefleyen ve sesleri ayrıştıran karmaşık dilsel Biçimbilim (Morphology) modelidir.
+
+Correct Answer: A
+Document Reference: Chapter-06-AI.pdf, Sınıflandırma, Regresyon ve Kümeleme
+Rationale: Hastaları var/yok veya hasta/sağlam gibi önceden bilinen keskin kategorilere (etiketlere) ayırmak, denetimli öğrenmenin bir dalı olan Sınıflandırma (Classification) problemidir. B seçeneği, bağımsız değişkenlerle bağımlı değişkenleri bulmasına karşın bunu kategorik sonuçlar yerine sayısal ve kesintisiz (fiyat, yaş tahmini gibi) sonuçlar veren Regresyon modeline atfederek yanlış kavram sunan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 12 [Apply | Hard] [Synthesis Conflict]
+Metinde Çin'in "Made in China 2025" planıyla ucuz iş gücüne dayalı üretimden çıkarak yüksek teknoloji üreten bir küresel güce dönüşmek istediği belirtilir. Aynı zamanda bu teknolojik dönüşümün (Endüstri 4.0) dünya çapında milyonlarca işçiyi gereksiz kılacağı vurgulanır. Çin'in bu devasa otomasyon hamlesi kendi devasa nüfusu açısından metne göre nasıl analitik bir çelişkiye veya sonuca yol açar?
+A) İnsanların tamamen işsiz kalması durumunda Çin hükümetinin teknoloji üretimini tamamen durdurup herkesi yeniden tarım ve hayvancılığa mecburen geri yönlendirmesiyle sonuçlanacaktır.
+B) Çin'in yüksek katma değerli teknoloji liderliği hedefine ulaşırken üretimdeki devasa otomasyon nedeniyle vasıfsız milyonlarca fabrika işçisinin kitlesel işsizlik kriziyle kesinlikle yüzleşmesine neden olacaktır.
+C) Bulut bilişim altyapılarının sadece Amerika'da bulunması nedeniyle Çin'in bu planı asla gerçekleştiremeyip tamamen dışa bağımlı geleneksel bir sömürge devletine dönüşmesiyle hüsranla sonuçlanacaktır.
+D) Robotların üretimi ele geçirmesinin ardından, Çin'deki işçilerin tamamının doğal dil işleme yazılımlarıyla eğitilerek sadece felsefe ve sanat alanlarında mutlak uzmanlaşmasıyla sonuçlanacaktır.
+E) Çin'in ürettiği yüksek teknolojili otonom arabaların Turing testini geçerek tamamen insan duygularına sahip olması sayesinde işsizlik krizini çok şefkatli yollarla sonsuza dek çözmesiyle sonuçlanacaktır.
+
+Correct Answer: B
+Document Reference: Chapter-01 & Chapter-02, Ekonomik Kırılmalar
+Rationale: Çin, teknoloji üreten dünya lideri olup kalitesiz ve ucuz üretim imajını yıktıkça üretimini otonom hale getirecek; bu Endüstri 4.0 hamlesi de doğal olarak Çin'in şu an bel bağladığı devasa nüfusun (vasıfsız milyonlarca işçinin) kitlesel işsiz kalması gibi büyük bir sosyal krize zemin hazırlayacaktır. A seçeneği, otomasyon krizi nedeniyle Çin'in teknoloji hamlesini tamamen durdurup eskiye döneceğini iddia ederek metindeki endüstriyel gelişim yönünü tamamen tersine çeviren bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 13 [Analyze | Medium] [Misapplication Trap]
+Büyük ölçekli ve köklü bir şirket, sistemlerini 3 yıl boyunca kesintisiz ve devasa bir kapasiteyle bulutta barındırmak istemektedir. Ancak finans departmanı, maliyetleri güvenceye almak amacıyla anlık, gerçek zamanlı ve sadece işlem yapıldığında ücret yazan "Spot Fiyatlandırma" (veya Kullandıkça Öde) modelini seçerek uzun vadeli sözleşme yapmaktan kaçınmıştır. Metne göre bu analitik karar neden yanlıştır?
+A) Şirketlerin bulut bilişim altyapılarını kullanabilmeleri için mutlaka IaaS hizmet modelini tercih edip donanım maliyetlerini doğrudan şirket içinde devasa odalarda barındırmaları her zaman zorunlu olduğundandır.
+B) Spot fiyatlandırma modeli yalnızca veritabanı yönetim sistemleri (PaaS) için tasarlandığından sanal makine kurulumlarında hiçbir şekilde teknik olarak aktif edilemediğinden ve altyapı sağlamadığındandır.
+C) Uzun vadeli ve kesintisiz yoğun kullanım gerektiren projelerde Rezerve Kapasite modeli yerine anlık modeller kullanmanın maliyet avantajını tamamen ortadan kaldırmasından ve çok büyük risk taşımasındandır.
+D) Kullandıkça öde modeli sayesinde büyük verilerin yapısal formata dönüştürülmesi engellendiğinden şirketin veri analizi süreçlerinin yasalara aykırı olarak tamamen ve doğrudan doğrudan sekteye uğramasıdır.
+E) Azure sistemlerinde 3 yıllık uzun vadeli sözleşmeler sadece devlet kurumlarına tahsis edildiğinden özel şirketlerin mecburen ve istisnasız olarak daima Spot Fiyatlandırma kullanmak zorunda bırakılmasıdır.
+
+Correct Answer: C
+Document Reference: Chapter-05-Bulut.pdf, Azure Fiyatlandırma Modelleri
+Rationale: Kesintisiz ve uzun yıllar sürecek donanım kullanımları için Azure "Rezerve Kapasite" (Reserved Instances) sunar ve bu model %72'ye varan büyük tasarruflar sağlar. Anlık (Kullandıkça Öde) veya boşta kalan kaynakların kiralandığı (Spot) modeller, uzun vadeli ve kesintisiz projelerde daha yüksek maliyet ve kesinti riski yaratır. B seçeneği, "Spot Fiyatlandırma" modelinin sadece PaaS için kullanılabileceğini iddia ederek fiyatlandırma planını yanlış bir teknik kavrama hapseden bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 14 [Analyze | Medium] [Counter-Intuitive Setup]
+Birçok kişi Nesnelerin İnterneti (IoT) sistemlerinde cihazların akıllı kararlar almasının ve fiziksel dünyaya müdahale etmesinin doğrudan sensörler tarafından kendi başlarına gerçekleştirildiğini sanır. Ancak metindeki katmanlı mimariye göre, bu fiziksel müdahale sezgilere aykırı biçimde nasıl bir analizden geçer?
+A) Sensörler algılama katmanında sadece çevresel veriyi okur, bu veri kenar bilişim olmadan doğrudan uygulama katmanındaki mobil telefonların devasa hafızasında kalıcı depolanıp sadece orada silinerek işlenir.
+B) Algılama katmanındaki cihazlar hiçbir ağ katmanına ihtiyaç duymaksızın kısa menzilli Bluetooth sinyalleriyle kendi aralarında otonom şekilde anlaşarak devasa bulut algoritmalarını doğrudan bizzat ve sürekli yönetir.
+C) Uygulama katmanındaki veriler büyük veri analizi yapılmadan doğrudan veritabanı sunucularına iletildiği için sensörlerin kendi başlarına hareket edip anlık ve zeki karar vermesi sistemsel olarak tamamen imkansızdır.
+D) Sensörlerin algıladığı ham veri ağ katmanıyla veri işleme katmanına iletilip burada analiz edildikten sonra üretilen karar fiziksel eylem için tekrar algılama katmanındaki aktüatörlere donanımsal olarak doğrudan gönderilir.
+E) Akıllı şehir projelerinde fiziksel müdahale sadece vatandaşların şikayetleri sonucunda manuel olarak yapıldığından donanımların herhangi bir veri analizi sonucunda otomatik işlem yapma yetkisi kesinlikle hiçbir koşulda yoktur.
+
+Correct Answer: D
+Document Reference: Chapter-03-IoT.pdf, Mimari Katmanları
+Rationale: Sensörler tek başlarına eylem yapamazlar; onlar ham veriyi toplar, ağ katmanı bunu veri işleme katmanına taşır. Veri işlendikten sonra fiziksel eylem (örneğin kapağın açılması) tekrar algılama katmanında yer alan 'Aktüatörlere' (eylemcilere) gönderilerek gerçekleştirilir. A seçeneği, sensörlerin veriyi topladığını doğru ifade etmesine rağmen verinin uygulama katmanındaki telefonlarda kalıcı depolanıp orada silindiğini belirterek gerçeğin sadece bir kısmını doğru sunan kısmi doğru bir distraktördür (TECHNIQUE 3 — Partial Truth).
+─────────────────────────────────────
+### Question 15 [Analyze | Medium] [Boundary Case]
+Küresel bir banka, saniyede milyonlarca finansal işlemi (Hız, Hacim) hatasız ve anlık biçimde sınıflandırmaktadır (Değer). Ancak bu veriler içerisinde yer alan bazı kaynakların sahte hesaplar ve manipüle edilmiş log kayıtları içerdiği uzun bir süre boyunca tespit edilememiştir. Metne göre bu sınır vakası büyük verinin hangi boyutundaki analitik zafiyeti açıkça ortaya koymaktadır?
+A) Üretilen verilerin yalnızca yapısal formatta olmasından kaynaklı olarak Çeşitlilik (Variety) boyutundaki heterojen yapı kısıtlamalarının aşılamaması zafiyetini açıkça ortaya koyarak sisteme doğrudan zarar vermektedir.
+B) İşlemlerin saniyede milyonlarca kez gerçekleşmesi nedeniyle geleneksel sistemlerin donarak Hız (Velocity) boyutundaki akışın ve sürekli veri iletiminin sekteye uğraması zafiyetini sistem içinde tamamen ortaya koymaktadır.
+C) Büyük verinin şirket için hiçbir ekonomik kazanca dönüşememesi ve süreçlere katkı sağlayamaması sebebiyle doğrudan Değer (Value) boyutunun hiçbir zaman işleyememesi zafiyetini son derece net bir biçimde ortaya koymaktadır.
+D) Depolanan verilerin petabaytlar seviyesini aşarak fiziksel sunucuların donanım sınırlarını patlatması sebebiyle temel Hacim (Volume) boyutundaki yapısal kapasite yetersizliği zafiyetini açıkça ve bütünüyle ortaya koymaktadır.
+E) Toplanan verinin içinde aldanma, sahtelik veya anomali barındırması nedeniyle güvenilir ve kaliteli bilginin sağlanamaması anlamına gelen Doğrulama/Gerçeklik (Verification/Veracity) boyutundaki güvenlik zafiyetini çok açıkça ortaya koymaktadır.
+
+Correct Answer: E
+Document Reference: Chapter-04-Big Data.pdf, Verification/Veracity
+Rationale: Verilerin çok, hızlı ve analiz edilmiş (değerli) olması yetmez; metne göre verinin güvenilirliği, sahteliği ve anomali barındırmaması büyük verinin 5V'sinden biri olan Verification/Veracity (Doğrulama/Gerçeklik) konusudur. C seçeneği, bankanın analizlerle zaten değerli işlemler (kârlılık) ürettiği belirtilmesine rağmen, bu zafiyetin şirkette hiçbir değere dönüşmediğini iddia ederek sorunu yanlış boyuta bağlayan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 16 [Analyze | Hard] [Synthesis Conflict]
+Metinde otonom araçların yaygınlaşmasıyla şoförlük mesleğinin yok olacağı ve bunu engellemenin delilik olduğu vurgulanır. Aynı metnin başka bir yerinde ise insansız hava araçlarının (Predator) operasyonları için onlarca insana ihtiyaç duyulduğu ve pilotluk bitse de yeni mesleklerin doğduğu belirtilir. Bu iki bilginin analitik sentezi yapıldığında otomasyonun istihdam üzerindeki asıl etkisi nasıl açıklanır?
+A) Geleneksel meslekler ortadan kalkarken makinelerin idamesi, uzaktan kontrolü, veri analizi ve siber güvenlik gibi teknolojiye destek veren yepyeni bilişsel iş sahalarının zorunlu olarak tarihte yeniden doğmasıdır.
+B) Makinelerin sadece kas gücüne dayalı fiziksel işleri elimizden alması nedeniyle insanların tüm zihinsel yeteneklerini koruyarak eski klasik sanayi devrimi pozisyonlarında güvenle ve huzurla çalışmaya kesintisiz devam etmesidir.
+C) Yeni işlerin yalnızca Amerika Birleşik Devletleri gibi gelişmiş ülkelerde doğması sebebiyle dünyanın geri kalanında tüm insanların mecburen evrensel temel gelir modeliyle tamamen işsiz olarak teknoloji kullanmadan yaşamasındandır.
+D) Otonom algoritmaların bakım ve onarım gerektirmeyecek düzeyde mükemmel olması nedeniyle gelecekte insan emeğine duyulan her türlü ihtiyacın mutlak suretle tamamen sıfıra inerek yok olmasıyla ve bitmesiyle sonuçlanmasıdır.
+E) Siyasetçilerin otonom araçların kullanımını sadece askeri alanlarla sınırlaması sayesinde sivil hayattaki şoförlerin işlerini güvence altına alarak geleneksel ulaşım altyapısını sonsuza dek aynen korumasıyla ve kesinlikle idame ettirmesidir.
+
+Correct Answer: A
+Document Reference: Chapter-06-AI.pdf, İnsan VS Makine
+Rationale: Otonom sistemler (örneğin Predator İHA'lar veya otonom araçlar) klasik fiziksel meslekleri (pilot, şoför) bitirse de; bu araçların uzaktan kumandası, veri analizi, bakım onarımı ve siber güvenliği için insan gücüne dayalı daha nitelikli yeni iş kolları yaratılmaktadır. D seçeneği, makinelerin gelecekte insan emeğine dair tüm ihtiyacı mutlak suretle sıfırlayacağını iddia ederek metinde ifade edilen "yeni teknolojik istihdam" alanlarını bütünüyle ters yüz eden bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 17 [Analyze | Medium] [Misapplication Trap]
+İnsan kaynakları departmanında çalışan bir yönetici, işe alım süreçlerindeki ırkçı ve cinsiyetçi önyargıları ortadan kaldırmak amacıyla, adayların verilerini sadece geçmişte işe alınmış insanların önyargılı tercih kayıtlarıyla eğitilmiş bir makine öğrenmesi algoritmasına devretmiştir. Ancak algoritma yine benzer ayrımcı sonuçlar üretmiştir. Metne göre bu durumun analitik sebebi nedir?
+A) Makinelerin bilinç kazanarak Turing testini geçmesi ve kendi içlerindeki gizli duygularla bağımsız bir şekilde ırkçı ve kadın düşmanı kararlar almayı bizzat bilinçli olarak kendi kendilerine doğrudan doğruya tercih etmesidir.
+B) Makinelerin bilinçaltı olmamasına rağmen insanların hatalı ve önyargılı programlamalarının veya kusurlu verilerinin algoritmaya aktarılması sonucunda sistemin bu insani hataları aynen kopyalayarak yansıtma riskini doğrudan taşımasıdır.
+C) İnsanların duygusal karar alma süreçlerinin algoritmalardan her zaman üstün olması nedeniyle makine öğrenmesi modellerinin iş dünyasında ve yönetim süreçlerinde kullanılmasının felsefi olarak tamamen ve kesinlikle hukuken yasaklanmasıdır.
+D) Doğal dil işleme algoritmalarının adayların sadece ses frekanslarını analiz ederek anlambilim katmanında kilitlenmesi ve adayların akademik yeterliliklerini hiçbir şekilde ve kesinlikle okuyamaması sebebiyle sistemi doğrudan dondurmasıdır.
+E) Algoritmaların sadece yarı yapısal JSON verilerini işleyebilmesi nedeniyle karmaşık özgeçmiş dosyalarını ilişkisel veritabanlarına aktaramaması ve bu yüzden analiz sürecini tamamen iptal ederek sistemi doğrudan tamamen kalıcı durdurmasıdır.
+
+Correct Answer: B
+Document Reference: Chapter-06-AI.pdf, Objektif Kararlar
+Rationale: Algoritmaların kendisinde ırkçılık veya duygusal bir bilinçaltı yoktur; ancak onları eğiten veriler geçmişteki önyargılı insanların kararlarından oluşuyorsa veya mühendisler bilinçsiz önyargılarını koda döküyorsa makine öğrenmesi aynı ayrımcılığı (ve hataları) kopyalayacaktır. A seçeneği, makinelerin bilinçaltı barındırmadıkları bilgisinin aksine, bilinç geliştirerek bilerek ırkçılık yaptıklarını iddia eden tersine çevrilmiş bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 18 [Analyze | Medium] [Counter-Intuitive Setup]
+Demokratik sistemlerde seçimlerin mantıksal ve rasyonel argümanlar üzerine kurulu olduğu ve her bireyin eşit bir entelektüel değerlendirme ile oy kullandığı sezgisel olarak savunulur. Ancak metindeki "Hacking Human" ve "Brexit" analizlerine göre, devasa verileri işleyen algoritmalar bu demokratik süreci sezgilere aykırı biçimde nasıl bir "kukla gösterisine" dönüştürebilir?
+A) Algoritmaların yalnızca insanların akademik bilgi seviyesini test ederek sadece eğitimli bireylerin oylarını geçerli kılan yapısal bir filtreleme sistemi kurmasıyla demokratik katılımı doğrudan ve kesinlikle tamamen kendi kendine engellediği içindir.
+B) Şirketlerin kendi fiziksel donanımlarını fabrikalarında tamamen yerel ağlar üzerinden bağımsızca yönetebilmesinin küresel oylama sistemlerini donanımsal olarak kilitlemesi ve siyaseti tamamen durdurmasıyla ve doğrudan bloke etmesiyle gerçekleştiği içindir.
+C) İnsan kararlarının mantıktan çok yönlendirilebilir duygulara dayanması ve algoritmaların bu hisleri deşifre edip manipüle ederek özgür iradeyi gizlice kendi çıkarları doğrultusunda rahatça etkileyebilme ve doğrudan yönlendirebilme gücüne ulaşmasıdır.
+D) Doğal dil işleme programlarının anlambilim katmanında sürekli çökmesi nedeniyle propaganda metinlerinin algılanamaması ve insanların teknolojik gelişmelerden korkarak sadece geleneksel yöntemlere doğrudan doğruya sonsuza kadar dönmek istemesidir.
+E) Otonom arabaların kaza anlarında panikleyen insanlardan daha yavaş karar vermesi gerçeğinden yola çıkan kitlelerin tüm yapay zeka algoritmalarını sandık sonuçlarıyla tamamen yasaklama eğilimine doğrudan doğruya kolayca ve sıklıkla girmesidir.
+
+Correct Answer: C
+Document Reference: Chapter-04-Big Data.pdf, Hacking Human
+Rationale: Seçimler (Brexit örneği gibi) insanların mantıklı değerlendirmesinden çok duygularına ("Ne hissediyorsunuz?") dayanır. Eğer büyük veri ve algoritmalar insanların yüzlerinden veya tıklamalarından bu duyguları analiz edebilirse, bu hisleri rahatça yönlendirerek demokratik süreci manipüle edebilirler. D seçeneği, insanların propaganda metinlerini doğal dil işleme yüzünden algılayamadığını belirterek metindeki konuyu alakasız bir AI bileşenine yanlış şekilde atfeden bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 19 [Analyze | Hard] [Boundary Case]
+Turing Testi'ne katılan bir yapay zeka, karşısındaki sorgulayıcı yetişkin bir insanın sorduğu şiirsel ve felsefi bir soruya "Evet" veya "Hayır" gibi son derece kısa, kısıtlı ve donuk cevaplar vermiştir. Buna rağmen sorgulayıcı, karşısındakinin küçük bir çocuk olabileceğini düşünerek onun insan olduğuna kanaat getirmiştir. Metne göre bu spesifik sınır durumunda Turing Testi'nin hangi analitik açığı ortaya çıkmaktadır?
+A) Makinelerin sesbilim ve sözdizimbilim katmanlarında her zaman tamamen kusursuz çalışarak şiirsel metinleri insanlardan çok daha yüksek bir edebi ahenkle doğrudan ve sürekli olarak çok büyük başarıyla kendilerinin yazabildiğini kesinlikle kanıtlamasıdır.
+B) Sorgulayıcının yalnızca makinenin fiziksel donanımını ve elektronik çiplerini inceleyerek karar vermesi nedeniyle testin yazılı veya sözel mülakat kısımlarının hiçbir bilimsel geçerliliğinin kalmamasının doğrudan doğruya büyük açıklar yaratmasıdır.
+C) Bilgisayarların insan beynindeki nöronların elektriksel özelliklerini kopyalayarak biyolojik bir varlık gibi doğrudan hücresel yollarla hissetmeye başlamasının getirdiği kusursuz bir simülasyon başarısının test esnasında açıkça ve derinden hissedilmesidir.
+D) Testin, deneye tabi tutulan insanın yaş veya eğitim kimliğini (örneğin kısıtlı cevaplar veren küçük bir çocuk olma ihtimalini) ayırt edememesi nedeniyle oluşan kimlik ve beklenti belirsizliğinin deneyin güvenirliğinde zafiyetler yaratmasıdır.
+E) Çin Odası deneyinde olduğu gibi makinelerin sembolleri anlamadan yalnızca kurallara göre dizmesinin Turing Testi'nde her zaman doğrudan başarısızlıkla ve kesin iptalle sonuçlanması kuralının hiçbir şekilde aşılamayarak sürekli kilitlenmesi sorunudur.
+
+Correct Answer: D
+Document Reference: Chapter-06-AI.pdf, Turing Testi (Açık Noktalar)
+Rationale: Turing Testi'nin eksikliklerinden biri, karşıdakinin "kimliğini" bilmemesidir; bir çocuk sadece evet/hayır dese bile insan sayılır, bu yüzden basit bir makinenin kısıtlı cevaplarla dahi "çocuk" zannedilerek testi geçebilmesi deneyin zayıf noktasıdır. E seçeneği, Çin Odası eleştirisini içererek doğru bir kavram kullanmasına rağmen, bu deneyin Turing Testi'ni otomatik olarak her seferinde başarısızlığa uğrattığı sonucunu uyduran yanlış bir misattribution'dur (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 20 [Analyze | Hard] [Synthesis Conflict]
+Bilimkurgu romanlarında makinelerin üstün bir zekaya ulaştıktan sonra insanlara acıyarak veya onlardan nefret ederek (bilinç kazanarak) isyan ettikleri anlatılır. Ancak metinde otonom araçların ahlaki kararları ve dijital diktatörlük riski sentezlendiğinde, gerçek hayattaki yapay zekanın "sorun çözme gücü" ile "bilinç" arasındaki uçurum neden asıl tehlikeyi oluşturur?
+A) Algoritmalar bilinç kazanarak Turing testini geçtiklerinde duygusal merhamet geliştirecekleri için savaşları her koşulda reddederek insanları tamamen barışçıl bir şekilde sonsuza kadar korumaya kesinlikle odaklanacaklarından ve bu yüzden devrim yaratacaklarından dolayıdır.
+B) Yapay zekanın sorun çözme kapasitesinin çok düşük olması nedeniyle bilinç kazansa bile sadece basit işlemleri yapabilmesi ve bu yüzden insanlığa yönelik hiçbir teknolojik tehdit yaratamaması gerçeğinin toplumdaki yanlış önyargılarla çelişmesidir.
+C) İnsanların duygusal karar alma süreçlerinin algoritmalardan her zaman üstün olması nedeniyle makine öğrenmesi modellerinin otonom araçlarda ve yönetim süreçlerinde kullanılmasının felsefi olarak tamamen ve kesinlikle yasaklanmasının kaçınılmaz hale gelmesidir.
+D) Bilgisayarların yalnızca yapısal verilerle çalışarak fiziksel dünyadaki engelleri hiçbir zaman algılayamaması ve otonom araçların kaza yapma riskini tamamen bilinçli bir biçimde her zaman sıfırlaması kısıtlamasının asıl felaketi teknolojik olarak tetiklemesidir.
+E) Üstün sorun çözme zekasına ulaşan makinelerin sevgi veya öfke gibi duygusal bir bilinç geliştirmeden, zalim insan efendilerinin kodladığı ölümcül hedefleri en ufak bir ahlaki itiraz göstermeden kusursuzca ve hiç durmadan aynen yerine getirmesidir.
+
+Correct Answer: E
+Document Reference: Chapter-06-AI.pdf, Sonuç (Zeka ve Bilinç)
+Rationale: Metne göre "bilinç" (duygu) ile "zeka" (sorun çözme) farklıdır. Asıl risk bilgisayarların duygu geliştirip bize düşman olması değil; hiçbir merhamet, empati veya itiraz duygusu (bilinci) olmadan, otoriter liderlerin verdiği zalim kodları mükemmel bir zekayla şaşmadan uygulamalarıdır. A seçeneği, bilgisayarların bilinç kazanarak merhamet edip savaşı engelleyeceklerini söyleyerek metnin tehlike analizini tam zıddına dönüştüren bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 21 [Evaluate/Synthesize | Hard] [Misapplication Trap]
+Bir perakende şirketi; müşterilerinin yaş, cinsiyet ve alışveriş tarihlerini mükemmel bir SQL veri tabanında satır ve sütunlar halinde hata olmadan toplamış (Enformasyon) ve bu sistemi "büyük veri bilgeliğine (Wisdom) ulaştık" diyerek basına duyurmuştur. Metindeki "Veriden Bilgeliğe" hiyerarşisi analiz edildiğinde şirketin bu iddiasındaki felsefi ve yöntemsel kopukluk aşağıdakilerden hangisidir?
+A) Bilgeliğin (Wisdom) derlenmiş verilerin ötesine geçerek bu bilgilerden çıkarılan derin kavrayışla (Insight) geleceğe yönelik stratejik karar alma yeteneği olmasını göz ardı edip sadece tasnif edilmiş basit kayıtlara itibar etmeleridir.
+B) Müşterilerin kişisel verilerini geleneksel ilişkisel veri tabanlarına kaydederken hız ve çeşitlilik kısıtlarını doğrudan ihlal ettikleri için verilerin tamamen silinerek anlamsızlaşması ve hiçbir şekilde kullanılamayacak bozuk bir yapıya dönüşmesidir.
+C) Büyük verinin her zaman yapısal olmayan formatlarda olması gerektiği ilkesini tamamen yıkarak sadece yapısal verilerle analiz yapmanın veri madenciliğinde yasal olarak büyük bir suç teşkil ettiğini bütünüyle unutarak sistemlerini kurmalarıdır.
+D) Karar destek mekanizmalarında kullanılan yapay sinir ağlarının yalnızca ses ve video analiz edebilmesi nedeniyle müşterilerin demografik yaş ve cinsiyet verilerini işleyemeyip sistemi anında ve doğrudan bloke ederek sonsuza kadar kilitlemesidir.
+E) Toplanan verilerin içinde aldanma ve sahtelik barındırması nedeniyle güvenilir bilginin sağlanamaması anlamına gelen doğrulama boyutunu geçemeden doğrudan yapay zekanın kullanımbilim katmanında felsefi problemleri kusursuzca çözmeye bizzat heveslenmeleridir.
+
+Correct Answer: A
+Document Reference: Chapter-04-Big Data.pdf, Bilgi Hiyerarşisi
+Rationale: Bilgi hiyerarşisine göre, verilerin derlenip sınıflanması sadece "Enformasyon" aşamasıdır. "Bilgelik" (Wisdom) aşaması, bu verilerden elde edilen örüntüler ve içgörülerle (Insight) yeni kararlar almayı, problemleri aşmayı ifade eder. Şirketin sadece SQL kayıtlarına bakarak bilgelik iddia etmesi, bu aşamaları anlamadığını gösterir. E seçeneği, şirketin verilerindeki sorunun doğrulama (Verification) veya kullanımbilim (NLP) katmanından kaynaklandığını öne sürerek şirketin temel sınıflandırma iddiasını alakasız teknolojik sorunlara bağlayan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 22 [Evaluate/Synthesize | Hard] [Counter-Intuitive Setup]
+Genellikle insan işçilerin, makinelerden farklı olarak eşsiz yaratıcılıklara ve sürekli öğrenme kapasitesine sahip olduğu için her zaman daha güncel ve avantajlı kalacağı düşünülür. Ancak metindeki "Güncellenebilir Gerçekler" analizi sentezlendiğinde, insanların bu bireyselliği sezgilere aykırı bir şekilde neden devasa bir dezavantaja dönüşmektedir?
+A) İnsanların beyin yapılarının genetik algoritmalar tarafından sürekli kopyalanması nedeniyle bireysel tüm yaratıcılıklarının sıradanlaşarak otonom cihazların işlemci donanımlarına tamamen ve doğrudan fiziksel biçimde kalıcı olarak kilitlenip hapsolmasıdır.
+B) Milyarlarca bağımsız insanı aynı anda eğitip yeni bir bilgiyle (örneğin yeni bir ilaç) anında güncellemenin imkansız olmasına karşın, ağa bağlı milyonlarca yapay zekanın aynı saniyede ortak bilgiyle kusursuzca ve anında güncellenebilmesidir.
+C) Bilgisayar ağlarının sadece kenar bilişim donanımlarının yaygın olduğu modern şehir mimarilerinde işleyebilmesi ve algılama katmanındaki sensörlerin insanları felsefi düşünmeye doğrudan doğruya zorlayarak onlara işlerini unutturup zaman kaybettirmesidir.
+D) İnsanların kaza anında felsefi teorileri detaylıca hatırlayarak içgüdülerini kolayca bastırabildikleri için çok daha rasyonel davranmaları ve teknolojik cihazların bu eşsiz insan pratikliğini hiçbir şekilde modelleyemeyip sürekli çökmesinden kaynaklanmaktadır.
+E) Siber fiziksel sistemlerin sadece endüstriyel üretim hatlarındaki robot kollarını güncellemek üzere özel tasarlanmış olması sebebiyle tıp ve ulaşım gibi diğer kritik hayati alanlarda ağ iletişimini teknik olarak hiçbir zaman kesinlikle kullanamamasıdır.
+
+Correct Answer: B
+Document Reference: Chapter-03 & Chapter-06, Güncellenebilir Gerçekler
+Rationale: İnsanlar birer "birey" olduğu için (örneğin dünyadaki tüm doktorlara yeni bir ilacı aynı anda öğretmek imkansızdır) birbirlerinden farklı hızlarda öğrenirler. Oysa yapay zeka bir "ağ" olduğu için sistemdeki milyarlarca robota aynı saniyede bir güncellemeyle dünyadaki tüm yeni medikal veriler öğretilebilir. Bireysellik burada hız açısından dezavantaja döner. D seçeneği, insanların kaza anında ahlak felsefesini mükemmel şekilde hatırlayıp içgüdülerini bastırdıklarını iddia ederek metindeki rasyonellik kaybını ters yüz eden bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 23 [Evaluate/Synthesize | Hard] [Boundary Case]
+Bir görüntü işleme algoritması, kedi ve köpek fotoğraflarını birbirinden ayırmak için sadece dış hatlara bakan basit tek bir matematiksel kural kullanmaktan vazgeçmiş; bunun yerine, biyolojik beyin yapısından esinlenen ve verilerdeki pikselleri defalarca süzerek kendi kendine kediye veya köpeğe dair kompleks gizli özellikler çıkartan çok katmanlı bir ağa geçiş yapmıştır. Metindeki yapay zeka ekosistemine göre, bu modelin evrildiği sınır noktası hangisidir?
+A) Kelime köklerini ve eklerini ayıran morfolojik doğal dil işleme analiz katmanından çıkarak cümlelerin bağlamsal niyetlerini anlamaya çalışan gelişmiş felsefi ve karmaşık kullanımbilim (pragmatics) sınırına doğru ilerlemiştir.
+B) Donanım altyapısında sadece ilişkisel veritabanlarının SQL satırlarını kullanan basit bir depolama sisteminden, yapısal verileri hiçbir zaman kabul etmeyen katı ve donuk mantıksal kurallar (logic programming) sınırına geçmiştir.
+C) Önceden tanımlı mantıksal kurallarla işleyen geleneksel algoritmalar veya uzman sistemler sınırını tamamen aşarak, veriden kendi kendine öğrenen, gizli katmanlar barındıran yapay sinir ağları ve derin öğrenme sınırına geçmiştir.
+D) Etiketli veri kullanmadan nesneleri doğal özellik benzerliklerine göre gruplayan denetimsiz kümeleme sınırından, sayısal süreleri kesin küsuratlı değerlerle tahmin etmeye yarayan denetimli regresyon sınırına tamamen ve doğrudan geçmiş bulunmaktadır.
+E) Olası felaket durumlarında bulut bilişimdeki verilerin otomatik olarak farklı bir coğrafi bölgeye aktarılmasını sağlayan geleneksel veri yedekleme (Region Pairs) donanım sınırından çıkarak bağımsız siber fiziksel robotlara geçmiştir.
+
+Correct Answer: C
+Document Reference: Chapter-06-AI.pdf, Yapay Sinir Ağları ve Derin Öğrenme
+Rationale: Görüntü işlemede, basit bir kuraldan (expert system/logic programming) ziyade biyolojik sinir sisteminden esinlenerek gizli katmanlarla defalarca veriyi süzüp öğrenme sınırına geçen mimari Yapay Sinir Ağları ve Derin Öğrenme'dir. D seçeneği, bu algoritmanın görüntü sınıflandırma (kedi-köpek) özelliğini yanlışlıkla sürekli sayısal değerleri tahmin eden Regresyon modeline bağlayan bir distraktördür (TECHNIQUE 4 — Misattribution).
+─────────────────────────────────────
+### Question 24 [Evaluate/Synthesize | Medium] [Synthesis Conflict]
+Geçmişteki sanayi devrimlerinde, yeni makineler insanların fiziksel işlerini elinden alsa da insanlar araçları kullanan "yönetici ve karar verici" özne olmaya devam etmiştir. Ancak metinde anlatılan "Hacking Human" ve algoritma otoritesi verileri sentezlendiğinde, Endüstri 4.0 devriminin bu tarihsel "insan yöneticiliği" argümanını neden tamamen çürüttüğü anlaşılmaktadır?
+A) Geçmişte makineler sadece elektrik enerjisiyle çalıştıkları için çok güvenilmezken, yeni algoritmalar tamamen buhar gücüyle beslendikleri için kararlarında hiçbir sapma göstermeyerek insanları endüstriden bizzat doğrudan kesinlikle çıkarmalarından kaynaklanmaktadır.
+B) Yeni nesil yazılımların sadece anlambilim düzeyinde kelime işlem yapabilmesi nedeniyle makinelerin mantıksal tahmin yapma kapasitesinden kesinlikle yoksun kalması ve bu yüzden insanlığın yeni teknolojiyi tamamen ve kolaylıkla reddetmesinden ötürüdür.
+C) Demokratik seçimlerin yalnızca mantıklı tercihlere dayanması nedeniyle algoritmaların insanların felsefi ve rasyonel düşüncelerine erişemeyip yalnızca biyolojik verileri kopyalamakla yetinerek siyasi mekanizmalardan hızla sonsuza dek tümüyle dışlanmasıdır.
+D) Otonom algoritmaların artık sadece fiziksel kas gücünü değil, doğrudan insanların "ne hissettiğini" okuyarak onların yerine siyasi, sosyal ve ekonomik kararlar alma (bilgi ve zihinsel tekelini kırma) gücüne çok hızlı biçimde erişmesindendir.
+E) Otonom ahlaki araçların tehlike anlarındaki felsefi problemleri panikleyen insanlardan çok daha yavaş, duygusal ve kusurlu çözebildiği gerçeğinden güç alan kitlelerin küresel teknolojik vizyonu tamamen reddetmesi tarihsel hezeyanıdır.
+
+Correct Answer: D
+Document Reference: Chapter-04-Big Data.pdf & Chapter-06-AI.pdf
+Rationale: Eski devrimler insanın sadece fiziksel gücüyle yarışırken, yeni devrim (Endüstri 4.0 ve Yapay Zeka) insanın zihinsel, analitik karar alma ve hissetme (Hacking Human ile duyguları deşifre etme) yetilerini aşmaya başlamıştır; böylece insanın "karar verici özne" olma tekeli kırılır. C seçeneği, seçimlerin mantığa dayandığını ve algoritmaların siyasete erişemeyip sistemden tamamen dışlandığını iddia ederek metindeki gerçeği tamamen tersine çeviren bir distraktördür (TECHNIQUE 2 — Inversion).
+─────────────────────────────────────
+### Question 25 [Evaluate/Synthesize | Medium] [Misapplication Trap]
+Bir e-ticaret kurumu, bulut bilişim hizmetlerini kullanırken tüm altyapı güvenliğini sağlayıcıya (örneğin Azure) bırakmış, ancak kurum içi personelin verilere erişim yetkilerini ve şifrelemeyi kurgulamayı unutmuştur. Kurum, "Verilerimiz bulutta olduğu için fiziksel sunuculardan çok daha güvendedir" varsayımıyla hareket etmektedir. Metindeki bulut ve büyük veri (Doğrulama/Güvenlik) boyutları sentezlendiğinde bu yönetimin düştüğü analitik tuzak nedir?
+A) Büyük verilerin yapısal olmayan formatları bulut sistemlerine yüklendiğinde otomatik olarak kendi kendine şifrelendiğinden yöneticilerin ek bir güvenlik kurgulamasına duyulan ihtiyacın tamamen ve kalıcı biçimde gereksizleştiğine yönelik kör inançlarıdır.
+B) IoT donanımlarının yaygınlaşmasıyla birlikte siber güvenlik risklerinin sıfırlandığı varsayımı üzerine, bulut sistemindeki verilerin sadece fiziksel yerel sunucu odalarında saklanması gerektiği gibi köhnemiş eski yasal regülasyonlara ısrarla başvurmalarıdır.
+C) Bulut bilişim hizmetlerinin her zaman sadece kamuya açık şeffaf hizmet modelleri sunması nedeniyle verilerin kriptolanarak bulutta saklanmasının geleneksel teknik altyapı kısıtlamaları yüzünden yasal bağlamda kesinlikle bütünüyle yasaklanmış olmasıdır.
+D) Bulut sistemlerinde sanal makineler tamamen kapalı ağlarda çalıştığı için dışarıdan hiçbir siber saldırının içeri sızamayacağı garantisine güvenerek şirket içindeki tüm yazılım mühendislerini işten derhal çıkarmak gibi oldukça radikal kararlar almalarıdır.
+E) Bulut bilişim fiziksel donanım güvenliği sağlasa da, verinin doğru kişilerce erişilebilirliğini denetleyen "Verification/Güvenlik" mantığını şirket içinden yönetmenin halen kurumun bir sorumluluğu olduğu gerçeğini açıkça ve tümüyle göz ardı etmeleridir.
+
+Correct Answer: E
+Document Reference: Chapter-04 & Chapter-05, Verification ve Bulut Güvenliği
+Rationale: Bulut sağlayıcıları veri merkezlerini fiziksel donanım, felaket kurtarma (Region Pairs) ve temel siber ataklara karşı (Firewall) korur. Ancak uygulamanın içindeki veri erişim yetkileri, şifreleme ve "doğru kişinin doğru veriye erişmesi" (Büyük verinin Verification/Veracity kuralı) hala müşterinin (kurumun) kurgulaması gereken bir aşamadır. Bunu yapmamak büyük bir zafiyettir. A seçeneği, yapısal olmayan verilerin kendi kendine şifrelendiğini iddia ederek sorunu genel-geçer doğru gibi görünen ama metinde belirtilen kısıtlamaları (güvenlik kurgusunu) yok sayan bir yanılgıya sürükleyen distraktördür (TECHNIQUE 1 — Scope Error).
+─────────────────────────────────────
+
+## ANSWER KEY SUMMARY
+
+| Q  | Answer | Bloom's Level        | Difficulty | Scenario Frame               |
+|----|--------|----------------------|------------|------------------------------|
+| 1  |   A    | Remember             | Easy       | —                            |
+| 2  |   B    | Remember             | Easy       | —                            |
+| 3  |   C    | Remember             | Easy       | —                            |
+| 4  |   D    | Remember             | Easy       | —                            |
+| 5  |   E    | Apply                | Medium     | Misapplication Trap          |
+| 6  |   A    | Apply                | Medium     | Counter-Intuitive Setup      |
+| 7  |   B    | Apply                | Medium     | Boundary Case                |
+| 8  |   C    | Apply                | Hard       | Synthesis Conflict           |
+| 9  |   D    | Apply                | Medium     | Misapplication Trap          |
+| 10 |   E    | Apply                | Easy       | Counter-Intuitive Setup      |
+| 11 |   A    | Apply                | Medium     | Boundary Case                |
+| 12 |   B    | Apply                | Hard       | Synthesis Conflict           |
+| 13 |   C    | Analyze              | Medium     | Misapplication Trap          |
+| 14 |   D    | Analyze              | Medium     | Counter-Intuitive Setup      |
+| 15 |   E    | Analyze              | Medium     | Boundary Case                |
+| 16 |   A    | Analyze              | Hard       | Synthesis Conflict           |
+| 17 |   B    | Analyze              | Medium     | Misapplication Trap          |
+| 18 |   C    | Analyze              | Medium     | Counter-Intuitive Setup      |
+| 19 |   D    | Analyze              | Hard       | Boundary Case                |
+| 20 |   E    | Analyze              | Hard       | Synthesis Conflict           |
+| 21 |   A    | Evaluate / Synthesize| Hard       | Misapplication Trap          |
+| 22 |   B    | Evaluate / Synthesize| Hard       | Counter-Intuitive Setup      |
+| 23 |   C    | Evaluate / Synthesize| Hard       | Boundary Case                |
+| 24 |   D    | Evaluate / Synthesize| Medium     | Synthesis Conflict           |
+| 25 |   E    | Evaluate / Synthesize| Medium     | Misapplication Trap          |
+
+## ANSWER POSITION AUDIT
+A: 5 times | B: 5 times | C: 5 times | D: 5 times | E: 5 times
