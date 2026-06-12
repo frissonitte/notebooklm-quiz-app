@@ -1,0 +1,360 @@
+### Question 1 [Remember/Understand | Easy] [—]
+
+Metne göre, veri indirgeme aşamasında Temel Bileşenler Analizi'nin (PCA) temel amacı nedir?
+A) Özellikleri daha az ama daha anlamlı yeni bileşenlere dönüştürerek özellik sayısını azaltır.
+B) Ham değişkenleri toplanmış aylık sayısal satış küplerine özetleyerek toplam işlem sayısını azaltır.
+C) Sürekli değerleri kesinlikle eşit derinlikli matematiksel kategorik kutulara (bin) bölerek veri kümesi hacmini azaltır.
+D) Orijinal veri kaynaklarından rastgele temsili alt küme dizileri seçerek yapısal gürültüyü azaltır.
+E) Sınıflandırma ağacı düğümlerindeki karmaşık logaritmik fonksiyonları cezalandırarak boyutsal varyansı azaltır.
+
+Correct Answer: A
+Document Reference: "10.Hafta Topluluk Öğrenme.pptx" - 3. PCA (Principal Component Analysis)
+Rationale: Belge, PCA'nın birçok değişkeni altta yatan bilgiyi büyük ölçüde koruyarak daha az, daha anlamlı yeni değişkenlere dönüştüren bir boyut azaltma yöntemi olduğunu açıkça belirtmektedir. Çeldirici B, Yanlış Nitelendirme (Misattribution) tekniğini kullanarak PCA yerine Veri Küpü Birleştirme'nin (Data Cube Aggregation) amacını yanlış bir şekilde açıklamaktadır.
+
+### Question 2 [Remember/Understand | Easy] [—]
+
+Birliktelik kuralı madenciliğinde güven (confidence) kriteri matematiksel olarak nasıl tanımlanır?
+A) İlk öğenin frekansının toplam işlem sayısına oranını hesaplar.
+B) Öğelerin birlikte görülme sıklığının, başlangıçta seçilen ilk öğenin frekansına oranını hesaplar.
+C) Öğelerin ortak destek değerinin (joint support), bağımsız bireysel desteklerinin çarpımına oranını hesaplar.
+D) İkinci öğenin frekansının tüm işlem veri kümesinin olasılığına oranını hesaplar.
+E) Minimum alt küme eşiğinin genel algoritmik etkileşim ve korelasyon matrisine oranını hesaplar.
+
+Correct Answer: B
+Document Reference: "7.Hafta Birliktelik Analizi.pptx" - Destek ve Güven Kriterleri
+Rationale: Metin, Güven'i (Confidence), X verildiğinde Y'nin gerçekleşme olasılığı olarak tanımlar ve birlikte görülme frekansının (X, Y) ilk öğenin (X) frekansına bölünmesiyle matematiksel olarak hesaplandığını belirtir. Çeldirici C, Güven yerine Lift (Kaldıraç) kriterini hesaplamak için kullanılan formülü açıklayarak Yanlış Nitelendirme tekniğini uygular.
+
+### Question 3 [Remember/Understand | Easy] [—]
+
+Aşağıdaki ifadelerden hangisi F1-Skoru değerlendirme metriğinin matematiksel yapısını en iyi şekilde açıklamaktadır?
+A) Doğru pozitif tahminler ile yanlış negatif regresyon tahminleri arasındaki doğrudan aritmetik ortalamayı temsil eder.
+B) Kesinlikle tanımlanmış regresyon eşiklerinden türetilen sınıflandırma olasılıklarının karesel toplamını temsil eder.
+C) Kesinlik (precision) metriği ile duyarlılık (sensitivity/recall) metriği arasında açıkça hesaplanan spesifik harmonik ortalamayı temsil eder.
+D) Beklenen veri kümesi çıktıları ile gözlemlenen kategorik girdiler arasında hesaplanan mutlak sapmayı temsil eder.
+E) Etiketsiz sürekli veri kümesi yapısı içinde doğru sınıflandırılmış örneklerin toplam yüzdesini temsil eder.
+
+Correct Answer: C
+Document Reference: "5. Hafta Değerlendirme Metrikleri.pptx" - Değerlendirme Metrikleri (F1-Score)
+Rationale: Metin, F1-Skorunu özellikle dengesiz veri kümelerinde bu metrikleri dengelemek için kullanılan kesinlik (precision) ve duyarlılığın (sensitivity/recall) harmonik ortalaması olarak açıkça tanımlamaktadır. Çeldirici E, F1-Skoru yerine standart Doğruluk (Accuracy) metriğini açıklayarak Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 4 [Remember/Understand | Easy] [—]
+
+Belgeye göre, bir doğrusal regresyon denkleminde epsilon (ε) terimi spesifik olarak neyi temsil eder?
+A) Sürekli hedefin belirli birim değişimini kesinlikle dikte eden genel eğim katsayısını temsil eder.
+B) Tahmin eğrisinin dikey boyutsal Y eksenini aktif olarak kestiği kesin coğrafi noktayı temsil eder.
+C) Makine öğrenmesi algoritmasının test sırasında başarıyla açıkladığı düzeltilmiş regresyon varyans yüzdesini temsil eder.
+D) Önerilen doğrusal modelin doğası gereği matematiksel olarak açıklayamadığı rastgele, öngörülemeyen istatistiksel hata kısmını temsil eder.
+E) Tamamen dik (ortogonal) boyutsal düzlemler arasında matematiksel olarak hesaplanan koordinat farklarının mutlak toplamını temsil eder.
+
+Correct Answer: D
+Document Reference: "8.Hafta Lineer Regresyon.pptx" - ε - Epsilon Hatası
+Rationale: Belge, Epsilon'u (ε), dış gürültü veya ölçülmeyen değişkenler nedeniyle modelin başarıyla açıklayamadığı veya tahmin edemediği verilerin kısmını temsil eden rastgele hata olarak tanımlar. Çeldirici C, algoritmik hata terimi yerine Düzeltilmiş R-Kare (Adjusted R-Squared) değerlendirme metriğini açıklayarak Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 5 [Apply | Easy] [BOUNDARY CASE]
+
+Bir analistin sürekli sayısal bir değişkeni, tam olarak aynı sayıda veri örneği (instance) içeren bölmelere ayırması gerekmektedir. Analist hangi yöntemi kesinlikle uygulamalıdır?
+A) Analist, sürekli logaritmik skaler dönüşüm modelleme yöntemini kesinlikle uygulamalıdır.
+B) Analist, temel bileşen konumsal boyut küçültme yöntemini kesinlikle uygulamalıdır.
+C) Analist, eşit genişlikli standart matematiksel bölmeleme (binning) yöntemini kesinlikle uygulamalıdır.
+D) Analist, hiyerarşik birleştirici örtüşen ağaç kümeleme yöntemini kesinlikle uygulamalıdır.
+E) Analist, eşit derinlikli standart matematiksel bölmeleme (binning) yöntemini kesinlikle uygulamalıdır.
+
+Correct Answer: E
+Document Reference: "2. Hafta Veri Ön İşleme Teknikleri.pptx" - Bölmeleme
+Rationale: Eşit derinlikli (equal depth) bölmeleme, sıralanmış verilerin, ortaya çıkan her bir bölmenin (bin) aynı sayıda örnek (frekans) içereceği şekilde bölünmesini spesifik olarak gerektirir. Çeldirici C, örnek sayıları yerine aynı değer aralıklarına dayalı olarak bölen eşit genişlik (equal width) yöntemini önererek Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 6 [Apply | Medium] [MISAPPLICATION TRAP]
+
+Bir veri bilimi ekibi, daha önce yanlış sınıflandırılmış veri noktalarına öncelik vermek ve yüksek yanlılığı (bias) azaltmak için ardışık olarak (sequentially) bir Bagging algoritması uygulamaktadır. Bu durum belgedeki hangi teorik çerçeveyi ihlal etmektedir?
+A) Bagging algoritmaları, yalnızca yüksek model varyansını azaltmak için homojen modelleri paralel olarak eğitmek üzere kesinlikle tasarlanmıştır.
+B) Bagging algoritmaları, ikincil bir tahmine dayalı ardışık meta-model kullanarak farklı temel sınıflandırıcıları birleştirmek üzere kesinlikle tasarlanmıştır.
+C) Bagging algoritmaları, başlangıç sınıflandırma ağaçlarındaki tüm eksik veri kayıtlarını tamamen yok saymak üzere kesinlikle tasarlanmıştır.
+D) Bagging algoritmaları, bağımsız kategorik değişkenleri eşlemek yerine karmaşık olasılıksal eşikleri değerlendirmek üzere kesinlikle tasarlanmıştır.
+E) Bagging algoritmaları, ardışık gradyan inişi (gradient descent) adımlarını yürüterek karesel tahmin hatalarını en aza indirmek üzere kesinlikle tasarlanmıştır.
+
+Correct Answer: A
+Document Reference: "10.Hafta Topluluk Öğrenme.pptx" - 1. Bagging (Bootstrap Aggregating)
+Rationale: Açıklanan eylem Bagging değil, Boosting'dir. Bagging bu önermeyi ihlal eder çünkü bağımsız homojen modelleri ardışık olarak değil paralel olarak eğitir ve ardışık hata düzeltme yoluyla açıkça yanlılığı (bias) hedeflemek yerine model varyansını (aşırı öğrenmeyi) azaltmayı amaçlar. Çeldirici B, Stacking topluluk yöntemini açıklayarak Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 7 [Apply | Medium] [COUNTER-INTUITIVE SETUP]
+
+Sezgisel olarak, K-Means'de başlangıç küme merkezlerini seçmenin ideal olarak her çalıştırmada aynı ve istikrarlı sonuçları garanti etmesi beklenir. Metin bu varsayım hakkında gerçekte ne söylemektedir?
+A) Başlangıç küme merkezleri, algoritmanın tüm yerel optimum matematiksel uzamsal sınırları tamamen atlamasını temelden garanti eder.
+B) Başlangıç küme merkezlerinin rastgele seçilmesi, optimizasyon sonuçlarını olumsuz etkileyebilir ve oldukça kararsız sonuçlar üretebilir.
+C) Başlangıç küme merkezleri, tahmine dayalı modelin aykırı verileri tamamen ayrı kümelere atamasını kesinlikle engeller.
+D) Başlangıç küme merkezlerinin rastgele seçilmesi, uzamsal yapıyı otomatik olarak örtüşen hiyerarşik küme dizilerine dönüştürür.
+E) Başlangıç küme merkezleri, hesaplamanın tam olarak bir algoritmik iterasyon tamamlandıktan sonra hemen durmasını sürekli olarak sağlar.
+
+Correct Answer: B
+Document Reference: "12. Hafta Kümeleme.pptx" - K-means Avantaj ve Dezavantajları
+Rationale: İstikrar sezgisinin aksine belge, K-Means'in önemli bir dezavantajı olarak başlangıç küme merkezlerinin rastgele seçilmesini listeler; çünkü bu durum sonuçları olumsuz etkileyebilir ve algoritmanın farklı çalıştırmalar arasında kararsız, değişen sonuçlar vermesine neden olabilir. Çeldirici A, metin yerel optimumlara takılıp kalmayı bir risk olarak açıkça belirtirken, yerel optimumları atlamayı garanti ettiğini yanlış bir şekilde iddia ederek Tersine Çevirme (Inversion) tekniğini uygular.
+
+### Question 8 [Apply | Medium] [SYNTHESIS CONFLICT]
+
+Bir modül, erken dönem ağaç algoritmalarının sayısal özelliklerle zorlandığını belirtirken, başka bir modül daha gelişmiş bir ağaç algoritması sunmaktadır. C4.5, ID3'te bulunan sayısal kısıtlamayı nasıl çözer?
+A) Sayısal kısıtlamayı, tüm sürekli matrisleri doğası gereği tamamen paralel meta-sınıflandırıcı boru hatlarına (pipelines) dönüştürerek çözer.
+B) Sayısal kısıtlamayı, her bir veri kümesi değişkeni için kesinlikle birden fazla olasılıksal Gauss dağılımı üreterek çözer.
+C) Sayısal kısıtlamayı, standart kategorik veri bölünmelerinin yanı sıra sürekli bağımsız özellikleri yapısal olarak destekleyerek çözer.
+D) Sayısal kısıtlamayı, sürekli sayısal veri sütunlarını genel sınıflandırma sürecinden kasıtlı olarak çıkararak çözer.
+E) Sayısal kısıtlamayı, sürekli regresyon denklemlerini dinamik olarak farklı ortogonal doğrusal sınırlara eşleyerek çözer.
+
+Correct Answer: C
+Document Reference: "5. Hafta Karar Ağaçlar -C45-CART.pptx" - C4.5 Algoritması
+Rationale: ID3 yalnızca ayrık kategorik verilerle çalışırken, metin C4.5'in standart kategorik özelliklerin yanı sıra bir ayrıklaştırma (discretization) süreci yoluyla sürekli sayısal değişkenleri işlemek ve desteklemek için özel olarak tasarlandığını açıkça belirtmektedir. Çeldirici B, Naive Bayes mekanizmasını (Gauss dağılımı) bir karar ağacı algoritmasına atayarak Yanlış Nitelendirme tekniğini uygular.
+
+### Question 9 [Apply | Medium] [MISAPPLICATION TRAP]
+
+Bir tıbbi klinik, sağlıklı hastaları yanlışlıkla alarma geçirmekten kaçınmak için bir kanser teşhis algoritmasını yalnızca Kesinlik (Precision) metriğini maksimize edecek şekilde optimize etmektedir. Bu eylem hangi temel değerlendirme kısıtlamasını ihlal etmektedir?
+A) Kesinliği maksimize etmek, modeli sınırlar boyunca standart boyutsal koordinat farklarını tamamen yanlış hesaplamaya doğası gereği zorlar.
+B) Kesinliği maksimize etmek, tahmin aşaması sırasında olasılıksal çıktıları otomatik olarak ayrık doğrusal regresyon eşiklerine sistematik bir şekilde dönüştürür.
+C) Kesinliği maksimize etmek, alt kümeler içindeki bootstrap aggregation sistemleri tarafından oluşturulan başlangıç varyans değişkenlerini kasıtlı olarak şişirir.
+D) Kesinliği maksimize etmek, aşırı yanlış negatif (false negative) tıbbi teşhis hataları üretmeyle ilişkili ciddi hayati tehlike riskini kritik bir şekilde göz ardı eder.
+E) Kesinliği maksimize etmek, kategorik uzamsal vektörlerden türetilen genel küme homojenliğini açıkça azaltır.
+
+Correct Answer: D
+Document Reference: "5. Hafta Değerlendirme Metrikleri.pptx" - Değerlendirme Metrikleri (Recall vs Precision)
+Rationale: Metin, kritik sağlık teşhislerinde hasta bir kişiyi gözden kaçırmanın (Yanlış Negatif) ciddi, yaşamı tehdit eden bir risk taşıdığını vurgulamaktadır. Bu nedenle, yalnızca Kesinliğe odaklanmak (Yanlış Negatifleri göz ardı eder), bu tür yüksek riskli senaryolarda Duyarlılığa (Recall/Sensitivity) öncelik verme gerekliliğini ihlal eder. Çeldirici B, doğrusal regresyon kelime dağarcığını bir sınıflandırma değerlendirme senaryosuna yanlış uygulayarak bir Kapsam Hatası (Scope Error) tekniği kullanır.
+
+### Question 10 [Apply | Medium] [BOUNDARY CASE]
+
+Bir analist, yeni piyasaya sürülen iki perakende ürünü için birliktelik kurallarını hesaplar ve Lift (Kaldıraç) değerinin tam olarak bire eşit olduğunu keşfeder. Analist bu spesifik sınır (boundary) etkileşimini nasıl sınıflandırmalıdır?
+A) Matematiksel değer, ilk öğeyi satın almanın ikinci öğenin tam işlem satın alımını matematiksel olarak garanti ettiğini gösterir.
+B) Matematiksel değer, ilk öğeyi satın almanın ikinci öğeyi genel olarak oldukça düşük ihtimalli hale getirdiğini sistematik olarak gösterir.
+C) Matematiksel değer, her iki bağımsız öğenin temelde son derece sağlam bir hiyerarşik kümeleme uzamsal vektörünü paylaştığını gösterir.
+D) Matematiksel değer, her iki bağımsız öğenin doğası gereği ağaçlar içinde aynı bilgi kazancı (information gain) oranlarını ürettiğini gösterir.
+E) Matematiksel değer, iki farklı perakende öğesinin istatistiksel ve matematiksel bir satın alma birlikteliğinden tamamen yoksun olduğunu gösterir.
+
+Correct Answer: E
+Document Reference: "7.Hafta Birliktelik Analizi.pptx" - Destek ve Güven Kriterleri (Lift)
+Rationale: Kaynak, sınır koşulunu açıkça belirtmektedir: Eğer Lift değeri tam olarak 1'e eşitse, bu, birlikte satın alınan öğeler arasında istatistiksel bir ilişki veya birliktelik olmadığı anlamına gelir. Çeldirici B, Kısmi Doğru (Partial Truth) tekniğini kullanarak bir Lift kısıtlamasını doğru bir şekilde tanımlar ancak bunu kesinlikle birden küçük bir Lift değerine yanlış bir şekilde bağlar.
+
+### Question 11 [Apply | Hard] [COUNTER-INTUITIVE SETUP]
+
+Bir mühendis, gradyan inişini (gradient descent) anında yakınsamaya (converge) zorlamak için öğrenme katsayısını (alpha) sezgisel olarak son derece büyük bir değere yükseltir. Bu durum gerçekte nasıl bir sistemik başarısızlık üretecektir?
+A) Büyük parametre, devasa güncellemeler nedeniyle matematiksel algoritmanın doğası gereği kararsız hale gelmesine neden olur.
+B) Büyük parametre, sürekli regresyon hedefini kesinlikle paralel bir kategorik karar ağacına dönüştürür.
+C) Büyük parametre, oluşturulan sınıflandırma matrisi içindeki sıfır frekans olasılık çöküşünü (zero frequency probability collapse) anında tetikler.
+D) Büyük parametre, uzamsal küme medoidlerini (merkezlerini) standart tanımlı sınırların çok ötesine kasıtlı olarak kaydırır.
+E) Büyük parametre, örtüşen doğrusal regresyon eğrileri tarafından üretilen rastgele gürültüyü etkili bir şekilde nötralize eder.
+
+Correct Answer: A
+Document Reference: "9.Hafta Lojistik Regresyon.pptx" - Öğrenme Katsayısı/ Oranı
+Rationale: Süreci etkili bir şekilde hızlandırma sezgisinin aksine, öğrenme katsayısını çok yüksek ayarlamak, güncellemeler sırasında parametrelerin çok hızlı büyümesine neden olarak matematiksel modeli tamamen kararsız (unstable) hale getirir ve yakınsamayı (convergence) engeller. Çeldirici C, Yanlış Nitelendirme tekniğini kullanarak, Naive Bayes'in matematiksel çöküşünü (Sıfır Frekans) lojistik regresyon gradyan inişi parametreleriyle ilişkilendirir.
+
+### Question 12 [Apply | Hard] [SYNTHESIS CONFLICT]
+
+Naive Bayes kesinlikle kategorik olasılıklar için tasarlanmıştır, ancak bir analistin bunu K-Means'in yaptığı gibi tamamen sayısal ölçümlere uygulaması gerekmektedir. Model bu çelişkiyi nasıl çözer?
+A) Tahmine dayalı model, etiketlenmemiş hedef değişkenleri manuel olarak bölmek için Manhattan mesafesi algoritmalarını doğası gereği uygular.
+B) Tahmine dayalı model, sayısal sürekli özelliklerin doğal olarak standart bir Gauss normal matematiksel dağılımını izlediğini açıkça varsayar.
+C) Tahmine dayalı model, sürekli sayısal sınırları temiz bir şekilde bölmek için kesinlikle Gini indeksi toplamı ölçümlerini kullanır.
+D) Tahmine dayalı model, sayısal öznitelik alt küme dizilerini aktif olarak dönüştürmek için otomatik olarak yığınlamalı (stacking) ardışık bir meta-sınıflandırıcı entegre eder.
+E) Tahmine dayalı model, farklı gözlemleri uygun şekilde dengelemek için karesel artık hataların mutlak toplamını matematiksel olarak hesaplar.
+
+Correct Answer: B
+Document Reference: "6. Hafta VM Naive Bayes.pptx" - Nümerik Değerler
+Rationale: Belge, Naive Bayes'i (kategorik bir olasılık aracı) sayısal değerlere uygulamak için algoritmanın, olasılıkları hesaplamak adına sürekli sayısal özelliklerin normal (Gauss) bir dağılım izlediğini açıkça varsayan "Gaussian Naive Bayes" kullandığını belirtmektedir. Çeldirici A, Manhattan mesafesi olasılıksal bir dağılım çözümü değil, uzamsal bir kümeleme hesaplaması olduğu için Yanlış Nitelendirme tekniğini uygular.
+
+### Question 13 [Analyze | Medium] [MISAPPLICATION TRAP]
+
+Bir banka, işlemlerin %99,9'unun meşru olduğu bir veri kümesi kullanarak bir dolandırıcılık tespit modeli geliştirmektedir. Başarıyı değerlendirmek için Doğruluk (Accuracy) metriğini seçerler. Bu metrik burada analitik olarak neden kusurludur?
+A) Metrik, matematiksel olarak algoritmanın tamamlanmamış kategorik girdi dize değişkenlerini (string variables) tamamen işlemesini engeller.
+B) Metrik, temel sayısal bileşenleri etkili bir şekilde izole ederken sürekli varyansı sistematik olarak yükseltir.
+C) Metrik, ağırlıklı çoğunluk (dominant majority) sınıfı tahminlerini tamamen yansıtarak, azınlık sınıfı başarısızlıklarını ciddi şekilde gizler.
+D) Metrik, ayrık hedef olasılık sınıflandırmaları yerine açıkça sürekli regresyon eğrilerini doğrudan değerlendirir.
+E) Metrik, medoidlere (merkezlere) olan kesin mesafeleri hesaplayarak dahili alt sistem entropisini doğası gereği azaltır.
+
+Correct Answer: C
+Document Reference: "5. Hafta Değerlendirme Metrikleri.pptx" - Doğruluk Paradoksu
+Rationale: Doğruluk Paradoksu (Accuracy Paradox), oldukça dengesiz veri kümelerinde Doğruluk metriğinin analitik olarak kusurlu olduğunu, çünkü bir modelin kritik azınlık sınıfını (dolandırıcılık) tespit etmede tamamen başarısız olurken sadece baskın çoğunluk sınıfını sürekli olarak tahmin ederek mükemmele yakın puanlar elde edebileceğini dikte eder. Çeldirici D, Doğruluğun sınıflandırma yerine yalnızca sürekli regresyon değerlendirmesi için tasarlandığını yanlış bir şekilde iddia ederek Kapsam Hatası (Scope Error) kullanır.
+
+### Question 14 [Analyze | Medium] [SYNTHESIS CONFLICT]
+
+ID3, Entropi yoluyla belirsizliği en aza indirerek bir sınıflandırma modelini yapılandırır, oysa CART veri kümesine farklı bir şekilde yaklaşır. Belge, CART'ın dallanma/bölünme (splitting) mekanizmasını analitik olarak ID3'ten nasıl ayırmaktadır?
+A) CART açıkça olasılıksal sıfır frekans hatalarını ölçerken, ID3 yalnızca standart Öklid mesafelerini hesaplar.
+B) CART açıkça ardışık boosting hata mekanizmalarını uygularken, ID3 yalnızca bağımsız paralel bagging algoritmalarını kullanır.
+C) CART açıkça hiyerarşik yoğunluk uzamsal sınırlarını değerlendirirken, ID3 yalnızca standart Apriori algoritmalarını hesaplar.
+D) CART açıkça karesel olasılık Gini toplamlarını hesaplarken, ID3 yalnızca bilgiye dayalı veri kümesi Entropisini hesaplar.
+E) CART açıkça lojistik sigmoid olasılık eşiklerini hesaplarken, ID3 yalnızca sürekli doğrusal regresyon eğimleri oluşturur.
+
+Correct Answer: D
+Document Reference: "4-Hafta Karar Ağaçlar -ID3.pptx" & "5. Hafta Karar Ağaçlar -C45-CART.pptx"
+Rationale: Metinler bu algoritmaları doğrudan karşılaştırmaktadır: ID3, belirsizliği ölçmek ve bilgi kazancını (information gain) bulmak için Entropi kullanarak bölünmeleri değerlendirirken, CART, karesel olasılıkların toplamını açıkça hesaplayarak bölünmeleri değerlendiren Gini İndeksi'ni kullanır. Çeldirici A, Naive Bayes (sıfır frekans) ve K-NN (Öklid mesafesi) mekaniklerini dahil ederek Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 15 [Analyze | Medium] [COUNTER-INTUITIVE SETUP]
+
+Bir mühendis, üç farklı algoritmanın tahminlerinin ortalamasını almanın onları birleştirmenin en sağlam yolu olduğunu varsayar. Stacking (Yığınlama) yöntemi bu varsayımı analitik olarak nasıl inceler ve geçersiz kılar?
+A) Sistem genelinde aynı sürekli tahminleri garanti etmek için anormal sayısal ağaç dallarını zorla budar (pruning).
+B) Hedef değişkenleri etkili bir şekilde nötralize etmek için özelliklerin matematiksel harmonik ortalamasını kesinlikle hesaplar.
+C) Dahili uzamsal küme medoidlerini, kesin olarak tanımlanmış regresyon hesaplama sınırlarının çok ötesine otomatik olarak kaydırır.
+D) Standart lojistik sigmoid fonksiyonlarını kullanarak sürekli regresyon sınırlarını sistematik olarak ayrık binom sonuçlarına dönüştürür.
+E) Hangi spesifik temel sınıflandırıcının nerede uygun şekilde başarılı olduğunu öğrenmek için ikincil bir tahmine dayalı meta-modeli akıllıca eğitir.
+
+Correct Answer: E
+Document Reference: "10.Hafta Topluluk Öğrenme.pptx" - 3. Stacking
+Rationale: Stacking, tahminlerin körü körüne ortalamasını almak (ki bu basit oylama/voting olurdu) yerine, hangi temel modelin farklı koşullar altında en güvenilir olduğunu akıllıca belirlemek için temel sınıflandırıcıların çıktıları üzerinde özel olarak eğitilmiş ikincil bir "meta-öğrenici" (meta-learner) kullanır. Çeldirici B, sınıflandırma topluluğu (ensemble) mekanizması yerine F1-Skoru değerlendirmesi için kullanılan harmonik ortalamayı dahil ederek Kısmi Doğru tekniğini kullanır.
+
+### Question 16 [Analyze | Medium] [BOUNDARY CASE]
+
+Bir veri bilimi ardışık düzeni (pipeline), tüm veri kümesinin iteratif olarak hem eğitim materyali hem de performans monitörü olarak görev yapmasını talep etmektedir. Hangi yöntem bu sınır koşulunu kesin olarak karşılar?
+A) Sistem, yinelemeler (iterasyonlar) boyunca veri kümesini bölümlere ayırmak için K-Katlı Çapraz Doğrulama (K-Fold Cross Validation) algoritmasını dağıtmalıdır.
+B) Sistem, altta yatan tahmine dayalı olasılık dağılımlarını kategorize etmek için Gauss Karışım Modellerini (Gaussian Mixture Models) dağıtmalıdır.
+C) Sistem, etiketlenmemiş boyutsal uzayları agresif bir şekilde küçültmek için Temel Bileşenler Analizi'ni (PCA) dağıtmalıdır.
+D) Sistem, belirli işlem eşiklerini kesinlikle değerlendirmek için Apriori Birliktelik Kurallarını dağıtmalıdır.
+E) Sistem, sürekli girdi değişkenlerini yapısal olarak bölümlere ayırmak için Eşit Derinlikli Bölmeleme (Equal Depth Binning) yaklaşımını dağıtmalıdır.
+
+Correct Answer: A
+Document Reference: "3.Hafta k-NN.pptx" - K-Fold Cross Validation
+Rationale: K-Katlı Çapraz Doğrulama, verileri kesinlikle "k" katlara böler ve iterasyonlar boyunca tüm veri kümesinin hem eğitim seti hem de doğrulama (performans monitörü) seti olarak hareket etmesini sistematik olarak sağlar. Çeldirici E, yinelemeli veri rotasyonu gereksinimini sürekli bir veri ayrıklaştırma (bölmeleme) stratejisiyle yanlış bir şekilde eşleştirerek Yanlış Nitelendirme tekniğini uygular.
+
+### Question 17 [Analyze | Medium] [MISAPPLICATION TRAP]
+
+Bir sistem, tamamen 'renk' ve 'şehir' gibi kategorik özellikler içeren bir veri kümesini sınıflandırmak için K-NN kullanır. Sistem, girdiler arasındaki Öklid (Euclidean) mesafelerini hesaplar. Bu analitik yaklaşım ne tür bir hata ortaya çıkarır?
+A) Öklid formülleri, sürekli sayısal hedefleri kesinlikle uzamsal kümeler yerine paralel regresyon ağaçlarına dönüştürür.
+B) Öklid formülleri yalnızca sürekli matematiksel ölçümlere uygulanırken, kategorik veriler spesifik olarak kesin Hamming mesafeleri gerektirir.
+C) Öklid formülleri, matematiksel olarak tahmine dayalı algoritmayı doğası gereği tam bir sıfır olasılık çıktı değeri üretmeye zorlar.
+D) Öklid formülleri, hiyerarşik kategorik uzamsal düğümleri aktif olarak bölerken altta yatan entropi değerlerini sürekli olarak şişirir.
+E) Öklid formülleri, temelde üretilen sayısal çıktı değişkenlerine tamamen aşırı uyum (overfit) sağlayan sonsuz bir olasılık metriğini tetikler.
+
+Correct Answer: B
+Document Reference: "3.Hafta k-NN.pptx" - k-En Yakın Komşu Yöntemi
+Rationale: Belge, Öklid mesafe formülünün yalnızca sürekli sayısal değişkenler için geçerli olduğunu açıkça belirtmektedir. Tamamen kategorik veri noktaları arasındaki mesafeleri ölçmeye çalışırken, bunun yerine Hamming mesafesi uygulanmalıdır. Çeldirici C, hatayı Naive Bayes algoritmasına özgü bir sıfır olasılık çöküşüyle ilişkilendirerek Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 18 [Analyze | Hard] [SYNTHESIS CONFLICT]
+
+R-Kare (R-Squared), bir modelin varyansı ne kadar iyi açıkladığını ölçer, ancak tamamen ilgisiz değişkenler eklemek R-Kare'nin matematiksel olarak artmasına neden olur. Metin bu aldatıcı metrik çelişkisini analitik olarak nasıl çözer?
+A) Çerçeve (framework), karesel hata korelasyon fonksiyonlarını sürekli olarak en aza indirmek için kasıtlı olarak standart doğrusal regresyon denklemlerinden yararlanır.
+B) Çerçeve, dahili olasılık çarpım fonksiyonları doğru bir şekilde sıfırlandığı için spesifik kategorik verileri tamamen izole eder.
+C) Çerçeve, katkı sağlamayan bağımsız değişkenlerin dahil edilmesini açıkça cezalandıran Düzeltilmiş R-Kare (Adjusted R-Squared) metriğini sunar.
+D) Çerçeve, medoidlere (merkezlere) olan uzamsal mesafeleri kesin olarak hesaplayarak rastgele eklenen değişkenleri doğal olarak filtreler.
+E) Çerçeve, matematiksel çarpım cezası nedeniyle tüm tahmine dayalı sınıflandırma olasılığını etkili bir şekilde sıfırlar.
+
+Correct Answer: C
+Document Reference: "8.Hafta Lineer Regresyon.pptx" - Adjusted R² Ne İşe Yarar?
+Rationale: Yararsız değişkenler eklendiğinde standart R-Kare'nin aldatıcı bir şekilde şişmesi şeklindeki matematiksel kusuru çözmek için, modelin açıklayıcı gücüne gerçekte katkıda bulunmayan değişkenlerin eklenmesini açıkça cezalandırmak üzere Düzeltilmiş R-Kare metriği sunulmuştur. Çeldirici D, bir regresyon değerlendirme metriği ayarlaması yerine uzamsal filtrelemeyi (K-Medoids) açıklayarak Yanlış Nitelendirme tekniğini uygular.
+
+### Question 19 [Analyze | Hard] [COUNTER-INTUITIVE SETUP]
+
+Bir öğrenci, ortalama karesel hatanın (MSE), herhangi bir regresyon modelinin tahmine dayalı başarısızlığını değerlendirmek için evrensel olarak en uygun metrik olduğunu iddia etmektedir. Metin bunu lojistik regresyon için neden reddetmektedir?
+A) Lojistik regresyon yalnızca paralel karar ağaçlarını değerlendirir ve gerekli tekil küme uzamsal düğüm mesafelerini temelde göz ardı eder.
+B) Lojistik regresyon, standart bir kök ortalama (root mean) metodolojisi kullanarak hesaplanan toplam gözlemsel hatayı kesinlikle böler.
+C) Lojistik regresyon, yalnızca kategorik korelasyon özellik tahmin matrislerini kullanarak açıkça paralel matematiksel regresyon eğrileri oluşturur.
+D) Lojistik regresyon olasılıksal sınıflandırma güvenlerini değerlendirir, bu da doğrusal karesel farkları, logaritmik kayıpları (log loss) cezalandırmaya kıyasla etkisiz hale getirir.
+E) Lojistik regresyon, eksik kategorik bağımsız değerleri matematiksel olarak izole ederken eşzamanlı olarak kalan sürekli hedef boyutlarının tamamen ortalamasını alır.
+
+Correct Answer: D
+Document Reference: "9.Hafta Lojistik Regresyon.pptx" - Hata Hesaplarken Neden Log Kullanılır?
+Rationale: Sürekli sayılar tahmin eden doğrusal regresyonun aksine (ki MSE burada iyi çalışır), lojistik regresyon kategorik olasılık güvenlerini tahmin eder. Belge, "Log Loss"un (Logaritmik Kayıp) oldukça emin ancak yanlış olasılık tahminlerini doğru ve katlanarak cezalandırması nedeniyle burada doğrusal karesel hataları reddeder. Çeldirici B, RMSE değerlendirme metriğini kısmen açıklayarak ancak bunu yanlış bir şekilde düzeltici çözüm olarak uygulayarak Kapsam Hatası tekniğini kullanır.
+
+### Question 20 [Analyze | Hard] [MISAPPLICATION TRAP]
+
+Bir analist, ilk ürünün izole edilmiş olasılığı ile ikinci ürünün olasılığını çarparak "öncül desteği" (antecedent support) manuel olarak hesaplar. Burada hangi teorik kural ihlal edilmiştir?
+A) Çarpım işlemi doğası gereği algoritmayı, bağımsız matrisler genelinde tam bir sıfır olasılık çıktısı üretmeye zorlar.
+B) Çarpım işlemi, gereksiz rastgele ilk ağaç dallarını tutarlı bir şekilde desteklerken dahili bilgi kazancını sistematik olarak azaltır.
+C) Çarpım işlemi, sürekli uzamsal regresyon sınırlarını standart sigmoid fonksiyonlarını kullanarak aktif olarak ayrık binom sonuçlarına dönüştürür.
+D) Çarpım işlemi, farklı sürekli gözlemleri etkili bir şekilde dengelemek için karesel hataların mutlak toplamını matematiksel olarak hesaplar.
+E) Çarpım işlemi temel bir matematiksel hata yaratır, çünkü öncül destek yalnızca ilk öğenin bireysel olasılığını ölçer.
+
+Correct Answer: E
+Document Reference: "7.Hafta Birliktelik Analizi.pptx" - Apriori Algoritması (Python)
+Rationale: Belge "öncül desteği" (antecedent support), kesinlikle ilk öğenin tek başına görünme olasılığı olarak tanımlar. İki bağımsız öğenin olasılıklarını birbirleriyle çarpmak öncül desteği vermez; ortak olasılık "destek" (support) metriğinde değerlendirilir. Çeldirici A, Naive Bayes'in "Sıfır Frekans" çarpım başarısızlığına atıfta bulunarak Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 21 [Evaluate/Synthesize | Medium] [SYNTHESIS CONFLICT]
+
+K-Means kümeler için uzamsal bir merkez hesaplar, ancak aşırı uç değerler (outliers) bu matematiksel ortalamayı ciddi şekilde bozar. Sunulan kümeleme alternatifleri değerlendirildiğinde, K-Medoids işlevsel olarak buna nasıl bir çözüm sentezler?
+A) K-Medoids, oldukça savunmasız olan yapay matematiksel ortalamaları, gerçek veri noktalarıyla temsil edilen sağlam medyan (ortanca) değerlerle değiştirir.
+B) K-Medoids, standart bir kök ortalama karesel matematiksel metodoloji kullanarak toplam gözlemsel regresyon hatasını doğru bir şekilde böler.
+C) K-Medoids, sürekli matematiksel düğümleri paralel sınıflandırma dallarına dönüştürerek oldukça parçalanmış sayısal özellikleri etkili bir şekilde atlar.
+D) K-Medoids, altta yatan matematiksel varyans korelasyon metriklerini büyük ölçüde bozmak için bağımlı değişken olasılık girdilerini sistematik olarak değiştirir.
+E) K-Medoids, rastgele hiyerarşik sürekli veri kümesi gürültüsünü tamamen ortadan kaldırmak için belirtilen sonradan budama (post-pruning) algoritmik dizilerini doğal olarak kullanır.
+
+Correct Answer: A
+Document Reference: "12. Hafta Kümeleme.pptx" - K-Medoids Algoritması
+Rationale: K-Medoids, yapay ortalamaları (mean) terk ederek ve bunun yerine küme merkezlerini veri kümesindeki gerçek, fiziksel veri nesneleri ile temsil edilen sağlam medyan (ortanca) değerlere atayarak K-Means'in uç değer bozulması kusurunu doğası gereği çözer. Çeldirici B, uzamsal bir kümeleme optimizasyon problemine RMSE matematiksel değerlendirme metriğini dahil ederek Yanlış Nitelendirme tekniğini kullanır.
+
+### Question 22 [Evaluate/Synthesize | Medium] [BOUNDARY CASE]
+
+Devasa bir veri kümesi, kritik nitelik değerleri eksik olan bir avuç kayıt (satır) içermektedir. Analist açıkça bu spesifik satırları analizden tamamen çıkarmaya karar verir. Burada hangi sınır (boundary) stratejisi değerlendirilmektedir?
+A) Değerlendirme yapan analist, sürekli normalizasyon ölçeklendirme matematiksel dönüşüm algoritmasını doğru bir şekilde uygular.
+B) Değerlendirme yapan analist, tamamen yok sayarak silme (ignoring) ön işleme ikame stratejisini doğru bir şekilde uygular.
+C) Değerlendirme yapan analist, evrensel küresel sabit (global constant) değişken değiştirme tekniğini doğru bir şekilde uygular.
+D) Değerlendirme yapan analist, istatistiksel medyan değeri ile sürekli değiştirme/doldurma yöntemini doğru bir şekilde uygular.
+E) Değerlendirme yapan analist, temel bileşen uzamsal boyut küçültme veri hattını (pipeline) doğru bir şekilde uygular.
+
+Correct Answer: B
+Document Reference: "2. Hafta Veri Ön İşleme Teknikleri.pptx" - Eksik Veriler nasıl Tamamlanır?
+Rationale: Belge, eksik verilerin işlenmesi için çeşitli stratejiler listeler; kayıtları (satırları) tamamen çıkarma ve verileri sanki hiç yokmuş gibi işleme şeklindeki sınır durumu "ihmal etme" (ignoring) stratejisi olarak tanımlanır. Çeldirici C, Kısmi Doğruyu temsil eder, eksik verilerle ilgili farklı ve geçerli bir stratejiyi tanımlar ancak bunu silme eylemine yanlış atfeder.
+
+### Question 23 [Evaluate/Synthesize | Hard] [COUNTER-INTUITIVE SETUP]
+
+Bir karar ağacı, derin ve son derece spesifik dallar oluşturarak eğitim verilerinde %100 doğruluk elde eder. Sezgisel olarak bu mükemmel ağaç dağıtılmalı/kullanılmalıdır. C4.5 algoritması çerçevesi değerlendirildiğinde, sonradan budama (post-pruning) bu mükemmel yapıya neden aktif olarak uygulanır?
+A) Sonradan budama aşaması, yanlışlıkla dahili kategorik öznitelikleri tamamen sürekli bağımsız matematiksel olasılık vektörlerine dönüştürür.
+B) Sonradan budama aşaması, farklı veri kümesi aykırı değerlerini (outliers) tamamen ayrı homojen istatistiksel olasılık katmanları olarak temelde kategorize eder.
+C) Sonradan budama aşaması, genel tahmine dayalı genelleme (generalization) gücünü etkili bir şekilde artırmak için aşırı spesifik dalları sistematik olarak ortadan kaldırır.
+D) Sonradan budama aşaması, dahili uzamsal küme medoidlerini (merkezlerini) standart hesaplanan geometrik sınırların çok ötesine sürekli olarak kaydırır.
+E) Sonradan budama aşaması, farklı uzamsal gözlemleri agresif bir şekilde dengelemek için karesel hataların mutlak toplamını matematiksel olarak hesaplar.
+
+Correct Answer: C
+Document Reference: "5. Hafta Karar Ağaçlar -C45-CART.pptx" - C4.5 Algoritması
+Rationale: %100 eğitim doğruluğu ideal gibi görünse de, aslında eğitim gürültüsüne (noise) karşı ciddi bir aşırı uyuma (overfitting) işaret eder. C4.5 çerçevesi, özellikle bu varyansı azaltmak ve ağacın genel gerçek dünya genelleme gücünü artırmak için sonradan budamayı (aşırı uyumlu alt ağaçları, yani son derece spesifik olanları kaldırmayı) aktif olarak uygular. Çeldirici B, doğru ağaç kelime dağarcığını (homojen katmanlar) kullanarak ancak bunu budama gerekçesine yanlış uygulayarak Kısmi Doğru tekniğini kullanır.
+
+### Question 24 [Evaluate/Synthesize | Hard] [MISAPPLICATION TRAP]
+
+Bir veri bilimcisi, bağımsız değişkenlerin birbiriyle son derece güçlü bir şekilde ilişkili (korele) olduğu bir veri kümesine Naive Bayes sınıflandırıcısı uygular. Bu spesifik uygulamanın ciddi şekilde kusurlu olduğunu hangi teorik sonuç gösterir?
+A) Algoritma, yalnızca merkezi medyan varyanslarını en aza indirmeye odaklanmak için tüm büyük sayısal sapmaları doğası gereği göz ardı eder.
+B) Algoritma, sınıflandırma ağacı içindeki farklı veri kümesi aykırı değerlerini ayrı homojen olasılık katmanları olarak temelde kategorize eder.
+C) Algoritma, lojistik sigmoid fonksiyonlarını kullanarak sürekli uzamsal regresyon sınırlarını ayrık binom sonuçlarına aktif olarak dönüştürür.
+D) Algoritma, yanlış bir şekilde tam özellik bağımsızlığı varsayar, bu da güçlü bir şekilde korele olan değişkenlerin tahmin edilen önemlerini yapay olarak şişirmesine neden olur.
+E) Algoritma, hesaplamalar sırasında katkı sağlamayan bağımsız değişkenleri tamamen izole ederek katsayı oranlarını otomatik olarak ayarlar.
+
+Correct Answer: D
+Document Reference: "6. Hafta VM Naive Bayes.pptx" - Dezavantajları
+Rationale: Naive Bayes, tüm özelliklerin birbirinden tamamen bağımsız olduğu şeklindeki temel varsayıma dayanır. Bunu yüksek düzeyde korelasyona sahip değişkenlere uygulamak bu kuralı ihlal eder, algoritmanın birbiriyle ilişkili bilgileri iki kez saymasına ve özelliğin tahmindeki önemini yapay olarak şişirmesine neden olur. Çeldirici E, Düzeltilmiş R-Kare regresyon değerlendirmesinin cezalandırma mekaniğini yanlış tanımlayarak Yanlış Nitelendirme tekniğini uygular.
+
+### Question 25 [Evaluate/Synthesize | Hard] [SYNTHESIS CONFLICT]
+
+Bir topluluk sınıflandırıcısında (ensemble classifier), bir kural tahminin oyların yarısından fazlasını almasını kesinlikle talep ederken, diğer bir kural en yüksek oy sayısını basitçe kabul eder. Metin bu çelişkiyi nasıl sentezler?
+A) Metin ilk çerçeveyi Bagging Aggregation olarak tanımlar; metin ikinci çerçeveyi Sequential Boosting olarak tanımlar.
+B) Metin ilk çerçeveyi K-Medoids Clustering olarak tanımlar; metin ikinci çerçeveyi K-Means Processing olarak tanımlar.
+C) Metin ilk çerçeveyi Linear Regression olarak tanımlar; metin ikinci çerçeveyi Logistic Thresholds olarak tanımlar.
+D) Metin ilk çerçeveyi Stacking Meta-Models olarak tanımlar; metin ikinci çerçeveyi Weighted Outcomes olarak tanımlar.
+E) Metin ilk çerçeveyi Majority Voting (Çoğunluk Oylaması) olarak tanımlar; metin ikinci çerçeveyi Plurality Voting (En Çok Oy Alan) olarak tanımlar.
+
+Correct Answer: E
+Document Reference: "10.Hafta Topluluk Öğrenme.pptx" - 4. Voting (Oylama)
+Rationale: Metin, topluluk tahminlerindeki çelişkileri sentezlemek için çoklu oylama mekanizmalarını özetlemektedir: "Çoğunluk Oylaması" (Majority Voting) sınıflandırıcıların yarısından fazlasının anlaşmasını kesinlikle gerektirirken, "Çoğul Oylama" (Plurality Voting) çoğunluğun olmadığı durumları sadece en yüksek toplam oya sahip sınıfı kabul ederek çözer. Çeldirici A, oylama çerçevelerini tamamen farklı topluluk metodolojileri (Bagging ve Boosting) olarak yanlış etiketleyerek Yanlış Nitelendirme tekniğini kullanır.
+
+─────────────────────────────────────
+
+## ANSWER KEY SUMMARY
+
+| Q | Answer | Bloom's Level | Difficulty | Scenario Frame |
+| --- | --- | --- | --- | --- |
+| 1 | A | Remember | Easy | — |
+| 2 | B | Remember | Easy | — |
+| 3 | C | Remember | Easy | — |
+| 4 | D | Remember | Easy | — |
+| 5 | E | Apply | Easy | Boundary Case |
+| 6 | A | Apply | Medium | Misapplication Trap |
+| 7 | B | Apply | Medium | Counter-Intuitive |
+| 8 | C | Apply | Medium | Synthesis Conflict |
+| 9 | D | Apply | Medium | Misapplication Trap |
+| 10 | E | Apply | Medium | Boundary Case |
+| 11 | A | Apply | Hard | Counter-Intuitive |
+| 12 | B | Apply | Hard | Synthesis Conflict |
+| 13 | C | Analyze | Medium | Misapplication Trap |
+| 14 | D | Analyze | Medium | Synthesis Conflict |
+| 15 | E | Analyze | Medium | Counter-Intuitive |
+| 16 | A | Analyze | Medium | Boundary Case |
+| 17 | B | Analyze | Medium | Misapplication Trap |
+| 18 | C | Analyze | Hard | Synthesis Conflict |
+| 19 | D | Analyze | Hard | Counter-Intuitive |
+| 20 | E | Analyze | Hard | Misapplication Trap |
+| 21 | A | Evaluate/Synthesize | Medium | Synthesis Conflict |
+| 22 | B | Evaluate/Synthesize | Medium | Boundary Case |
+| 23 | C | Evaluate/Synthesize | Hard | Counter-Intuitive |
+| 24 | D | Evaluate/Synthesize | Hard | Misapplication Trap |
+| 25 | E | Evaluate/Synthesize | Hard | Synthesis Conflict |
+
+## ANSWER POSITION AUDIT
+
+A: 5 times | B: 5 times | C: 5 times | D: 5 times | E: 5 times
