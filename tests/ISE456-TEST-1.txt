@@ -1,0 +1,360 @@
+### Question 1 [Remember | Easy]
+
+Çok katmanlı algılayıcı (ÇKA) ağlarının yapısında bulunan girdi katmanının temel işlevi nedir?
+A) Verileri alıp işlem yapmaksızın doğrudan ara katmana iletmek.
+B) Bilgileri işleyerek ağın ürettiği nihai çıktıyı dışarıya göndermek.
+C) Hata oranını hesaplayarak nöronların ağırlık değerlerini dinamik güncellemek.
+D) Önceki katmanlardan gelen verilerin hata toleransını ölçüp ayarlamak.
+E) Ara katmanlardan gelen bilgiyi genelleştirip çözüm uzayı üretmek.
+
+Correct Answer: A
+Document Reference: Yapay Sinir Ağları (ÇKA Modelinin Yapısı)
+Rationale: Belgelerde girdi katmanının dış dünyadan gelen verileri alarak ara katmana gönderdiği ve bu katmanda hiçbir bilgi işlemi olmadığı açıkça belirtilmektedir. En çeldirici seçenek olan B şıkkı, çıktı katmanının görevini girdi katmanına atfederek Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 2 [Remember | Easy]
+
+Derin öğrenme uygulamalarında kullanılan renkli görüntülerin yapısal özelliği aşağıdakilerden hangisinde doğru şekilde ifade edilmiştir?
+A) Renkli görüntülerde temelde gri tonlamayı sağlayan bir derinlik ekseni bulunur.
+B) Renkli görüntüler RGB formunda toplam üç ayrı kanaldan meydana gelmektedir.
+C) Renkli görüntülerde piksel yoğunluğu standart olarak sıfır ile bir arasındadır.
+D) Renkli görüntülerde kanal sayısı, kullanılan evrişim filtre sayısına göre belirlenir.
+E) Renkli görüntüler yapıları gereği tek kanallı gri seviye matrislerle ifade edilir.
+
+Correct Answer: B
+Document Reference: Derinlemesine Bilgisayarlı Görü (Simülasyon / Evrişim İşlemi)
+Rationale: Belgede "Renkli görüntüler, Kırmızı-Yeşil-Mavi (RGB) olarak 3 kanaldan meydana gelmektedir" bilgisi doğrudan yer almaktadır. En çeldirici seçenek olan E şıkkı, siyah-beyaz görüntülerin özelliğini renkli görüntülere uyarlayarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 3 [Understand | Medium]
+
+Bir modelin karmaşıklığının artırılması durumunda eğitim ve test veri kümeleri arasındaki hata değişim eğilimi nasıldır?
+A) Her iki kümenin hatası birlikte düşerek gerçek dünyada uygun sonuçlar alınmasını sağlar.
+B) Eğitim kümesi hatası sabit kalırken test kümesindeki başarı oranı sürekli artış gösterir.
+C) Eğitim hatası düşmesine rağmen varyansın artması sebebiyle test hatası artış göstermeye başlar.
+D) Model genelleştirme yeteneğini kaybettiği için eğitim verisindeki hata sıfıra yaklaşarak durur.
+E) Varyans azaldığı için modelin her iki küme üzerindeki kestirim hataları zamanla dengelenir.
+
+Correct Answer: C
+Document Reference: Dengesiz Veri Kümesi Problemi / Bias vs. Variance
+Rationale: Kaynakta, model karmaşıklaştıkça eğitim kümesinin hatasının düştüğü ve varyansın yüksek olduğu, bu nedenle test ve eğitim hatasının birbirinden uzaklaştığı belirtilmiştir. En çeldirici seçenek olan E şıkkı, varyansın model karmaşıklaştıkça artması kuralını tersine çevirerek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 4 [Understand | Medium]
+
+Görüntü işleme tekniklerinden biri olan erozyon (aşınma) algoritmasının çalışma prensibi aşağıdakilerin hangisine dayanır?
+A) Etraftaki piksellerin ortalamasını alarak görüntüdeki pürüzleri daha belirsiz bir hale getirmesine.
+B) Belirli bir bloktaki piksellerin medyanını bularak nesnenin kenar bölgelerini belirginleştirmesine.
+C) Çekirdek içerisindeki en büyük değeri merkeze atayarak görüntünün arka planını aydınlatmasına.
+D) Çekirdek penceresindeki en küçük piksel değerinin orijinal pikselin değeri ile değiştirilmesine.
+E) Gri tonlamalı görüntüdeki piksellerin renk uzaylarını manipüle ederek nesneleri ayrıştırmasına.
+
+Correct Answer: D
+Document Reference: Morfolojik İşlemler (Erosion)
+Rationale: Kaynak metinde, erozyon işlemi sırasında çekirdek içindeki en küçük piksel değerinin orijinal piksellerin değeri ile değiştirildiği kuralı net biçimde açıklanmaktadır. En çeldirici seçenek olan C şıkkı, işlemi minimum yerine maksimum değere dayandırarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 5 [Apply | Easy] [MISAPPLICATION TRAP]
+
+Bir mühendis, çok katmanlı algılayıcı ağında yer alan tek bir proses elemanını, hem nesnenin sınıfını hem de güven skorunu aynı anda dış dünyaya iletecek iki farklı çıkış sinyali üretecek şekilde tasarlamıştır. Bu tasarım, belgelerdeki hangi temel kurala aykırıdır?
+A) Ara katmandan gelen bilgilerin dış dünyaya aktarılmadan önce girdi katmanına dönmesine.
+B) Çıktı katmanındaki her proses elemanının, önceki proses elemanlarından bağımsız olmasına.
+C) Ağın öğretmenli öğrenme stratejisini kullanırken çıktıların genelleme yapılmadan üretilmesine.
+D) Girdi katmanında hiçbir bilgi işlemi gerçekleştirilmemesi kuralının çıktı katmanına taşınmasına.
+E) Çıktı katmanındaki her bir proses elemanının sadece bir tane çıktısı olması gerektiği kuralına.
+
+Correct Answer: E
+Document Reference: Yapay Sinir Ağları (ÇKA Modelinin Yapısı)
+Rationale: Belgede çıktı katmanıyla ilgili "Her proses elemanının sadece bir tane çıktısı vardır" kuralı kesin bir sınırlama olarak sunulmuştur. En çeldirici seçenek olan B şıkkı, elemanların birbirine bağlı olma kuralını tam zıttı bir yönde ifade ederek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 6 [Apply | Medium] [COUNTER-INTUITIVE SETUP]
+
+Bir araştırmacı, evrişim katmanından elde ettiği özellik haritasının boyutunu küçültürken, piksellerdeki bilgilerin adil bir özetini almak amacıyla havuzlama işleminde ortalama alma yöntemini tercih etmeyi düşünmektedir. Belgelere göre, bu araştırmacının ortalama alma yerine maksimum havuzlama (max pooling) kullanması için gereken temel gerekçe nedir?
+A) Ortalama almanın bilgi zayıflamasına yol açması ve maksimum havuzlamanın en güçlü sinyali koruması.
+B) Maksimum havuzlamanın küçük ayrıntıları yumuşatarak görüntüdeki pürüzleri doğrudan yok edebilmesi.
+C) Ortalama almanın aşırı uyum (overfitting) problemini tetikleyerek modeli karmaşıklaştırmaya zorlaması.
+D) Evrişim pencerelerinin bitişik olduğunu varsayan ortalama yönteminin adım (stride) mesafesini artırması.
+E) Maksimum havuzlamanın, yerel detayları atlayarak genel küresel desenleri öğrenme garantisi sunması.
+
+Correct Answer: A
+Document Reference: Derinlemesine Bilgisayarlı Görü (Max Pooling)
+Rationale: Kaynak metinde, ortalama alma işleminin sinyal bilgisini zayıflattığı, maksimum havuzlamanın ise en güçlü aktivasyonu (sinyali) koruduğu vurgulanmaktadır. En çeldirici seçenek olan B şıkkı, Gauss bulanıklaştırmasının işlevini havuzlamaya atayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 7 [Apply | Medium] [SYNTHESIS CONFLICT]
+
+Bir veri bilimci, eğitim verisini sıfır hata ile ayıran karmaşık bir derin öğrenme modeli ile, sınıfları mükemmel olmasa da genel çerçevede ayırabilen daha basit bir model arasında kararsız kalmıştır. Belgelerdeki bilgiler ışığında, bu iki durum arasındaki çelişkinin çözümü nasıl sağlanmalıdır?
+A) Karmaşık model tercih edilerek, veri setindeki dengesiz sınıflandırma problemi büyük oranda çözülmelidir.
+B) Basit model tercih edilerek, aşırı uydurma önlenmeli ve modelin yeni verilere genelleştirilebilirliği sağlanmalıdır.
+C) Her iki model birleştirilerek, girdi katmanında daha geniş özellik haritaları (feature maps) elde edilmelidir.
+D) Karmaşık modelin varyansı düşürülüp bias değeri artırılarak eğitim verisindeki mükemmel ayrım korunmalıdır.
+E) Basit modelin katman sayısı artırılarak, gerçek dünya problemlerinde yüksek doğruluk başarısı hedeflenmelidir.
+
+Correct Answer: B
+Document Reference: Bias vs. Variance / Aşırı uydurma
+Rationale: Belgede bazen karmaşık bir model yerine genelleştirilebilir (iki sınıfı mükemmel ayırmasa da) basit bir model üretmenin aşırı uyumdan kaçınmak için daha mantıklı olacağı belirtilmektedir. En çeldirici seçenek olan A şıkkı, karmaşık modellerin her sorunu çözeceğine dair genel bir kanıyı yansıtarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 8 [Apply | Medium] [BOUNDARY CASE]
+
+Evrişim katmanında 28x28 boyutundaki bir giriş görüntüsüne, 3x3 boyutunda bir filtre (kernel) ve 1 adım (stride) kaydırma değeri uygulanacaktır. Çıkış özelliği haritasının, giriş ile tam olarak aynı uzamsal boyutlara (28x28) sahip olması hedeflenmektedir. Belirtilen denklem [(n+2p-f/s)+1] uyarınca, bu ağ tasarımında yapılması gereken dolgu (padding) işlemi aşağıdakilerden hangisidir?
+A) Filtre boyutu ile uyumlu olması amacıyla dolgu işleminin iptal edilerek varsayılan ayarın kullanılması.
+B) Çıktı boyutunun küçülmesini engellemek için piksel doldurma değerinin sıfır olarak formüle yerleştirilmesi.
+C) Görüntünün etrafına birer piksel genişliğinde dolgu eklenerek p=1 değerinin formülasyona dâhil edilmesi.
+D) Her iki boyuttaki kayıpları telafi etmek adına dolgu değerinin girdi kanal sayısına eşit olacak şekilde seçilmesi.
+E) Piksellerin merkezden uzaklığını artırmak için genişletme (dilation) algoritmasının matris üzerine uygulanması.
+
+Correct Answer: C
+Document Reference: Padding Formülasyonu
+Rationale: Verilen (28+2p-3)/1 + 1 = 28 denkleminde çözüm p=1 çıkmaktadır; kaynakta da aynı uzamsal boyutu elde etmek için dolgu kullanılması gerektiği belirtilmiştir. En çeldirici seçenek olan B şıkkı, dolgu yapmanın sıfır değeri atamak olduğu algısını yaratarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 9 [Apply | Hard] [MISAPPLICATION TRAP]
+
+Bir öğrenci, oldukça soluk ve geçiş frekansı düşük olan hatları bile kenar olarak tespit etmek amacıyla "cv2.Canny(görsel, 200, 500)" fonksiyonunu çalıştırmıştır. Ancak elde edilen sonuçta ince ve soluk çizgilerin hiçbiri algılanmamıştır. Bu uygulama senaryosundaki temel hata, belgelere göre aşağıdakilerden hangisidir?
+A) Sezgisel sistemlerde Canny yerine Laplacian filtresinin kullanılmasının zorunlu olduğunu göz ardı etmesi.
+B) Yüksek eşik değerinin 500 olarak belirlenmesinin, gradyanları doğrudan piksellerin ortalamasıyla değiştirmesi.
+C) Maksimum aktivasyonu korumak yerine pikselleri ortalama havuzlamadan geçirerek detay seviyesini düşürmesi.
+D) Alt eşik değerinin 200 seçilmesinin, bu değerin altındaki düşük gradyanlı soluk kenarları tamamen elemesi.
+E) Çekirdek penceresindeki en büyük değeri merkeze atayarak zayıf sinyalleri işleme filtresinin dışına itmesi.
+
+Correct Answer: D
+Document Reference: İleri Filtreleme Teknikleri (Canny)
+Rationale: Kaynakta Canny fonksiyonunun ikinci parametresinin alt eşik olduğu ve bu değerin (ör. 200) altındaki gradyan değerlerinin kenar olarak kabul edilmediği vurgulanmıştır. En çeldirici seçenek olan A şıkkı, Laplacian filtresinin doku hassasiyetini yanlış bağlama taşıyarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 10 [Apply | Hard] [COUNTER-INTUITIVE SETUP]
+
+Bir sistem geliştiricisi, ışıklandırması bölgesel olarak sürekli değişen bir belgedeki metinleri okumak istemektedir. Mantıksal olarak tüm görüntüdeki en ideal tek bir genel eşik değerini bulup uygulamayı düşünmüştür. Belgelere göre, bu global eşikleme yöntemi yerine "cv2.ADAPTIVE_THRESH_MEAN_C" kullanılmasını gerektiren zıt durum nedir?
+A) Sınıf içi varyansın global eşikleme sırasında artması ve piksellerin tek bir blokta toplanmasının zorlaşması.
+B) Global eşik değerinin sadece renkli görüntülerde RGB kanalları üzerinden ortalama alma yeteneğine sahip olması.
+C) Görüntüdeki en küçük piksel değerini bularak orijinal pikselleri değiştirmesinin metin okumayı engellemesi.
+D) Adaptif eşiklemenin yalnızca yüksek seviyeli temsillerde yüz veya doku gibi kavramları başarıyla yakalayabilmesi.
+E) Eşik değerinin tüm resim yerine belirli piksel bloklarının yerel ortalamalarından dinamik olarak hesaplanması.
+
+Correct Answer: E
+Document Reference: Adaptif Eşikleme Yöntemi
+Rationale: Metinde "cv2.ADAPTIVE_THRESH_MEAN_C" yönteminin, eşik değerini belirli bir bloktaki piksellerin yerel ortalama değerinden hesapladığı açıkça ifade edilmektedir. En çeldirici seçenek olan A şıkkı, Otsu eşiklemesindeki varyans kavramını adaptif yönteme bağlayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 11 [Apply | Medium] [SYNTHESIS CONFLICT]
+
+Bir derin öğrenme mimarı, daha az parametreyle güçlü özellikler elde etmek için ağın tamamında çoğunlukla 3x3 boyutunda küçük evrişim filtreleri kullanmış, ancak modelin girdi bütünlüğünü algılayamadığını fark etmiştir. Küçük filtrelerin avantajlı olmasına rağmen bu mimari soruna yol açan çelişki belgelere göre nasıl açıklanır?
+A) Yalnızca küçük filtreler kullanıldığında ağın genel çerçeveyi öğrenecek kadar geniş bir görüş alanına ulaşamaması.
+B) Küçük boyutlu filtrelerin çoğunlukla tek kanallı gri seviye görüntüler üzerinde işlem yapacak şekilde tasarlanması.
+C) 3x3 filtrelerin, erozyon işlemi uygulayarak görüntüdeki yararlı piksellerin değerlerini sürekli olarak düşürmesi.
+D) Parametre sayısının azalmasının varyansı yükselterek modelin genelleştirme yeteneğini tamamen kaybetmesine yol açması.
+E) Katmanlar ilerledikçe özellik haritalarının kontrolsüzce büyüyerek donanım hesaplama maliyetlerini artırması.
+
+Correct Answer: A
+Document Reference: VGG - 3x3 vs 7x7 Filtre Karşılaştırması / Receptive Field
+Rationale: Belgede küçük filtrelerin (3x3) detayları çıkardığı ancak havuzlama/adım olmadan ağın ilk girişine göre görüş alanının (receptive field) küçük kaldığı, bu nedenle bütünlük bilgisinin kaybolduğu anlatılmaktadır. En çeldirici seçenek olan B şıkkı, renk uzayı kanalları bilgisini filtre boyutlarıyla eşleştirerek Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 12 [Apply | Hard] [BOUNDARY CASE]
+
+Bir araştırmacı, iki özdeş görüntüyü birbiriyle kıyaslamak için piksel düzeyinde bir "cv2.bitwise_xor" (Özel VEYA) işlemi uygulamıştır. Belgelerde sunulan XOR mantık tablosu (1 $⊕$ 1 = 0, 0 $⊕$ 0 = 0) göz önüne alındığında, bu işlemin sınır koşulu olarak elde edilecek kesin sonuç aşağıdakilerden hangisidir?
+A) Görüntülerdeki farklılıklar vurgulanacağı için sonuçta nesnelerin sadece dış kenar çizgileri görünür kalacaktır.
+B) Karşılıklı pikseller aynı olduğundan işlem sonucu sıfır üretecek ve siyah bir görüntü matrisi oluşacaktır.
+C) Özdeş pikseller birbiriyle çarpılacağı için görüntünün genel parlaklığı standart ortalama değerinin üzerine çıkacaktır.
+D) Birinci görüntünün ağırlığı artırılarak ikinci görüntü saydamlaştırılacak ve piksellerin ortalaması alınacaktır.
+E) İşlem matrisleri toplayıp 255'e sıkıştıracağından dolayı sonuç beyaz bir arka plan matrisi olarak dönecektir.
+
+Correct Answer: B
+Document Reference: Bitwise İşlemler (XOR)
+Rationale: XOR işleminde iki değer aynı ise (1-1 veya 0-0) sonuç 0 olur. Özdeş iki görüntüde tüm pikseller aynı olacağından sonuç matrisi sıfırlardan, yani net siyah renkten oluşacaktır. En çeldirici seçenek olan E şıkkı, piksellerin toplanması (cv2.add) mantığını bit düzeyinde XOR işlemine karıştırarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 13 [Analyze | Easy] [MISAPPLICATION TRAP]
+
+Bir analist, eğitim hatasının sıfıra yaklaşmasını büyük bir başarı kabul ederek model eğitimini durdurmuş, ancak modelin gerçek dünyada yeni veriler üzerinde başarısız olduğunu gözlemlemiştir. Belgelere göre bu analistin ulaştığı noktanın karakteristik özelliği nedir?
+A) Modelin varyansının ve kestirim hatasının aynı anda düşerek basit ve işlevsiz bir tasarıma dönüşmesidir.
+B) Dengeli sınıflandırma problemi sebebiyle ağın eğitim ve test kümeleri arasında hiçbir fark bulamamasıdır.
+C) Eğitim hatasının düşük olması nedeniyle biasın düşük, ancak mesafe açıldığı için varyansın yüksek olmasıdır.
+D) Kullanılan alt eşik değerinin çok küçük seçilmesi yüzünden modelin yalnızca gürültüyü öğrenebilmesidir.
+E) Sistemin girdi katmanından bağımsız hareket ederek kendi başına rastgele bir çözüm uzayı oluşturmasıdır.
+
+Correct Answer: C
+Document Reference: Bias Variance İlişkisi / Aşırı Uydurma
+Rationale: Belgede model karmaşıklaştıkça eğitim hatasının (ve biasın) düştüğü, ancak test verisi ile mesafe açıldığından varyansın yükseldiği, bu durumun modeli gerçek dünyada başarısız kıldığı analiz edilmiştir. En çeldirici seçenek olan A şıkkı, biasın düştüğü senaryoda varyansın da düştüğünü iddia ederek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 14 [Analyze | Medium] [COUNTER-INTUITIVE SETUP]
+
+Veri analizinde genellikle çeşitliliği ve detayları yakalamak için varyansın belirli bir seviyede tutulması istenir. Ancak Otsu Eşikleme yönteminde algoritma, nesne ve arka plan piksellerini ayırırken sınıf içi varyansı özellikle en aza indirmeye (minimize etmeye) çalışır. Belgelere göre bu zıt gibi görünen stratejinin asıl amacı nedir?
+A) Piksellerin ortalamadan sapma miktarını artırarak geçiş frekansı yüksek olan kenarları daha kalın çizmektir.
+B) Çekirdek penceresindeki maksimum değerleri koruyarak havuzlama işleminde veri kaybını büyük oranda önlemektir.
+C) Görüntüdeki aşırı uyum sorununu baskılayarak renk kanalları arasındaki yapısal hiyerarşiyi sıfıra indirmektir.
+D) İki sınıf arasındaki farkı maksimize edip piksellerin hangi sınıfa ait olduğunu daha net ve kesin belirlemektir.
+E) Sınıflandırıcıların karmaşıklığını düşürerek modelin gerçek dünya problemlerindeki çalışma hızını sabitlemektir.
+
+Correct Answer: D
+Document Reference: Sınıf İçi Varyans / Otsu Thresholding
+Rationale: Otsu yönteminde sınıf içi varyansın küçültülmesi, sınıflar arası farkın maksimize edilmesine olanak tanıyarak piksel atamalarının daha net yapılmasını sağlar. En çeldirici seçenek olan A şıkkı, eşikleme yönteminin amacını Canny kenar tespitinin özellikleriyle harmanlayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 15 [Analyze | Medium] [SYNTHESIS CONFLICT]
+
+Bir mühendis, pikseller üzerinde işlem yapan standart OpenCV fonksiyonlarını kullanarak otonom sürüş kararları verdirmeyi denemiş, ancak sistemin daha önce görülmemiş nesneleri tanımlayamadığını fark etmiştir. Belgelere göre, standart görüntü işleme fonksiyonları ile yapay zekâ arasındaki bu yapısal fark nasıl analiz edilmelidir?
+A) OpenCV fonksiyonları tesadüfi sonuçlar üretirken, yapay zekâ bu sonuçları düzenli matrislere dönüştürür.
+B) Görüntü işleme, eksik bilgi ile çalışabilme yeteneğine sahipken yapay zekâ standart olarak tam veri seti ister.
+C) Geleneksel görüntü işleme algoritması doğrudan nesne tanır, yapay zekâ ise yalnızca kenar sınırlarını işaretler.
+D) Yapay zekâ modelleri girdi katmanında bilgi işlememeyi şart koşarken, görüntü işleme her katmanı filtreler.
+E) Geleneksel yöntemler belirli kurallara dayalı piksel işlemleri yaparken, yapay zeka görülmemiş veriden bilgi üretir.
+
+Correct Answer: E
+Document Reference: Görüntü İşleme ve Yapay Zeka İlişkisi
+Rationale: Metinde geleneksel yöntemlerin belirli kurallara (filtre vb.) dayandığı, yapay zekanın ise kendi kendini organize edip görülmemiş örnekler üzerinden bilgi (karar) üretebildiği açıklanmıştır. En çeldirici seçenek olan B şıkkı, eksik bilgi ile çalışabilme yeteneğini geleneksel yönteme atfederek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 16 [Analyze | Medium] [BOUNDARY CASE]
+
+Bir yapay sinir ağı modelinde hedefler T={[2],[2],[3],[5]} ve tahminler Y={[0],[2],[1],[3]} olarak verilmiştir. Belgelerdeki Ortalama Mutlak Hata (MAE) ve Ortalama Kare Hata (MSE) formülleri kullanıldığında, aynı veri seti üzerinde bu iki farklı kayıp fonksiyonunun ürettiği sonuçlar arasındaki matematiksel ilişki nasıl analiz edilir?
+A) MSE hesaplaması karesel farklar yüzünden 3 sonucunu verirken, MAE mutlak farklardan dolayı 1.5 sonucunu üretir.
+B) Her iki formül de aynı temel sapmaları baz aldığı için nihai hata oranları her iki yöntemde de daima 3 çıkar.
+C) MAE hesaplamasında negatif değerler sıfıra dönüştürüldüğü için MSE'ye oranla büyük ölçüde yüksek bir hata çıkar.
+D) MSE değeri gri görüntüler için hesaplanabildiğinden, renkli üç kanallı matrislerde MAE kullanılması zorunludur.
+E) İkili sınıflandırma kurallarına tabi olan bu set üzerinde her iki yöntem de geçersiz olup yalnızca CCE formülü çalışır.
+
+Correct Answer: A
+Document Reference: Kayıp Fonksiyonu Hesaplama (MSE ve MAE formülleri)
+Rationale: Kaynaktaki MSE hesaplama örneği (4+0+4+4)/4 = 3 sonucunu verir. MAE ise mutlak farklar olan (2+0+2+2)/4 hesabından 1.5 sonucunu üretir. En çeldirici seçenek olan B şıkkı, iki farklı formülün aynı set üzerindeki ayrımını reddederek Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 17 [Analyze | Hard] [MISAPPLICATION TRAP]
+
+Çok sınıflı bir nesne tanıma probleminde bir geliştirici, ağın ürettiği ham skorların (logitlerin) zaten olasılık ifade ettiğini düşünerek Softmax aktivasyon fonksiyonunu devreden çıkarmış ve CCE (Categorical Cross Entropy) hesaplamasına doğrudan ham değerleri göndermiştir. Belgelere göre bu tercihin yol açacağı analitik hata aşağıdakilerden hangisidir?
+A) Ağın geriye doğru hesaplama aşamasında ağırlık değerlerini sürekli olarak sıfıra eşitleyip eğitimi dondurmasıdır.
+B) Tahmin değerlerinin 0 ile 1 arasına çekilememesi ve tüm sınıf olasılıkları toplamının 1'e eşitlenememesidir.
+C) Evrişim matrislerindeki adım kaydırma faktörünün bozularak özellik haritasının derinliğinin eksik çıkmasıdır.
+D) İkili sınıflandırma (Binary Cross-Entropy) mantığının devreye girerek ağın yalnızca iki çıkış üretebilmesidir.
+E) Çıktı katmanındaki nöron sayısının girdi katmanındaki proses elemanlarının toplamından daha fazla hale gelmesidir.
+
+Correct Answer: B
+Document Reference: Kayıp Fonksiyonu Hesaplama / Softmax Fonksiyonu
+Rationale: Metinde zi (ham skor) değerlerinin softmax fonksiyonundan geçirilerek olasılığa (0 ile 1 arasına) dönüştürüldüğü ve toplamlarının 1 olduğu açıkça anlatılmaktadır. Softmax olmazsa bu özellikler kaybedilir. En çeldirici seçenek olan D şıkkı, aktivasyon fonksiyonu yokluğunda modelin doğrudan BCE'ye döneceği varsayımını yaratarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 18 [Analyze | Hard] [COUNTER-INTUITIVE SETUP]
+
+Bilgisayarlı görüde nesnelerin sınırlarını belirlemek (bounding box) genellikle bir sınıflandırma problemi gibi algılanır. Ancak YOLO ve SSD gibi modern nesne algılama çerçeveleri, nesnelerin koordinatlarını bulma işlemini farklı bir matematiksel düzleme taşır. Belgelere göre bu modern yaklaşımların nesne algılamayı ele alış biçimi nasıl analiz edilir?
+A) Süreci bölgesel öneriler üretmekle sınırlandırıp sınıflandırma adımını dış dünyadaki algılayıcılara bırakırlar.
+B) Hedef nesnelerin sınırlarını tespit ederken pikselleri tek tek sayarak her pikseli bağımsız bir sınıf tanımlarlar.
+C) Nesne algılama sürecini geleneksel bölge önerileri yerine doğrudan bir regresyon veya sınıflandırma problemi olarak görürler.
+D) Maksimum havuzlama kullanarak bounding box içerisindeki tüm değerleri ortalama değerlere bölüp sınıflandırırlar.
+E) Sınıf içi varyansı en aza indirgeyerek nesne üzerindeki renk geçişlerini doğrudan evrişim katmanlarına kopyalarlar.
+
+Correct Answer: C
+Document Reference: Object Detection (YOLO, SSD)
+Rationale: Kaynak metinde, ikinci temel yaklaşımda (YOLO, SSD vb.) nesne algılamanın bir regresyon ya da sınıflandırma problemi olarak görüldüğü belirtilmektedir. En çeldirici seçenek olan A şıkkı, ilk yaklaşımın (R-CNN, bölge önerileri) özelliğini modern yöntemlere kaydırarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 19 [Analyze | Medium] [SYNTHESIS CONFLICT]
+
+Çok Katmanlı Algılayıcı (ÇKA) mimarisinde "Girdi katmanında hiçbir bilgi işlemi yapılmaz" kuralı kesin bir dille ifade edilirken, Evrişimsel Sinir Ağları (CNN) mimarilerinde "İlk evrişim katmanı giriş üzerinde örneğin 32 farklı filtre uygular" denilmektedir. Bu iki ifade arasındaki yapısal farklılık belgelere göre nasıl analiz edilir?
+A) CNN mimarilerinde bilgi işleme son katmanda yapılırken, ÇKA mimarilerinde tüm işlemler ara katmanda biter.
+B) ÇKA mimarilerinde filtreler giriş verisine ağırlık olarak yansıtılırken, CNN mimarilerinde özellik haritaları silinir.
+C) CNN mimarisindeki evrişim katmanları, ÇKA'daki girdi katmanından zayıf olduğu için sadece medyan işlemi yapar.
+D) ÇKA'nın girdi katmanı veriyi olduğu gibi ara katmana aktarırken, CNN'deki ilk evrişim katmanı özellikleri tespit eder.
+E) ÇKA ağları sürekli öğretmensiz öğrenme kullanırken, evrişim ağları öğretmenli öğrenme stratejisini mecburi kılar.
+
+Correct Answer: D
+Document Reference: Evrişim İşlemi / ÇKA Modeli Yapısı
+Rationale: ÇKA mimarisinde girdi katmanı yalnızca veriyi alıp iletir (işlem yapmaz). CNN'de ise görüntü matrisinin girdiği ilk evrişim katmanı aktif olarak filtreler uygular ve özellikleri (kenar vb.) tespit eder. En çeldirici seçenek olan E şıkkı, ÇKA'nın öğretmenli öğrenme stratejisini tersine çevirerek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 20 [Analyze | Hard] [BOUNDARY CASE]
+
+Derin öğrenme ağlarında uzamsal hiyerarşiyi algılamak için genellikle 3x3 veya 5x5 boyutunda evrişim pencereleri tercih edilir. Ancak bazı gelişmiş mimari dallanmalarında sınır koşulu olarak 1x1 boyutunda evrişim pencereleri kullanıldığı görülmektedir. Belgelere göre 1x1 evrişimlerin uzamsal bir genişliğe sahip olmamasına rağmen kullanılmasının analitik sebebi nedir?
+A) Piksellerin merkezden uzaklığını sıfıra indirerek Gauss bulanıklığındaki standart sapma oranını sabitlemektir.
+B) Her bir pencereyi otomatik eşikleyip nesnelerin arka planından daha bağımsız şekilde silinmesini sağlamaktır.
+C) Aktivasyon fonksiyonlarından çıkan ham skorları (logitleri) doğrudan sıfır ve bir aralığına sıkıştırarak çıktıyı üretmektir.
+D) Ortalama havuzlama katmanlarına duyulan ihtiyacı ortadan kaldırıp ağın tek bir katmandan oluşmasını sağlamaktır.
+E) Hızlı özellik çıkarımı yaparak düşük maliyetle kanal karıştırma işlemini gerçekleştirmek ve boyut düşürmeye katkı sağlamaktır.
+
+Correct Answer: E
+Document Reference: 1x1 Conv Branch
+Rationale: Ders notlarında 1x1 evrişimlerin "hızlı feature extraction", "kanal karıştırma" ve "maliyeti düşük" operasyonlar sağladığı belirtilmektedir. En çeldirici seçenek olan A şıkkı, Gauss bulanıklığındaki piksel mesafe formüllerini evrişim mantığına uyarlayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 21 [Evaluate | Easy] [MISAPPLICATION TRAP]
+
+Bir yazılım geliştirici, iki farklı görüntüdeki yalnızca ortak ve örtüşen pikselleri ayıklayıp geri kalan tüm farklılıkları silmek istemektedir. Bu amaçla OpenCV'nin "cv2.bitwise_or" fonksiyonunu kullanmış ancak görüntülerin silinmek yerine tamamen birleştiğini görmüştür. Belgelere göre bu mantıksal hatanın düzeltilmesi için hangi operatör değerlendirilmelidir?
+A) Sadece karşılıklı piksellerde var olan özellikleri koruyan bitwise AND (ve) operatörü kullanılmalıdır.
+B) Tüm ortak özellikleri tersine çevirerek ayıklayan bitwise NOT (değil) operatörü sürece dâhil edilmelidir.
+C) Görüntüleri birbirinden net koparmak amacıyla erozyon fonksiyonu matrisin genel tabanına uygulanmalıdır.
+D) Piksellerin ortalama yoğunluklarını hesaplayan adaptif eşikleme yöntemi ile görüntüler analiz edilmelidir.
+E) Birleştirme maliyetini sıfırlayan 1x1 boyutundaki evrişim filtreleri ile ortak alanlar önceden bulanıklaştırılmalıdır.
+
+Correct Answer: A
+Document Reference: Bitwise İşlemler
+Rationale: Belgede "bitwise_and" işleminin mantıksal olarak karşılıklı piksellerdeki ortak 1'leri (ortak alanları) tuttuğu örneklendirilmiştir. OR operatörü her iki görüntüyü birleştirir. En çeldirici seçenek olan B şıkkı, ortak pikseller kavramı ile tek resme uygulanan NOT işlemini karıştırarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 22 [Synthesize | Medium] [COUNTER-INTUITIVE SETUP]
+
+İki ayrı fotoğraf matrisi doğrudan birbiriyle toplandığında, teorik olarak her iki fotoğrafın unsurlarını barındıran düzgün bir birleşik görüntü oluşması beklenir. Ancak pratikte sonuç genellikle patlayan ve bozulmuş beyaz piksellerle dolu çıkar. Belgelere göre bu sorunu aşmak için sentezlenmesi gereken çözüm yolu nedir?
+A) Resimlerdeki tüm piksellerin ağırlıklarını sıfıra eşitleyen Laplacian filtresinin acilen devreye sokulmasıdır.
+B) Toplama işleminden sonra oluşan sayısal değerlerin normalizasyon yoluyla 0 ile 255 aralığına sıkıştırılmasıdır.
+C) Çok ölçekli özellik çıkarımı yapılarak her iki resmin de boyutlarının 3x3 evrişimlerle yarı yarıya küçültülmesidir.
+D) XOR mantık kapısı çalıştırılarak matrislerdeki yalnızca siyah ve beyaz olan piksellerin hesaplanmasına izin verilmesidir.
+E) Girdi katmanındaki verilerin ağın çıktı katmanına doğrudan bağlanarak kayıp fonksiyonunun devreden çıkarılmasıdır.
+
+Correct Answer: B
+Document Reference: OpenCV Piksel Toplama / Normalizasyon
+Rationale: Metinde "Renk bileşenlerini toplamadan sonra elde edilen değerleri normalizasyon (sıkıştırma) ile 0 ile 255 aralığına getirmek daha uygundur" uyarısı yer almaktadır. Aksi halde değerler sınırı aşıp görseli bozar. En çeldirici seçenek olan C şıkkı, evrişim boyut düşürme işlemini normalizasyon gibi sunarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 23 [Synthesize | Hard] [SYNTHESIS CONFLICT]
+
+Bir araştırmacı, yapay sinir ağının eğitimini hızlandırmak amacıyla veriyi girdi katmanından sürece dâhil etmeden, doğrudan hata değerleri (L) üzerinden ağırlık güncellemelerini (geriye yayılım) başlatmayı önermiştir. Belgelerdeki ileri ve geri besleme algoritmaları sentezlendiğinde, bu stratejinin teorik çelişkisi nasıl değerlendirilir?
+A) İleri besleme algoritmasının yalnızca evrişim katmanlarında kullanılması ve geriye yayılımın tamamen dışlanması gerekir.
+B) Ağdaki ağırlıkların ve sapma değerlerinin, test verisi uygulanmadan hiçbir koşulda analitik olarak değiştirilememesi ilkesidir.
+C) Geriye yayılımın çalışabilmesi için öncelikle ileri besleme ile bir çıkış üretilip hata oranının tespit edilmesi şarttır.
+D) Girdi katmanının bilgi işlem kapasitesi sınırsız olduğundan, doğrudan ağırlık güncellemelerinin ana matrisi bozmasıdır.
+E) Aktivasyon fonksiyonlarının türevlenemez olması nedeniyle ileri ve geri besleme safhalarının birbirinden tamamen kopuk çalışmasıdır.
+
+Correct Answer: C
+Document Reference: ÇKA Ağının Öğrenme Kuralı / Geri Yayılım Algoritması
+Rationale: Metin, öğrenmenin iki safhası olduğunu belirtir: 1. İleri hesaplama (çıkış üretme), 2. Geriye hesaplama (hata belirleyip ağırlık değiştirme). Çıkış üretilmeden hata bilinemeyeceği için doğrudan geriye yayılım yapılamaz. En çeldirici seçenek olan B şıkkı, test verisi ile eğitim verisi safhalarını birbirine katarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 24 [Evaluate | Medium] [BOUNDARY CASE]
+
+Yapay sinir ağlarında kayıp fonksiyonunun ağdaki parametrelere göre kısmi türevleri alınarak geriye yayılım (backpropagation) gerçekleştirilir. Belgelerde verilen f(x,y,z)=(x+y)z fonksiyonu bir sınır modeli olarak ele alındığında, q=x+y dönüşümü kullanılarak f fonksiyonunun x'e göre türevi zincir kuralıyla değerlendirildiğinde sonuç ne olmalıdır?
+A) Fonksiyon z değişkenine bağımlı olmadığından analitik işlem doğrudan q değerine eşit olarak hesaplanıp çıkar.
+B) Türevleme zincir kuralına göre ağ içerisindeki x ve y parametrelerinin toplamının iki katına doğrudan dönüşür.
+C) İleri besleme aşamasında x ve y birbirini sıfırladığı için türev sonucunda ortaya sadece standart 1 sabiti çıkar.
+D) q'nun x'e göre türevi 1 ve f'nin q'ya göre türevi z olduğundan çarpım kuralıyla nihai sonuç z olarak elde edilir.
+E) Aktivasyon adımında x ve y değerleri çapraz çarpılarak eklendiğinden dolayı matematiksel işlem sonucu x+z olur.
+
+Correct Answer: D
+Document Reference: Kısmi Türev / Zincir Kuralı Örneği
+Rationale: Belgede "f(x,y,z)=(x+y)z, q=x+y, ∂q/∂x = 1, f=qz, ∂f/∂q=z" şeklinde adım adım zincir kuralı verilmiştir. (∂f/∂q) * (∂q/∂x) = z * 1 = z bulunur. En çeldirici seçenek olan B şıkkı, türevleme sırasında x ve y parametrelerini asılsız bir matematik kuralıyla (iki katı) birleştirerek Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 25 [Synthesize | Hard] [MISAPPLICATION TRAP]
+
+Elinde sadece birkaç yüz görsel barındıran çok küçük bir veri seti bulunan bir uzman, performansın zamanla artacağı yanılgısıyla sıfırdan son derece derin ve karmaşık bir ağ mimarisi kurup günlerce eğitim yapmıştır. Belgelerdeki tavsiyeler ışığında, bu uzmanın içine düştüğü aşırı uyum (overfitting) tuzağını aşmak için sentezlemesi gereken en uygun strateji hangisidir?
+A) Modelin karmaşıklığını daha da artırarak küçük veri kümesindeki genel varyansı bias değerinden tamamen ayırmak.
+B) OpenCV kütüphanesindeki bitwise operatörlerini kullanarak ağın yalnızca kenar algılayan bir sisteme dönüşmesini sağlamak.
+C) Geriye yayılım (backpropagation) işlemini kapatıp sadece ileri besleme safhasıyla hesaplanan tüm ağırlıkları dondurmak.
+D) Eşikleme işlemlerinde Canny algoritması kullanıp piksellerdeki renk uzayı matrislerini üç boyutlu tensörlere dönüştürmek.
+E) Önceden eğitilmiş mevcut bir evrişimsel ağın (convnet) özellik çıkarma yeteneğini kullanarak bu yapıyı yeni veri setine uyarlamak.
+
+Correct Answer: E
+Document Reference: Özellik Çıkarma / Küçük Veri Kümeleri
+Rationale: Metinde küçük görüntü kümeleriyle çalışırken aşırı uyumla mücadele etmek için mevcut bir convnet'i (önceden öğrenilen temsilleri) özellik çıkarma yoluyla yeniden kullanmanın değerli bir teknik olduğu belirtilmektedir. En çeldirici seçenek olan A şıkkı, karmaşıklaştırmanın aşırı uyumu çözeceği yanılgısını sürdürerek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+─────────────────────────────────────
+
+## ANSWER KEY SUMMARY
+
+| Q | Answer | Bloom's Level | Difficulty | Scenario Frame |
+| --- | --- | --- | --- | --- |
+| 1 | A | Remember | Easy | — |
+| 2 | B | Remember | Easy | — |
+| 3 | C | Understand | Medium | — |
+| 4 | D | Understand | Medium | — |
+| 5 | E | Apply | Easy | Misapplication Trap |
+| 6 | A | Apply | Medium | Counter-Intuitive |
+| 7 | B | Apply | Medium | Synthesis Conflict |
+| 8 | C | Apply | Medium | Boundary Case |
+| 9 | D | Apply | Hard | Misapplication Trap |
+| 10 | E | Apply | Hard | Counter-Intuitive |
+| 11 | A | Apply | Medium | Synthesis Conflict |
+| 12 | B | Apply | Hard | Boundary Case |
+| 13 | C | Analyze | Easy | Misapplication Trap |
+| 14 | D | Analyze | Medium | Counter-Intuitive |
+| 15 | E | Analyze | Medium | Synthesis Conflict |
+| 16 | A | Analyze | Medium | Boundary Case |
+| 17 | B | Analyze | Hard | Misapplication Trap |
+| 18 | C | Analyze | Hard | Counter-Intuitive |
+| 19 | D | Analyze | Medium | Synthesis Conflict |
+| 20 | E | Analyze | Hard | Boundary Case |
+| 21 | A | Evaluate | Easy | Misapplication Trap |
+| 22 | B | Synthesize | Medium | Counter-Intuitive |
+| 23 | C | Synthesize | Hard | Synthesis Conflict |
+| 24 | D | Evaluate | Medium | Boundary Case |
+| 25 | E | Synthesize | Hard | Misapplication Trap |
+
+## ANSWER POSITION AUDIT
+
+A: 5 times | B: 5 times | C: 5 times | D: 5 times | E: 5 times
