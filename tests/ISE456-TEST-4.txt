@@ -1,0 +1,360 @@
+### Question 1 [Remember | Easy]
+
+Derin öğrenmede transfer öğrenimi yaklaşımlarından biri olan "özellik çıkarma" (feature extraction) yönteminin temel tanımı belgelere göre aşağıdakilerden hangisidir?
+A) Ağın önceden öğrendiği temsilleri kullanarak yeni problemdeki en önemli yapısal özellikleri otomatik olarak bulmasıdır.
+B) Modelin eğitim setindeki gereksiz özellikleri filtreleyerek ağın girdi katmanındaki piksel yoğunluklarını tamamen ve kalıcı sıfırlamasıdır.
+C) Eğitim seti küçük olduğunda verileri döndürerek yeni özellikler üretip doğrudan ağın nihai çıktı katmanına aktarmasıdır.
+D) Özellik mühendisliğine duyulan ihtiyacı kalıcı olarak yok edip ağın sadece dış dünyadan gelen etiketleri ezberlemesidir.
+E) Orijinal özelliklerin manuel olarak alan uzmanları tarafından tasarlanıp ağın gizli katmanlarına dışarıdan yapısal formda enjekte edilmesidir.
+
+Correct Answer: A
+Document Reference: Transfer Öğrenimi (Özellik Çıkarma)
+Rationale: Metinde "Özellik Çıkarma... probleminizin en iyi temsilini keşfetmek için derin öğrenmeyi kullanmaktır; bu da en önemli özellikleri bulmak anlamına gelir" şeklinde açıklanmıştır. En çeldirici seçenek olan D şıkkı, özelliklerin otomatik bulunmasını, özellik mühendisliğini tamamen yok etmek gibi asılsız bir mutlak kurala bağlayarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 2 [Remember | Easy]
+
+Bilgisayarlı görüde kullanılan morfolojik işlemlerden kapanım (closing) algoritmasının standart uygulama sırası belgelerde nasıl tanımlanmıştır?
+A) Görüntüye önce erozyon (aşınma) ardından genişleme (dilation) işlemlerinin art arda uygulanmasıyla oluşturulan matematiksel bir morfolojik yapılandırmadır.
+B) Görüntüye önce genişleme (dilation) ardından erozyon (aşınma) işlemlerinin art arda uygulanmasıyla oluşturulan matematiksel bir morfolojik yapılandırmadır.
+C) Gradyan matrisinin hesaplanması için erozyon ve genişleme algoritmaları arasındaki mutlak farkın tespit edilmesiyle kurulan yapısal sınırlandırmadır.
+D) Nesnelerin içindeki küçük delikleri kapatmak için sadece maksimum havuzlama filtrelerinin üst üste ardışık biçimde yoğunlaştırılarak uygulanmasıdır.
+E) Genişletme işlemi yapılmaksızın yalnızca dış çeperdeki pürüzlerin erozyon algoritmasıyla tamamen ve kalıcı olarak dıştan mutlak surette silinmesidir.
+
+Correct Answer: B
+Document Reference: Morfolojik İşlemler (Closing)
+Rationale: Kaynak metinde Opening (Açılım) işlemi "erozyon ardından dilation" olarak tanımlanırken, Closing (Kapanım) işlemi bunun tam tersi olarak "dilation ardından erozyon" şeklinde ifade edilir. En çeldirici seçenek olan A şıkkı, açılım (opening) işleminin sırasını kapanım işlemi gibi sunarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 3 [Understand | Medium]
+
+Evrişimsel ağlarda adım (stride) sayısının birden büyük, örneğin iki olarak kullanılmasının özellik haritası üzerindeki yapısal etkisi nasıl açıklanır?
+A) Piksellerin merkezden uzaklıkları artacağı için özellik haritasının boyutunun orijinal girdi matrisinden çok daha büyük hale gelmesine neden olur.
+B) Piksel dolgusu (padding) otomatik olarak eklendiğinden dolayı özellik haritasının her durumda girdi matrisiyle aynı uzamsal boyutta kalmasına neden olur.
+C) Filtrenin pikseller üzerinde atlayarak ilerlemesi sonucunda özellik haritasının genişliğinin ve yüksekliğinin uzamsal olarak alt örneklenip yapısal küçülmesine neden olur.
+D) Özellik haritası daralırken aynı zamanda ağın geriye yayılım algoritmasının matematiksel olarak çalışmayı tamamen durdurup öğrenme sürecini kalıcı dondurmasına neden olur.
+E) Renk kanallarının sayısı iki katına çıkacağı için ağın genel hesaplama maliyetinin tüm eğitim döngülerinde sürekli ve son derece artmasına neden olur.
+
+Correct Answer: C
+Document Reference: Evrişim Katmanı (Adım/Stride Faktörü)
+Rationale: Belgede "Adım sayısının 2 olarak kullanılması, özellik haritasının genişliğinin ve yüksekliğinin 2 faktörüyle alt örneklenmesi [küçülmesi] anlamına gelir" bilgisi net olarak yer alır. En çeldirici seçenek olan B şıkkı, dolgu (padding) kavramının boyut koruma özelliğini adım atlama senaryosuna taşıyarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 4 [Understand | Medium]
+
+Yapay sinir ağlarının bilgi işleme ve bellekte tutma kapasiteleriyle ilgili belgelerde vurgulanan temel yetenek aşağıdakilerden hangisidir?
+A) Ağların yalnızca eksiksiz ve gürültüsüz veri setleriyle çalışarak matematiksel kesinlik gerektiren çıktıları bütünüyle garanti etme zorunluluğudur.
+B) Öğrenme sürecinde elde edilen tüm bilgileri yalnızca ağın en sonundaki çıktı nöronlarında merkezi bir yapıda kalıcı depolamasıdır.
+C) Geleneksel görüntü işleme algoritmalarındaki gibi belirli kesin kurallara dayanarak manuel bir özellik mühendisliği zorunluluğu sunması ve gerektirmesidir.
+D) Sistemin eksik veya belirsiz bilgilerle çalışabilmesi ve elde edilen bilgileri ağ üzerindeki bağlantılara dağıtık bir bellek yapısıyla yaymasıdır.
+E) Örüntüleri tanıyabilmesine rağmen ağın bir parçasının bozulması durumunda tüm sistemin dereceli değil aniden ve tamamen çökmeye programlanmış olmasıdır.
+
+Correct Answer: D
+Document Reference: YSA Özellikleri (Hafta 5 slaytı)
+Rationale: Ders notlarında YSA'nın "eksik bilgi ile çalışabilmektedirler", "belirsiz tam olmayan bilgileri işleyebilmektedirler" ve "dağıtık belleğe sahiptirler" özellikleri art arda sıralanmıştır. En çeldirici seçenek olan B şıkkı, dağıtık bellek kuralını çıktı nöronlarına merkezi olarak toplanma şeklinde tersine çevirerek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 5 [Apply | Easy] [MISAPPLICATION TRAP]
+
+Bir geliştirici, veri setindeki kedi, köpek ve kuş gibi üç farklı hedef sınıfı birbirinden ayırmak için modelin sonuna kayıp fonksiyonu olarak Ortalama Kare Hata (MSE) eklemiştir. Belgelere göre, geliştiricinin regresyon ile sınıflandırmayı birbirine karıştırdığı bu senaryoda asıl kullanması gereken fonksiyon hangisidir?
+A) Tahmin hatalarının mutlak değerlerini toplayarak büyük hataların etkisini azaltmayı hedefleyen Ortalama Mutlak Hata (MAE) algoritmasının ana formülasyonu.
+B) İkili eşleşmeleri destekleyen Binary Cross Entropy (BCE) fonksiyonu ve matrisin çıktı katmanındaki yalnızca iki nöronlu temel yapılandırması.
+C) Hata sinyallerini geriye yaymak yerine doğrudan dış dünyaya yollayan Softmax aktivasyonlu sınıflar arası varyans hesaplayıcısının mutlak mekanizması.
+D) Ağırlıkların öğrenilmesini engellemek için eğitim setindeki matematiksel değerleri tamamen sabitleyen adaptif eşikleme tabanlı hata tolerans filtresinin matematiksel döngüsü.
+E) Çok sınıflı sınıflandırma problemlerindeki olasılık dağılımlarını doğru optimize etmek amacıyla tasarlanmış Categorical Cross Entropy (CCE) fonksiyonunun analitik yapısı.
+
+Correct Answer: E
+Document Reference: Kayıp Fonksiyonları (Loss Functions)
+Rationale: Belgede MSE ve MAE'nin regresyon için, Categorical Cross Entropy'nin (CCE) ise çok sınıflı sınıflandırma problemleri için tasarlandığı anlatılmaktadır. MSE sınıflandırma için uygun değildir. En çeldirici seçenek olan B şıkkı, sınıflandırma mantığını doğru ifade edip bunu üç sınıf yerine ikili (Binary Cross Entropy) fonksiyona uyarlayarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 6 [Apply | Medium] [SYNTHESIS CONFLICT]
+
+Bir mühendis, 64x64 boyutundaki bir girdi matrisinin uzamsal boyutunu tam olarak korumak için sıfır dolgu (p=1) ve 3x3 boyutunda bir filtre kullanmış, ancak adım kaydırma faktörünü (stride) 2 olarak belirlemiştir. Dolgu yapılmasına rağmen matrisin neden küçüldüğü belgelere göre nasıl açıklanır?
+A) Boyutun korunması için dolgu miktarı yeterli olsa da adım faktörünün birden büyük olması özellik haritasının uzamsal alt örneklenmesine yol açmıştır.
+B) Özellik haritalarında kullanılan sıfır dolgusu yöntemi, sadece çift sayılı filtre çekirdeklerinde matris boyutunu matematiksel olarak doğrudan korumaya programlanmış bir sistemdir.
+C) Adım kaydırmanın artırılması ağdaki hesaplama maliyetini sıfıra indirdiği için matris yapısı koruma mantığını otomatik olarak tamamen dışarı atmış ve dondurmuştur.
+D) Maksimum havuzlama fonksiyonu girdi katmanından önce çalışarak matrisin sınır piksellerini şiddetli erozyona uğratmış ve görüntünün uzamsal yapısını kalıcı olarak küçültmüştür.
+E) Dolgu işlemi matrisi teorik olarak büyütse de, geriye yayılım sırasındaki türev hataları yüzünden ağ boyutu koruma yeteneğini kasıtlı olarak tamamen bırakmıştır.
+
+Correct Answer: A
+Document Reference: Evrişim Boyut Formülü
+Rationale: Padding (dolgu) normalde `s=1` iken boyutu korur. Ancak `s=2` (adım=2) olduğunda filtre ikişer piksel atladığı için (64+2-3)/2+1 hesabı gereği uzamsal boyut hızla düşer. En çeldirici seçenek olan B şıkkı, sıfır dolgusu kuralını çift sayılı filtrelerin çalışmasına bağlayarak asılsız bir sınır yaratarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 7 [Apply | Medium] [COUNTER-INTUITIVE SETUP]
+
+Görüntüdeki siyah arka plan üzerindeki beyaz bir nesneyi arka plandan tamamen koparıp yeni bir beyaz tuvale almak isteyen bir analist, sezgisel olarak "cv2.bitwise_not" (DEĞİL) operatörünü tüm görüntüye uygulamıştır. Belgelere göre bu uygulamanın beklenen izolasyonu sağlamamasının altındaki zıt mantık nedir?
+A) Operatörün sadece pikselleri normalize ederek sıfır ile bir arasına çekmesi ve arka plan siyahlıklarını rastgele donanımsal renklere dönüştürmekle görevli olmasıdır.
+B) Değil operatörünün sadece piksellerin mevcut mantıksal değerini mutlak tersine çevirmesi ve matris içindeki nesne ile arka planı ayrıştırma yeteneğinin olmamasıdır.
+C) Bu fonksiyonun yalnızca çok kanallı RGB görüntülerde kırmızı ve mavi kanalları tamamen silerek genel görüntüyü sadece yeşil renk spektrumuna bükmesidir.
+D) Operatörün nesnenin etrafındaki dış kenarları kalınlaştırması ancak arka planı matristen bütünüyle silecek ve izole edecek olan matematiksel yapıdan bütünüyle mahrum kalmasıdır.
+E) İki farklı matris görüntüsünü zorla birleştirmeye çalışarak hem temel nesnenin hem de arka planın tamamen siyah bir boşluğa matematiksel olarak düşürülmesidir.
+
+Correct Answer: B
+Document Reference: Bitwise İşlemler (NOT)
+Rationale: NOT operatörü sezgisel olarak nesneyi arka plandan soyutlamaz; sadece beyaz pikselleri siyaha, siyah pikselleri beyaza (yani görselin negatifine) çevirir. Soyutlama (eşikleme) yeteneği yoktur. En çeldirici seçenek olan E şıkkı, bitwise AND/OR gibi birleştirme mantıklarını NOT operatörüyle harmanlayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 8 [Apply | Medium] [BOUNDARY CASE]
+
+Çok katmanlı bir algılayıcıda ara katmandaki bir nöronun NET girdi değeri tam olarak sıfır (0) olarak hesaplanmış ve standart Sigmoid aktivasyon fonksiyonuna iletilmiştir. Belgelere göre, $F(NET) = 1 / (1 + e^{-NET})$ formülü uygulandığında bu sınır koşulunda üretilecek aktivasyon çıktısı nedir?
+A) Aktivasyon fonksiyonu sıfır değerlerinde doğrudan tanımsız olacağından dolayı proses elemanı geriye yayılım algoritmasına rastgele ve kontrolsüz bir hata sinyali yollayacaktır.
+B) Eksi yöndeki NET değeri matematiksel olarak sıfırlandığı için fonksiyon paydasındaki değer sonsuza gidecek ve nihai çıkış kalıcı mutlak sıfır değeri olacaktır.
+C) Denklemdeki e üzeri sıfır değeri bire eşit olacağından formülün paydası ikiye çıkacak ve nöron tam olarak sıfır nokta beş (0.5) değerini üretecektir.
+D) Ağdaki toplam bias (sapma) değerleri fonksiyonu doğrudan baskılayarak sigmoid eğrisinin pozitif mutlak sınırı olan tam bir (1.0) değerini yapısal olarak zorla dışarı aktaracaktır.
+E) Nöron gelen sıfır bilgisini hiçbir matematiksel işleme tabi tutmadan doğrudan bir sonraki ara katmana yollayarak aktivasyon sürecini bütünüyle durduracak ve ağı donduracaktır.
+
+Correct Answer: C
+Document Reference: Aktivasyon Fonksiyonları (Sigmoid)
+Rationale: Sigmoid formülü gereği NET=0 ise $e^{-0} = 1$ olur. Payda 1+1=2 olur ve sonuç 1/2 = 0.5 olarak nöron dışına aktarılır. En çeldirici seçenek olan B şıkkı, eksi işareti ve sıfır değerini sonsuza gitmek gibi geçersiz bir matematiksel limite bağlayarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 9 [Apply | Hard] [MISAPPLICATION TRAP]
+
+İki parlak manzara fotoğrafını üst üste bindirmek isteyen bir geliştirici, görüntü işleme kütüphaneleri yerine standart matematiksel "matris1 + matris2" komutunu kullanmıştır. Belgelere göre, resimlerin birleşmek yerine beyaz patlamalar ve renk bozulmaları yaşamasının sebebi hangi kuralın ihlalidir?
+A) Görüntülerin toplanmadan önce zorunlu olan Gauss bulanıklaştırma filtresinden geçirilmemesi nedeniyle bölgesel piksel varyanslarının matrisler üzerinde aşırı derecede artarak sistemin yapısal donanım sınırlarını bütünüyle zorlamasıdır.
+B) Standart toplama işleminin resimlerdeki renk kanallarının uzamsal sırasını değiştirip BGR formatını HSV formatına zorla dönüştürerek matrisleri kilitlemesi ve genel sistem hesaplamalarını kalıcı olarak durdurmasıdır.
+C) Matris boyutları tamamen aynı olsa bile kütüphane dışı operatörlerin özellik haritası üzerinde sadece erozyon (aşınma) işlemlerine izin vermesi ve piksellerin mutlak surette karanlığa gömülmesidir.
+D) Standart toplamada iki yüz elli beş (255) sınırını aşan piksellerin modüler aritmetik yüzünden bozulması ve "cv2.add" gibi bir normalizasyon sıkıştırma fonksiyonunun kullanılmasının kalıcı ihmalidir.
+E) Bitwise ve (AND) işleminin matematiksel toplamayla yapısal olarak çakışarak matrislerdeki ortak noktaları bütünüyle siyah piksellere dönüştürmesi ve nesnelerin matrislerden tamamen silinmesine yol açmasıdır.
+
+Correct Answer: D
+Document Reference: Görüntü Matrisleri Toplama
+Rationale: Standart Numpy "+" operatörü modüler aritmetik uygulayarak 255'i aşan pikselleri sıfırdan tekrar başlatır ve renk bozulmalarına (patlamalara) yol açar. "cv2.add" gibi fonksiyonlar ise değerleri 255'te normalleştirerek (sınırlandırarak) tutar. En çeldirici seçenek olan A şıkkı, patlayan parlaklığı Gauss gürültüsüne benzeterek yanlış bir ön filtreleme mecburiyeti yaratarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 10 [Apply | Hard] [COUNTER-INTUITIVE SETUP]
+
+Boyut düşürme işlemlerinde, ortalama havuzlama (average pooling) matristeki tüm piksellerin bilgisini hesaba katarak adil bir özet sunarken, maksimum havuzlama (max pooling) piksellerin çoğunu doğrudan çöpe atar. Belgelere göre veri kaybına rağmen ağ tasarımlarında maksimum havuzlamanın daha çok tercih edilmesinin karşıt mantığı nedir?
+A) Atılan zayıf özellikli piksellerin daha sonrasında sıfır dolgu (padding) olarak sınır hatlarına geriye yayılım ile yeniden matematiksel şekilde zorla eklenmesi mimari zorunluluğudur.
+B) Ortalama havuzlamanın genel özellik haritasını çok fazla büyüterek ağın uzamsal genelleştirme yeteneğini tamamen kısıtlayıp modeli test aşamalarında kalıcı olarak yapısal formda mutlak çökertmesidir.
+C) Maksimum değerlerin sınıf içi varyansı sürekli minimuma iterek adaptif eşikleme sisteminin çalışma prensibini bütünüyle güvence altına alıp matrisin dış gürültülerden tamamen ve kalıcı arındırılmasıdır.
+D) Sadece Canny sınır algılama algoritmasının maksimum değerli pikselleri dış çeper çizgisi olarak okuyabilmesi ve ortalama değerleri matristen sürekli reddederek dış dünyadan gelen verileri kalıcı kilitlenmesidir.
+E) Ortalama alma işleminin önemli sinyallerin matematiksel bilgisini zayıflatması gerçeğine karşılık, maksimum havuzlamanın tespit edilen en güçlü aktivasyonları bütünüyle koruyarak ağın derinliklerine sorunsuz biçimde doğrudan taşımasıdır.
+
+Correct Answer: E
+Document Reference: Pooling Katmanları (Max vs Average)
+Rationale: Ortalama alma işlemi tüm değerleri kattığı için güçlü özellikleri (kenar vb.) yumuşatır ve zayıflatır. Ancak maksimum havuzlama, diğer pikseller çöpe atılsa bile, en belirgin ve güçlü aktivasyonu olduğu gibi korur. En çeldirici seçenek olan B şıkkı, ortalama havuzlamanın boyut büyüttüğü şeklindeki tamamen asılsız bir mantık kurarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 11 [Apply | Medium] [SYNTHESIS CONFLICT]
+
+Bir projede binlerce parametresi olan derin bir ağ, oldukça küçük bir veri setiyle beslenmiştir. Ağın eğitim hatası sıfıra hızla inerken test hatası büyük bir hızla yukarı tırmanmıştır. Belgelerdeki tavsiyelere göre, bu dengesiz çelişkiyi çözmek için uygulanması gereken sentezlenmiş strateji hangisidir?
+A) Derin öğrenme yerine geleneksel görüntü işleme yöntemlerine başvurmak ya da sentetik veri üretimi ve önceden eğitilmiş mevcut modellerden doğrudan yeni uzamsal özellikler bütünüyle çıkarmak.
+B) Çıktı katmanındaki tüm softmax aktivasyon fonksiyonlarını kapatarak sistemi doğrudan çapraz entropi (CCE) üzerinden öğretmenli öğrenmeye kalıcı zorlayıp ağın test seti varyansını mutlak olarak rastgele düşürmek.
+C) Veri seti küçük olduğu için ağın genel katman sayısını daha da artırıp gizli ara katmanlardaki matematiksel öğrenme ve ezberleme kapasitesini sürekli maksimum mutlak seviyelere doğrudan çekmek.
+D) Görüntüleri standart gri seviyeye çekip sadece yatay Sobel filtresinden geçirerek modelin dış dünyadan gelecek yeni etiketleri ezberlemesini bütünüyle önlemek ve eğitim hatasını sürekli sıfıra kilitlemek.
+E) Ortalama mutlak hata (MAE) fonksiyonunun karesel etkilerini tamamen iptal edip modelin geriye yayılım algoritmasındaki tüm ağırlık değerlerini rastgele dondurarak küçük verilerin yapay yollarla kalıcı artmasını sağlamak.
+
+Correct Answer: A
+Document Reference: Küçük Veri Setleriyle Çalışma
+Rationale: Ders notları az veride derin ağların aşırı uydurma (overfitting) yaşayacağını, çözüm için geleneksel yöntemlerin, veri artırmanın (data augmentation) veya önceden eğitilmiş modellerden özellik çıkarımının (transfer learning) sentezlenmesi gerektiğini vurgular. En çeldirici seçenek olan C şıkkı, aşırı uydurma yaşandığında modelin daha da karmaşıklaştırılması gerektiğini savunarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 12 [Apply | Medium] [BOUNDARY CASE]
+
+Bir mühendis Sobel operatörü kullanarak bir görüntünün sadece yatay kenarlarını vurgulamak istemiş ve "cv2.Sobel(görsel, cv2.CV_64F, 1, 0, ksize=5)" parametrelerini girmiştir. Ancak dikey sınırları aradığında yanlış parametrelerle karşılaşmıştır. Belgelere göre mühendisin aynı matriste sadece dikey sınırları bulması için parametreler nasıl sınırlandırılmalıdır?
+A) Dikey kenarlar için ksize değerinin mutlak surette sıfıra indirilip çekirdek filtresinin yalnızca tek kanallı gri tonlamalı görüntüler üzerinde çalışmasının matematiksel yollarla sistem içinde yapısal sağlanması gerekliliğidir.
+B) Fonksiyonun üçüncü parametresi olan yatay türev (dx) sıfır, dördüncü parametresi olan dikey türev (dy) ise bir olarak doğrudan güncellenerek matris üzerinde sadece dikey yönlü analizler başlatılmalıdır.
+C) Parametrelerin ikisi de aynı anda bir yapılarak sistemin aynı anda hem yatay hem dikey çalışması zorlanmalı ve matrisin genel sınır yapıları bütünüyle birbiriyle kalıcı olarak harmanlanmalıdır.
+D) Yatay tespit algoritmasının sorunsuz çalışabilmesi için Sobel matrisi öncesinde Otsu adaptif eşikleme sisteminin sisteme yapısal olarak bütünüyle entegre edilip varyans değerlerinin kalıcı mutlak olarak sürekli izlenmesidir.
+E) Altmış dört f (64F) formatı renk uzayını bozduğu için sistemin standart BGR yapısına döndürülerek girdi parametrelerinin tamamen sabit tutulması ve işlemlerin yalnızca doğrusal piksel okumayla sınırlanmasıdır.
+
+Correct Answer: B
+Document Reference: Sınır Tespit Algoritmaları (Sobel)
+Rationale: Kaynakta Sobel'in parametre düzeninde 3. parametrenin (dx) yatay, 4. parametrenin (dy) dikey türevi aldığı, yatay için (1,0) dikey için ise tam tersi (0,1) kullanılması gerektiği net olarak belirtilir. En çeldirici seçenek olan C şıkkı, her ikisine de 1 vererek sadece dikey sınırı bulmak yerine harmanlanmış bir sınır algoritması yaratıp Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 13 [Analyze | Easy] [MISAPPLICATION TRAP]
+
+Python kullanarak bir model eğiten analist, ImageDataGenerator fonksiyonuna "validation_split=0.3" parametresini eklemiş, ancak "subset='training'" parametresini her iki jeneratör için de kullanarak test verisi elde edememiştir. Belgelere göre bu kodlamadaki analitik tasarım hatası nedir?
+A) Keras kütüphanesinin veri artırma işlemlerinde yalnızca gri tonlamalı matrislerin matematiksel olarak alt kümelere ayrılmasına izin vermesi ve renkli görüntüleri bütünüyle işlem dışı bırakarak sistemi bütünüyle durdurmasıdır.
+B) Doğrulama kümesi ayırmanın eğitim başarı oranını ciddi ölçüde düşüreceği için validation_split değerinin mutlak surette sıfıra çekilerek veri setinin sadece ve sadece test amacıyla yapısal olarak bütünüyle korunmasıdır.
+C) İkinci test jeneratörü oluşturulurken ayrılan yüzde otuzluk doğrulama payını başarıyla alabilmesi için subset parametresinin mecburen 'validation' olarak yapısal değiştirilmesinin yazılımcı tarafından bütünüyle unutulmuş olmasıdır.
+D) Veri kaydırma işlemleri eksik bırakıldığından dolayı split oranının matris üzerinde çalışmayıp ağın genelleştirme kabiliyetini sıfırlayarak sistemi aşırı uydurma (overfitting) problemine bütünüyle ve kalıcı düşürmesidir.
+E) Sınıf modunun (class_mode) ikili eşleşmeler için uygun olmaması yüzünden kod bloğunun dış dünyadan gelecek etiketleri tamamen reddetmesi ve ağın geriye yayılım algoritmasını çalışmaya başlamadan mutlak surette kapatmasıdır.
+
+Correct Answer: C
+Document Reference: Model Eğitimi (Metin Dosyası Kodları)
+Rationale: Verilen Python kod örneğinde eğitim ve doğrulama kümesi (validation_generator) için ayrı jeneratörler kurulurken subset argümanı ikinci jeneratörde 'validation' olarak girilmek zorundadır. Analist her ikisine 'training' diyerek veriyi test için ayıramamıştır. En çeldirici seçenek olan D şıkkı, veri artırma özelliklerinin split mekanizması üzerinde zorunlu bir blokaj yarattığını iddia ederek Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 14 [Analyze | Medium] [COUNTER-INTUITIVE SETUP]
+
+Analitik bir incelemede, modelin yapısal karmaşıklığının artırılmasının, eğitim verisi üzerindeki hatayı (bias) ciddi şekilde düşürerek modeli mükemmele yaklaştırdığı görülür. Ancak modelin test verisindeki başarısı aynı oranda düşmektedir. Belgelere göre bu zıt yönlü performans eğrisinin asıl kaynağı nasıl analiz edilir?
+A) Ağdaki geri yayılım algoritmasının tamamen durarak yalnızca ileri besleme safhasıyla veriyi işlemesi ve hata oranlarını hesaplamayı kalıcı bırakıp ağ mimarisini eğitim döngüsünden mutlak olarak dışarı atmasıdır.
+B) Aktivasyon fonksiyonlarının türevlenemez sınırları yüzünden ağın genel çerçeveyi öğrenecek kadar geniş bir uzamsal alana erişememesi ve girdi katmanındaki verileri hiçbir işlem yapmadan doğrudan dış dünyaya mutlak yollamasıdır.
+C) Öğrenme sürecinin çok uzun sürmesi nedeniyle eğitim bias değerinin varyansı bütünüyle baskılayıp sistemi basit, işlevsiz ve genelleştirme yeteneğinden tamamen yoksun kalıcı bir yapısal tasarıma doğrudan doğruya mutlak zorlamasıdır.
+D) Karmaşık modelin genel örüntüyü öğrenmek yerine eğitim verisindeki detayları tamamen ezberleyerek varyansını bütünüyle yükseltmesi ve daha önce görülmemiş test verisi üzerinde genelleştirme yeteneğini kalıcı ve mutlak olarak kaybetmesidir.
+E) Eğitim kümesindeki dengesiz sınıflandırma problemi nedeniyle test varyansının mutlak sıfıra yakınsayıp modelin aşırı uydurma sorunundan hızlıca çıkarak dış ortamdaki tüm verileri eksiksiz biçimde bütünüyle doğru şekilde sürekli öğrenmesidir.
+
+Correct Answer: D
+Document Reference: Aşırı Uydurma (Overfitting) / Bias ve Varyans
+Rationale: Model karmaşıklaştıkça eğitim hatası sıfıra yaklaşır (bias düşer), fakat model eğitim verisindeki gürültüyü bile ezberlediği için varyans yükselir ve test hatası artar (Overfitting). En çeldirici seçenek olan C şıkkı, karmaşıklık sonucu oluşan ezberleme sorununu modelin basitleşmesi gibi mantık dışı bir kuramla harmanlayarak Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 15 [Analyze | Medium] [SYNTHESIS CONFLICT]
+
+VGG gibi derin evrişimsel mimarilerde özellik haritalarının boyutu havuzlama katmanlarıyla giderek küçültülür. Mantıksal olarak piksel kaybı yaşandığı için ağın detayları görememesi beklenirken, derinlerdeki nöronların genel nesneyi daha iyi tanıdığı görülür. Bu analitik çelişki belgelere göre nasıl sentezlenir?
+A) Havuzlama katmanlarının matristen silinen pikselleri sıfır dolgu (padding) formatında geriye yayılım algoritması ile girdi matrisine matematiksel olarak doğrudan geri ekleyip uzamsal çözünürlüğü eski haline kalıcı biçimde ve tamamen getirmesi.
+B) Derinlere inildikçe evrişim filtre boyutlarının üçten yediye çıkarılarak kayıp piksellerin uzamsal standart sapma katsayılarının mutlak surette eşitlenmesi ve sistemin dış dünyaya karşı genel doğruluk oranının bütünüyle sürekli ve kalıcı artırılması.
+C) Atılan zayıf piksellerin sadece dış gürültüden oluştuğu varsayımıyla sistemin genel özellik çıkarma donanım maliyetini tamamen düşürüp ağın test verilerindeki matematiksel işlem hızını bütünüyle iki katına mutlak surette ve doğrudan çıkarması.
+D) Renk kanallarının karıştırılarak matrisler üzerindeki dikey kenar algılama kapasitesinin yatay kenarlardan daha yoğun bir sisteme bürünmesi ve havuzlamanın yalnızca doğrusal sınırları koruyan kalıcı ezberci bir algoritmaya mutlak olarak doğrudan dönüşmesi.
+E) Özellik haritasının uzamsal boyutu kademeli küçüldükçe, derinlerdeki tek bir nöronun orijinal giriş görüntüsü üzerinde kapsadığı efektif görüş alanının (receptive field) yapısal olarak bütünüyle genişlemesi ve büyük resmi algılama kapasitesine bütünüyle ulaşması.
+
+Correct Answer: E
+Document Reference: VGG - Efektif Görüş Alanı (Receptive Field)
+Rationale: Havuzlama katmanları uzamsal matris boyutunu küçülttüğü için, son katmanlardaki 3x3 bir evrişim filtresi orijinal görüntünün çok daha büyük bir piksel sahasını "görür" ve nesnenin uzamsal hiyerarşisini (genel yapısını) kavrar. En çeldirici seçenek olan B şıkkı, VGG mimarisindeki büyük filtre kullanımı yanılgısını (gerçekte küçük 3x3 filtreler kullanılır) sorudaki analize dâhil ederek Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 16 [Analyze | Medium] [BOUNDARY CASE]
+
+Bir görüntü analizinde Canny algoritması kullanılarak sınır tespitleri yapılacaktır. Fonksiyona alt eşik değeri olarak 100, üst eşik değeri olarak 200 atanmıştır. Sınır durumu olarak, bir pikselin gradyan yoğunluğu tam olarak 150 olarak ölçüldüğünde belgelere göre algoritmanın bu piksele yapacağı analitik işlem nedir?
+A) Pikselin değeri alt ve üst eşik arasında tam olarak kaldığından, sadece güçlü bir kenar pikseline uzamsal veya yapısal olarak bitişikse algoritma tarafından gerçek kenar olarak bütünüyle kabul edilmesidir.
+B) Değer yüz elli olduğu için üst eşik mutlak sınırını aşamayan bu pikselin matematiksel olarak kesinlikle kenar olmadığına doğrudan sistemce karar verilip matristen kalıcı olarak bütünüyle ve doğrudan dışarı atılmasıdır.
+C) Piksel yoğunluğunun lokal varyansı hesaplanarak adaptif eşikleme yöntemiyle pikselin mutlak olarak doğrudan parlak beyaza dönüştürülmesi ve ağın girdi katmanındaki tüm bağlantılarının matematiksel biçimde tamamen ve kalıcı olarak dışarıdan doğrudan kesilmesidir.
+D) Çekirdek penceresindeki maksimum değere yakın olduğu için morfolojik genişleme (dilation) filtresi bütünüyle uygulanarak nesne sınırına kalıcı eklenmesi ve görselin dış dünyadan gelen beyazlık patlamalarına mutlak surette ve tamamen doğrudan maruz kalmasıdır.
+E) Alt eşik sınırını geçtiği için diğer tüm uzamsal komşuluk bağlantılarından tamamen bağımsız olarak Canny filtresi tarafından mutlak ve kesin kenar olarak özellikleri haritası matrisine yapısal olarak tamamen bütünüyle doğrudan yazılmasıdır.
+
+Correct Answer: A
+Document Reference: Canny Kenar Tespiti Algoritması
+Rationale: Canny algoritmasında alt ve üst eşik arasında kalan pikseller, ancak üst eşiği aşan "güçlü" bir kenara uzamsal olarak bağlılarsa kenar kabul edilirler; bağımsızlarsa elenirler. En çeldirici seçenek olan E şıkkı, sadece alt sınırı geçmenin kenar olmaya yeteceği izlenimini yaratarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 17 [Analyze | Hard] [MISAPPLICATION TRAP]
+
+Görüntü matrisleri üzerinde hassas bir analiz yapan araştırmacı, nesnelerin kırmızı alanlarını bulmak için matrisin sadece [:,:,0] (sıfırıncı) kanalını izole etmiş, ancak sonuçta mavi alanların izole edildiğini görüp sistemi hatalı tasarlamıştır. Belgelere göre bu uygulamanın RGB zannedilerek yapılmasının analitik karşılığı nedir?
+A) Görüntü okuma işlemlerinde sıfırıncı kanalın her zaman gri tonlamalı pikselleri temsil edip diğer renk uzaylarını yapısal olarak tamamen dışarıda bırakması ve ağın tüm görseli renksiz bir forma bütünüyle ve kalıcı sokmasıdır.
+B) OpenCV kütüphanesinin görüntüleri varsayılan olarak BGR (Mavi, Yeşil, Kırmızı) formatında okuması ve kodlamada çağrılan sıfırıncı indeksin aslında kırmızı yerine doğrudan doğruya mavi renge sahip donanımsal kanala tamamen bütünüyle mutlak denk gelmesidir.
+C) Kırmızı kanalın indeks değerinin her zaman iki yüz elli beş olduğu için daha düşük indislerle yapılan aramaların sistemi bütünüyle çökerterek evrişimsel sinir ağlarındaki tüm bağlantı ağırlıklarını sıfıra mutlak surette kalıcı indirmesidir.
+D) Bitwise ve (AND) işleminin matris üzerindeki kırmızı pikselleri tamamen absorbe edip geriye sadece mavi sınır çeperlerini kalıcı olarak bırakması ve görselin yalnızca dış sınırlarını yapay yollarla mutlak surette donanımsal olarak korumasıdır.
+E) Evrişimsel ağlardaki adım kaydırma faktörünün (stride) renk kanallarını atlayarak RGB indeks değerlerini donanımsal olarak rastgele kaydırması ve sıfırıncı indeksi maviye doğrudan eşitleyerek ağın sınıflandırma varyansını eksi yönde tamamen bütünüyle ve mutlak düşürmesidir.
+
+Correct Answer: B
+Document Reference: OpenCV Renk Uzayları (BGR Formatı)
+Rationale: cv2.imread fonksiyonu matrisi yaygın olan RGB formatında değil, BGR (Mavi=0, Yeşil=1, Kırmızı=2) formatında okur. Araştırmacı 0 indisini kırmızı sanmış ancak mavi kanalı izole etmiştir. En çeldirici seçenek olan D şıkkı, bitwise operatörünün matematiksel maskeleme işlemlerini renk kanalları arasındaki yapısal sapmalara bağlayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 18 [Analyze | Hard] [COUNTER-INTUITIVE SETUP]
+
+Evrişim (convolution) pencereleri genellikle etrafındaki komşu pikselleri analiz edip uzamsal bilgi çıkarmak için en az 3x3 veya 5x5 boyutlarında tasarlanır. Ancak belgelere göre, hiçbir uzamsal komşuluk bilgisi barındırmayan 1x1 evrişimlerin derin mimarilere yoğun olarak yerleştirilmesinin analitik ve zıt amacı nedir?
+A) Havuzlama işlemine uğrayan zayıf piksellerin ortalamasını bularak özellik haritası üzerinde dış çeper çizgilerini Gauss fonksiyonuyla bulanıklaştırmak ve matrisin genelleştirme yeteneğini tamamen durdurarak sistemi dış dünyadan gelecek yepyeni etiketlere bütünüyle ve kalıcı kapatmaktır.
+B) Parametre sayısını artırıp modelin eğitim verisini bütünüyle ezberlemesini sağlayarak test varyansındaki sapmaları matematiksel olarak aşırı derecede yükseltmek ve ağı sadece belirli girdi kümesine duyarlı hale getirip ezberleme işlemini kalıcı olarak bütünüyle tamamlamaktır.
+C) Matrisin uzamsal boyutlarına hiç dokunmadan kanal sayısını başarılı biçimde değiştirmek, hızlı özellik çıkarımı yapmak ve tüm sistemi çalıştırırken gereken donanım hesaplama maliyetini son derece düşük, verimli ve mutlak seviyelerde kalıcı olarak tutabilmektir.
+D) Otsu eşikleme algoritmasındaki sınıf içi varyansı maksimuma çekip nesnelerin arka planından sezgisel olarak bütünüyle kopmasını kesin olarak garanti altına almak ve morfolojik işlemlerin matris çeperlerini aşındırmasını donanımsal olarak kalıcı biçimde tamamen engellemektir.
+E) Renkli RGB görüntülerindeki kanal sayısını tamamen silerek matrisi tek kanallı basit gri seviyeli formlara geri dönülemez bir biçimde kalıcı sıkıştırmak ve ağın renk uzaylarını analiz etme yeteneğini mutlak surette sonsuza dek bütünüyle köreltmektir.
+
+Correct Answer: C
+Document Reference: 1x1 Convolution Branch
+Rationale: Uzamsal (en/boy) bir genişliği olmayan 1x1 filtreler, derin öğrenmede kanallar arası karıştırma yapmak, özellikleri hızlıca çıkarmak ve kanal bazlı boyut düşürerek hesaplama maliyetini büyük ölçüde azaltmak için kullanılır. En çeldirici seçenek olan E şıkkı, kanal karıştırma yeteneğini resmin sadece gri seviyeye bükülmesi şeklinde eksik bir formata indirgeyerek Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 19 [Analyze | Medium] [SYNTHESIS CONFLICT]
+
+Çok katmanlı algılayıcılarda, "Her proses elemanının sadece bir tane çıktısı vardır" kuralı kesin bir şekilde belirtilirken, aynı proses elemanının bir sonraki katmandaki birden fazla nörona veri ilettiği görülmektedir. Belgelere göre bu durumun mimari sentezi nasıl analiz edilmelidir?
+A) Çıktı katmanındaki hata fonksiyonunun geriye yayılım algoritmasıyla bölünerek her bağlantıya farklı bir matematiksel gradyan yollaması ve matris ağırlıklarının rastgele değişerek ağın ezberleme kapasitesini bütünüyle sıfıra indirmesidir.
+B) Proses elemanının kuralı mutlak ihlal edip kendi içinde birden fazla aktivasyon fonksiyonu aynı anda çalıştırarak dışarıya birbirinden tamamen farklı bağımsız sinyaller üretip sistemi kilitlemesidir.
+C) Yalnızca girdi katmanında uygulanan bu dağıtımın gizli ara katmanlarda geçerliliğini bütünüyle yitirerek elemanların dış dünyayla temasını koparması ve ağ varyansını mutlak eksi değerlere taşımasıdır.
+D) Proses elemanının ürettiği tek ve sabit çıkış sinyalinin, bağlantılı olduğu bir sonraki katmandaki tüm nöronlara yapısal olarak tamamen aynı değerle kopyalanarak bütünüyle sorunsuz dağıtılmasıdır.
+E) Nöron içindeki varyansın toplam bağlantı sayısına bölünerek sinyallerin ortalama genliğinin ağ derinleştikçe bütünüyle ve kalıcı şekilde sıfırlanması yüzünden sistemin donanımsal olarak durmaya programlanmasıdır.
+
+Correct Answer: D
+Document Reference: ÇKA (Çok Katmanlı Algılayıcı) Modeli
+Rationale: Proses elemanı hesapladığı nihai NET değerini aktivasyon fonksiyonundan geçirir ve dışarı sadece "tek bir değer/sinyal" üretir. Ancak ağ yapısı gereği bu ürettiği tek bir değer, sonraki katmanda ona bağlı olan tüm proses elemanlarına kopyalanarak aynen iletilir. En çeldirici seçenek olan B şıkkı, birden fazla nörona iletimi birden fazla farklı sinyal üretmekle karıştırarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 20 [Analyze | Hard] [BOUNDARY CASE]
+
+Araştırmacı, tamamen aynı içeriğe sahip iki fotoğraf matrisinin sınır özellikleri üzerinde piksel düzeyinde "cv2.bitwise_and" mantıksal (VE) işlemini çalıştırmıştır. Belgelerdeki mantık tablosuna göre bu sınır koşulu durumunda matrislerin üreteceği analitik çıktı ne olacaktır?
+A) İşlem karşılıklı piksellerin ortalamasını bularak her iki fotoğrafın ışık seviyesini bütünüyle düşüren gri tonlamalı karanlık bir matris üreterek tüm uzamsal nesneleri rastgele bulanıklaştırıp tamamen silecektir.
+B) Tamamen aynı olan pikseller zıt işaretli kabul edileceğinden dolayı resmin tamamı matematiksel olarak sıfırlanacak ve donanımsal hiçbir özellik barındırmayan net ve kalıcı siyah bir tuval mutlak oluşacaktır.
+C) Mantıksal VE operatörü yalnızca RGB renk uzaylarında işlem yaptığından özellik haritasındaki kırmızı kanal dışındaki her şey sistemden tamamen silinecek ve görsel sadece yeşil matrislere doğrudan ve bütünüyle bükülecektir.
+D) Karşılıklı aynı olan pikseller XOR mantığıyla tamamen çakışacağı için görüntüdeki nesnelerin yalnızca dış kenar çeper çizgileri parlak beyaz olarak kalacak ve ağ tüm ara bölgeleri tamamen silerek karartacaktır.
+E) İşlem, bir ve bir piksellerini bir, sıfır ve sıfır piksellerini sıfır olarak eşleyip matrislerdeki ortak özellikleri bütünüyle koruyacağından sonuç orijinal görüntünün kendi matrisiyle tamamen aynı kalarak değişime uğramayacaktır.
+
+Correct Answer: E
+Document Reference: Bitwise İşlemler (AND Operatörü)
+Rationale: Mantıksal AND işlemi her iki tarafta da 1 olanları 1 (beyaz), diğer tüm eşleşmeleri 0 (siyah) yapar. Resimler tıpatıp aynıysa, pikseller de aynı olacağından sonuç orijinal fotoğrafın bir kopyası olarak döner. En çeldirici seçenek olan B şıkkı, bitwise XOR (özel veya) mantığındaki tam sıfırlama kuralını AND kapısına atayarak Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 21 [Evaluate | Medium] [MISAPPLICATION TRAP]
+
+Eğitim sürecini kısaltmak isteyen bir uzman, "EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=False)" kodunu kullanmış ve eğitimin erken durduğunu görmüştür. Ancak model test edildiğinde başarımın oldukça düşük olduğu belirlenmiştir. Belgelere göre uzmanın "restore_best_weights" parametresindeki bu yanlış tercihinin sistemi nasıl değerlendirmesi beklenir?
+A) Parametre kapalı (False) olduğu için ağ en düşük hata oranına sahip ideal ağırlıklara dönmek yerine, eğitimin rastgele durduğu andaki en kötü ve bozuk ağırlıklarda kalmaya kalıcı olarak bütünüyle programlanmıştır.
+B) İleri besleme aşamasında aktivasyon fonksiyonlarının türevi tanımsız formda bütünüyle bırakılarak ağın test verisini öğrenmesi mutlak olarak engellenmiş ve eğitim süreci doğrudan dış dünyaya yollanarak rastgele bütünüyle sistemden dışarı atılmıştır.
+C) Parametre kapalı olduğunda ağın sadece eğitim verisini doğrudan dikkate alarak sınıf içi varyans değerini eksi seviyelere doğru sürekli ve agresif şekilde indirmesi ağın genelleştirme yeteneğini yapısal olarak tamamen dondurmuştur.
+D) Sabır (patience) parametresi on olarak ayarlandığından ağın her eğitim döngüsü (epoch) sonrasında kendi ağırlık matrislerini rastgele bütünüyle dışarı atması modeli doğrudan ikili sınıflandırma problemine doğru mutlak surette bütünüyle çekmiştir.
+E) Erken durdurma mekanizmasının yalnızca kategorik çapraz entropi kullanıldığında devreye girip diğer tüm kayıp fonksiyonlarını bütünüyle reddedecek olması nedeniyle ağın öğrenme katsayısı tüm ara gizli katmanlarda matematiksel olarak mutlak sıfırlanmıştır.
+
+Correct Answer: A
+Document Reference: Model Eğitimi (Early Stopping Parametreleri)
+Rationale: Early Stopping (erken durdurma) fonksiyonundaki `restore_best_weights` parametresi `True` olmazsa, ağın eğitimi durduğu andaki ağırlıklar kalır. Oysa durduğu an, val_loss'un arttığı (kötüleştiği) andır; en iyi ağırlıklar geçmişte kalmıştır. En çeldirici seçenek olan C şıkkı, aşırı uydurma tehlikesiyle parametrenin kapalı olmasının varyansı eksiye indirmesi gibi ilgisiz bir matematiksel bağıntı kurarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+### Question 22 [Synthesize | Hard] [COUNTER-INTUITIVE SETUP]
+
+Yapay sinir ağlarında geriye yayılım (backpropagation) ile ağırlık güncellenmesi ağın en önemli öğrenme mekanizmasıdır. Ancak belgelere göre, modelin ağırlıklarını doğrudan geriye yayılım algoritmalarıyla dışarıdan güncellemek mantıksal olarak imkansızdır ve sistem zıt bir strateji olan ileri beslemeye bağımlıdır. Bu durumun sentezi nasıl değerlendirilir?
+A) İleri besleme aşaması sadece girdi katmanının kapasitesini belirlerken, geriye yayılım algoritmasının bağımsız olarak tüm varyans sapmalarını sıfırlayabilme gücüne bütünüyle sahip olmasının sistemde donanımsal bir hata oranına kalıcı yol açmasıdır.
+B) Ağırlıkların başarıyla güncellenmesi için öncelikle ileri besleme safhasının tamamen çalışarak ağın bir çıkış üretmesi ve böylece gerçek hata sinyalinin kesin olarak matematiksel biçimde tespit edilmesinin mutlak surette şart olmasıdır.
+C) Ortalama mutlak hata (MAE) fonksiyonunun yalnızca ileri besleme safhalarında sorunsuz çalışıp geriye yayılım işlemlerini matematiksel olarak sürekli sistem dışına itmesi yüzünden tüm öğrenme döngüsünün bütünüyle ve kalıcı durmaya zorlanmasıdır.
+D) Geriye yayılım işlemlerinin matris üzerindeki evrişim adım kaydırma faktörünü tamamen bozarak tüm sistemi sadece ve sadece girdi katmanı içinde hapsetmesinden kaynaklı olarak ağın sınıf içi varyans dalgalanmasını bütünüyle kaybetmesidir.
+E) Eğitim seti büyük olduğunda geriye yayılımın bağımsız çalışabilmesi kuralına karşın, küçük setlerde sadece ileri beslemenin öğretmensiz öğrenme moduna geçmeye zorlanarak tüm çıkış piksellerini sıfır dolgu matrislerine bütünüyle ve kalıcı dönüştürmesidir.
+
+Correct Answer: B
+Document Reference: Ağın Eğitimi (Öğrenme Aşamaları)
+Rationale: Öğrenme sürecinin çalışabilmesi (ağırlıkların değiştirilebilmesi) için hatanın hesaplanması gerekir. Hatayı hesaplamak için de ağın ileri besleme (forward pass) yaparak bir tahmin (çıktı) üretmesi zorunludur. Çıktı olmadan geriye yayılım işlemez. En çeldirici seçenek olan E şıkkı, veri seti boyutuyla ileri/geri yayılımın çalışma prensibini tamamen tersine çevirerek Tersine Çevirme (Inversion) tekniğini kullanmıştır.
+
+### Question 23 [Synthesize | Hard] [SYNTHESIS CONFLICT]
+
+Otsu algoritması sınıf içi varyansı minimize ederek görüntüyü mükemmel biçimde nesne ve arka plan olarak ayırabilir. Ancak belgelere göre, ışıklandırmanın bölgesel olarak farklılık gösterdiği dengesiz resimlerde Otsu gibi global yöntemler sentezlenen çelişkili bir yetersizlik yaşar. Bu yetersizliği giderecek olan yapısal çözüm nasıl oluşturulmalıdır?
+A) Sınıf içi varyansı tamamen artırmak için Gauss bulanıklaştırma sisteminin sahip olduğu standart sapma değerinin matrisin geneline yapısal olarak bütünüyle kalıcı yedirilmesi ve piksellerin mutlak surette rastgele karanlığa hızla gömülmesidir.
+B) Görüntünün tamamı için mutlak tek bir eşik değeri aranmasına devam edilerek Otsu'nun eğitim sınır çizgilerinin rastgele yeniden boyutlandırılması ve tüm dış çeperlerin erozyon filtresiyle sürekli yapısal olarak bütünüyle kalıcı aşındırılmasıdır.
+C) Görüntünün tamamı yerine belirli piksel bloklarının kendi yerel ortalamalarından dinamik ve esnek bir eşik belirleyen adaptif eşikleme algoritmalarına bütünüyle geçilmesi ve yerel ışık dengesizliklerinin matematiksel olarak kalıcı doğrudan tamamen giderilmesidir.
+D) Matristeki tüm renk uzaylarının bitwise "özel veya" (XOR) kapısından geçirilerek dengesiz ışık alanlarının bütünüyle karartılıp yok edilmesi ve görselin sadece mavi ve kırmızı renk kanallarına bütünüyle kalıcı olacak şekilde sıkıştırılmasıdır.
+E) Çekirdek içerisindeki maksimum parlaklık seviyesindeki pikselin donanımsal bulunup morfolojik genişletme yöntemiyle nesnelerin ışık kaynağına doğru yapay ve donanımsal olarak sürekli kaydırılması ve resmin genel varyansının sistemce bütünüyle sıfır oranına eşitlenmesidir.
+
+Correct Answer: C
+Document Reference: Eşikleme Yöntemleri (Thresholding)
+Rationale: Genel bir eşik değeri ışık dağılımı eşitsiz olan bir fotoğrafta gölgede kalan bölgeleri yok eder. Bu sorunu çözmek için resmin tamamına değil, piksel bloklarının kendi yerel ortalamalarına göre hesaplama yapan adaptif eşikleme sentezlenmelidir. En çeldirici seçenek olan B şıkkı, Otsu'nun eşik değerinde kalıcı boyutlandırma yapılması yönündeki yanlış bir kapsamı vurgulayarak Kapsam Hatası (Scope Error) tekniğini kullanmıştır.
+
+### Question 24 [Evaluate | Medium] [BOUNDARY CASE]
+
+Çok sınıflı bir modelin çıktısındaki ham logit değerleri sınır koşulu olarak z = [5, 5, 5] şeklinde tamamen birbirine eşit çıkmıştır. Belgelere göre bu değerler Softmax aktivasyonundan geçtiğinde ağın üreteceği analitik sonuç ve toplam olasılık dağılımı değerlendirmesi aşağıdakilerden hangisidir?
+A) Eksi olmayan bu yüksek değerler aktivasyon matrisini doğrudan çökerterek toplam olasılık payını sistem içinde tamamen sonsuza ulaştıracaktır ve modelin test seti varyans katsayısı geriye döndürülemez bir biçimde kalıcı mutlak donacaktır.
+B) Değerlerin bütünüyle eşit olması modelin aşırı uydurmaya yakalandığını kesinlikle gösterip Softmax fonksiyonunun tüm çıktılara net sıfır değeri atamasına sebep olacaktır ve ağın genel eğitim eğrisi tamamen bütünüyle yapay olarak kapanacaktır.
+C) Ortalama kare hata (MSE) formülü derhal devreye girerek eşit ham skorları doğrudan beşe bölüp her sınıfın olasılığını mutlak olarak bir sayısına sabitleyecektir ve sistem donanım sınırlarını bütünüyle kalıcı sürekli zorlayacaktır.
+D) Eksponansiyel dağılım formülü tüm ham skorlara tam olarak eşit ağırlık vereceği için her sınıf sıfır nokta otuz üç olasılık alacak ve toplamları kesinlikle bire eşitlenerek olasılık dağılım dengesi bütünüyle doğrudan korunacaktır.
+E) Ham skorların toplamı tam on beş olduğundan dolayı Softmax fonksiyonu olasılıkları on beşe mecburen bölecek ve sonuçların çapraz entropi değerlerini bütünüyle tanımsız yaparak tüm ağırlık güncellemelerini sistemden bütünüyle kalıcı dışarı atacaktır.
+
+Correct Answer: D
+Document Reference: Aktivasyon Fonksiyonları (Softmax)
+Rationale: Softmax ham değerlerin eksponansiyel dağılımını hesaplayıp toplamlarını zorunlu olarak 1'e eşitler. Üç değer birbirine tıpatıp eşit olduğunda ($e^5$), Softmax her üç sınıfa da eşit olan 0.333 (%33) olasılık dağılımını yaparak denge kurar. En çeldirici seçenek olan E şıkkı, eksponansiyel olasılık yerine doğrudan toplama bölme yapılarak çapraz entropinin çökeceği varsayımıyla Yanlış Atfetme (Misattribution) tekniğini kullanmıştır.
+
+### Question 25 [Synthesize | Hard] [MISAPPLICATION TRAP]
+
+Görüntü üzerindeki siyah arka planda yer alan beyaz bir nesnenin içindeki küçük siyah delikleri (noise) kapatmak isteyen bir analist, önce erozyon sonra genişleme uygulayan Açılım (Opening) filtresini kullanmış ancak delikler daha da büyümüştür. Belgelere göre bu uygulamanın hatalı olduğu senaryoda sentezlenmesi gereken doğru morfolojik işlem adımları nedir?
+A) Çekirdek matrisindeki tüm sıfır dolgu (padding) değerlerini tamamen iptal ederek nesnenin dış çeperini Laplacian filtresiyle sürekli ve yoğun olarak taramak ve sistemin adım kaydırma faktörünü bütünüyle rastgele mutlak sınırların ötesine taşımaktır.
+B) Sınıf içi varyansı en yüksek noktaya bütünüyle taşıyıp Otsu eşikleme algoritması kullanarak nesne ve arka plan piksellerini birbirine matematiksel olarak harmanlamak ve görüntüyü tamamen gri tonlamalı karanlık bir matris formuna bükmektir.
+C) Görüntüye bitwise "DEĞİL" (NOT) mantıksal operatörü uygulayarak sadece kırmızı ve mavi renk kanallarının uzamsal özelliklerini bütünüyle kalıcı silmek ve sistemi dondurarak ağın genelleştirme yeteneğini mutlak surette bütünüyle tamamen devreden doğrudan çıkarmaktır.
+D) Adaptif eşikleme yöntemi kullanarak her bir iç deliğin kendi yapısal ışık dengesini bölgesel olarak Gauss fonksiyonlarıyla pürüzsüz biçimde bütünüyle sıfırlamak ve eğitim hatasının genel varyans dalgalanmasını yapay yollarla mutlak surette sabitlemektir.
+E) İç delikleri başarıyla kapatmak için Kapanım (Closing) algoritması kararlılıkla seçilmeli ve görüntüye sırasıyla önce genişleme (dilation) ardından erozyon (aşınma) fonksiyonları uygulanarak morfolojik matris işlem süreci eksiksiz ve kalıcı biçimde mutlak tamamlanmalıdır.
+
+Correct Answer: E
+Document Reference: Morfolojik İşlemler (Opening ve Closing)
+Rationale: Açılım (Opening) önce erozyon yaptığı için nesneyi küçültür ve içindeki deliklerin büyümesine yol açar; asıl amacı nesne dışındaki gürültüyü silmektir. Kapanım (Closing) ise önce genişletme (dilation) yaparak nesne içindeki delikleri kapatır. En çeldirici seçenek olan D şıkkı, ışık sorunlarını ele alan adaptif eşikleme kavramını morfolojik delik probleminin çözümüymüş gibi sunarak Kısmi Doğru (Partial Truth) tekniğini kullanmıştır.
+
+─────────────────────────────────────
+
+## ANSWER KEY SUMMARY
+
+| Q | Answer | Bloom's Level | Difficulty | Scenario Frame |
+| --- | --- | --- | --- | --- |
+| 1 | A | Remember | Easy | — |
+| 2 | B | Remember | Easy | — |
+| 3 | C | Understand | Medium | — |
+| 4 | D | Understand | Medium | — |
+| 5 | E | Apply | Easy | Misapplication Trap |
+| 6 | A | Apply | Medium | Synthesis Conflict |
+| 7 | B | Apply | Medium | Counter-Intuitive |
+| 8 | C | Apply | Medium | Boundary Case |
+| 9 | D | Apply | Hard | Misapplication Trap |
+| 10 | E | Apply | Hard | Counter-Intuitive |
+| 11 | A | Apply | Medium | Synthesis Conflict |
+| 12 | B | Apply | Medium | Boundary Case |
+| 13 | C | Analyze | Easy | Misapplication Trap |
+| 14 | D | Analyze | Medium | Counter-Intuitive |
+| 15 | E | Analyze | Medium | Synthesis Conflict |
+| 16 | A | Analyze | Medium | Boundary Case |
+| 17 | B | Analyze | Hard | Misapplication Trap |
+| 18 | C | Analyze | Hard | Counter-Intuitive |
+| 19 | D | Analyze | Medium | Synthesis Conflict |
+| 20 | E | Analyze | Hard | Boundary Case |
+| 21 | A | Evaluate | Medium | Misapplication Trap |
+| 22 | B | Synthesize | Hard | Counter-Intuitive |
+| 23 | C | Synthesize | Hard | Synthesis Conflict |
+| 24 | D | Evaluate | Medium | Boundary Case |
+| 25 | E | Synthesize | Hard | Misapplication Trap |
+
+## ANSWER POSITION AUDIT
+
+A: 5 times | B: 5 times | C: 5 times | D: 5 times | E: 5 times
