@@ -1,0 +1,1260 @@
+### Question 1 [Vocabulary | Medium] [—]
+
+The cotton mills born of the Industrial Revolution were staffed with the workers of the former cottage industries, who were no longer required to have ---- in traditional skills but instead simply be capable of operating the machines that now did everything for them.
+A) extraction
+B) contracdiction
+C) proficiency
+D) reluctance
+E) severity
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 1
+Rationale: Cümle Türkçe çevirisi: 'Sanayi Devrimi'nden doğan pamuk fabrikaları, artık geleneksel becerilerde yetkinliğe sahip olmaları gerekmeyen, bunun yerine artık her şeyi kendileri için yapan makineleri çalıştırabilen eski ev sanayisi işçileriyle doldurulmuştu.'
+'Proficiency in traditional skills' (geleneksel becerilerde yetkinlik/uzmanlık) tamlaması cümleyi doğru tamamlar. Doğru cevap **C) proficiency** (yetkinlik, uzmanlık) seçeneğidir.
+Çeldiriciler: **A) extraction** (çıkarma/özüt), **B) contradiction** (çelişki), **D) reluctance** (isteksizlik), **E) severity** (şiddet/ciddiyet).
+
+
+### Question 2 [Vocabulary | Medium] [—]
+
+The advent of telecommunications technologies has brought about a remarkable ---- in the transfer of scientific knowledge across the entire world.
+A) acceleration
+B) perplexity
+C) assumption
+D) exhaustion
+E) fragility
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 2
+Rationale: Cümle Türkçe çevirisi: 'Telekomünikasyon teknolojilerinin gelişi, bilimsel bilginin tüm dünyada transferinde kayda değer bir ivme kazanılmasını sağlamıştır.'
+'Acceleration in the transfer' (transferde ivme/hızlanma) ifadesi teknolojik ilerlemenin sonucudur. Doğru cevap **A) acceleration** (ivme, hızlanma) şıkkıdır.
+
+
+### Question 3 [Vocabulary | Medium] [—]
+
+The development and deployment of advanced artificial intelligence models are dominated by a few tech giants and well- funded institutions due to their ---- costs of training and running.
+A) feasible
+B) excessive
+C) admissible
+D) attainable
+E) reliable
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 3
+Rationale: Cümle Türkçe çevirisi: 'Gelişmiş yapay zeka modellerinin geliştirilmesi ve yaygınlaştırılması, eğitim ve çalıştırma maliyetlerinin yüksekliği nedeniyle birkaç teknoloji devi ve iyi finanse edilen kurumların elindedir.'
+'Exorbitant costs' veya engelleme anlamı veren 'prohibitive' (aşırı yüksek/engelleyici) sıfatı maliyeti niteler. Doğru cevap **B)** seçeneğidir.
+
+
+### Question 4 [Vocabulary | Medium] [—]
+
+Animals do not dream when they hibernate because hibernation is different from sleep, which is a more physiologically 'active' state, whereas hibernation requires animals to ---- reduce all activities in order to conserve energy.
+A) coincidentally
+B) substantially
+C) adversely
+D) suspiciously
+E) competitivaly
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 4
+Rationale: Cümle Türkçe çevirisi: 'Genetik araştırmalar, bazı biyolojik süreçlerin hücresel düzeyde son derece hassas bir şekilde düzenlendiğini göstermektedir.'
+Doğru cevap **B)** şıkkıdır.
+
+
+### Question 5 [Vocabulary | Medium] [—]
+
+By favouring specific variants and carefully choosing which individuals are allowed to breed, farmers have been able to ---- beneficial traits of various plants while eliminating weaker ones.
+A) amplify
+B) deplete
+C) relieve
+D) constrain
+E) overcome
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 5
+Rationale: Bu kelime sorusunda doğru cevap **A) amplify** seçeneğidir.
+Cümlenin bağlamı ve anlam akışı incelendiğinde, boş bırakılan yere en uygun anlamı ve kelime birlikteliğini (collocation) sağlayan ifade 'amplify' kelimesidir.
+Diğer çeldirici seçenekler (**B)** deplete, **C)** relieve, **D)** constrain, **E)** overcome) cümledeki mantıksal kurgu ve anlam hedefiyle uyuşmamaktadır.
+
+
+### Question 6 [Vocabulary | Medium] [—]
+
+Microbiologists are often associated with determining the microbes that cause disease, but their work ---- every other facet of life, such as genetics and physiology.
+A) wards off
+B) strikes against
+C) extends into
+D) roots out
+E) holds back
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 6
+Rationale: Bu kelime sorusunda doğru cevap **C) extends into** seçeneğidir.
+Cümlenin bağlamı ve anlam akışı incelendiğinde, boş bırakılan yere en uygun anlamı ve kelime birlikteliğini (collocation) sağlayan ifade 'extends into' kelimesidir.
+Diğer çeldirici seçenekler (**A)** wards off, **B)** strikes against, **D)** roots out, **E)** holds back) cümledeki mantıksal kurgu ve anlam hedefiyle uyuşmamaktadır.
+
+
+### Question 7 [Grammar & Tenses | Medium] [—]
+
+The US Congress has passed a law requiring that any asbestos-bearing material that is visibly deteriorating ---- by a different material; as a result, billions of dollars ---- on asbestos removal.
+A) could be replaced / had been spent
+B) must be replaced / are being spent
+C) would have been replaced / will be spent
+D) should be replaced / were being spent
+E) may have been replaced / have to be spent
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 7
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **B) must be replaced / are being spent** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **B) must be replaced / are being spent** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** could be replaced / had been spent, **C)** would have been replaced / will be spent, **D)** should be replaced / were being spent, **E)** may have been replaced / have to be spent) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 8 [Grammar & Tenses | Medium] [—]
+
+Birds generally flock together and develop coordination ---- simultaneously, but ---- to use their acrobatic abilities for navigating natural or human-made obstacles.
+A) acting/would split off
+B) to act/can split off
+C) to be acting / must split off
+D) having acted / may split off
+E) acted/could split off
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 8
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **B) to act/can split off** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **B) to act/can split off** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** acting/would split off, **C)** to be acting / must split off, **D)** having acted / may split off, **E)** acted/could split off) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 9 [Grammar & Tenses | Medium] [—]
+
+The light-year, which is the distance that light travels ---- one year, is a convenient unit of measurement to use when discussing distances to the stars in the Milky Way galaxy and ---- the observable universe.
+A) on / with
+B) from / about
+C) in/throughout
+D) into / over
+E) by / for
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 9
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **C) in/throughout** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **C) in/throughout** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** on / with, **B)** from / about, **D)** into / over, **E)** by / for) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 10 [Grammar & Tenses | Medium] [—]
+
+Spider monkeys, medium-sized monkeys with very long tails and limbs, usually live in trees and they are very skilled ---- moving around in trees with the help of their long tails which are well-adapted ----holding on to objects.
+A) off/along
+B) over / about
+C) on /from
+D) at/for
+E) through/towards
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 10
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **D) at/for** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **D) at/for** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** off/along, **B)** over / about, **C)** on /from, **E)** through/towards) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 11 [Grammar & Tenses | Medium] [—]
+
+Nanotechnology is the field of science and engineering ---- a scale of one to a hundred nanometres, which is ---- the limit of the world that is visible to the naked eye.
+A) to / along
+B) at/beyond
+C) over / for
+D) about/through
+E) off / from
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 11
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **B) at/beyond** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **B) at/beyond** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** to / along, **C)** over / for, **D)** about/through, **E)** off / from) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 12 [Grammar & Tenses | Medium] [—]
+
+Many environmentalists believe spending large sums on captive breeding is a waste of resources ---- there is no natural habitat left to release the animals like pandas that bred in captivity.
+A) until
+B) although
+C) whereas
+D) so that
+E) as
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 12
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **E) as** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **E) as** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** until, **B)** although, **C)** whereas, **D)** so that) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 13 [Grammar & Tenses | Medium] [—]
+
+In contemporary usage, the word abacus refers to a computational device with beads sliding on fixed rods, often associated with the Japanese or Chinese; ----, the word abacus has Latin roots, suggesting a rich history in Western as well as Eastern cultures.
+A) hence
+B) in other words
+C) as a result
+D) however
+E) likewise
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 13
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **D) however** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **D) however** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** hence, **B)** in other words, **C)** as a result, **E)** likewise) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 14 [Grammar & Tenses | Medium] [—]
+
+Biotin, a member of the water-soluble B- complex group of vitamins, cannot be synthesised by humans; ----, people must obtain this essential micronutrient from dietary sources.
+A) by comparison
+B) therefore
+C) similarly
+D) for instance
+E) otherwise
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 14
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **B) therefore** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **B) therefore** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** by comparison, **C)** similarly, **D)** for instance, **E)** otherwise) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 15 [Grammar & Tenses | Medium] [—]
+
+---- great improvements have been made in estimating mean climatic conditions over broad areas, even more could be done to evaluate climatic variability.
+A) Although
+B) Unless
+C) By the time
+D) As if
+E) When
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 15
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **A) Although** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **A) Although** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**B)** Unless, **C)** By the time, **D)** As if, **E)** When) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 16 [Cloze Test | Medium] [—]
+
+Normal regulation of the cell cycle ensures the passage of genetic material without mutations and aberrations, ---- proper completion of each phase is critical to the initiation of the following phases.
+A) rather
+B) instead
+C) so
+D) otherwise
+E) but
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 16
+Rationale: Paragraftaki 16. boşluk için doğru yanıt **C) so** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) so** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** rather, **B)** instead, **D)** otherwise, **E)** but) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 17 [Cloze Test | Medium] [—]
+
+Normal regulation of the cell cycle ensures the passage of genetic material without mutations and aberrations, ---- proper completion of each phase is critical to the initiation of the following phases.
+
+Soru 17: In the future, synthetic cells may become factories that deliver drugs to treat human disease, but they are now being intensively investigated ---- answering fundamental questions about biology.
+A) despite
+B) with the goal of
+C) irrespective of
+D) in comparison to
+E) similar to
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 17
+Rationale: Paragraftaki 17. boşluk için doğru yanıt **B) with the goal of** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) with the goal of** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** despite, **C)** irrespective of, **D)** in comparison to, **E)** similar to) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 18 [Cloze Test | Medium] [—]
+
+Normal regulation of the cell cycle ensures the passage of genetic material without mutations and aberrations, ---- proper completion of each phase is critical to the initiation of the following phases.
+
+Soru 18: Over decades, the numbers of eastern black rhino have declined ---- relentless hunting and poaching, to the extent that there could be as few as 850 left in the wild.
+A) due to
+B) except for
+C) contrary to
+D) apart from
+E) such as
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 18
+Rationale: Paragraftaki 18. boşluk için doğru yanıt **A) due to** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) due to** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** except for, **C)** contrary to, **D)** apart from, **E)** such as) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 19 [Cloze Test | Medium] [—]
+
+Normal regulation of the cell cycle ensures the passage of genetic material without mutations and aberrations, ---- proper completion of each phase is critical to the initiation of the following phases.
+
+Soru 19: The potent cocktail of hormones and other proteins that the muscles produce when people exercise is thought to be ---- influential on mood and behaviour ---- they have been nicknamed the 'hope chemicals'.
+A) either / or
+B) the more / the more
+C) so / that
+D) such / that
+E) whether/or
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 19
+Rationale: Paragraftaki 19. boşluk için doğru yanıt **C) so / that** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) so / that** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** either / or, **B)** the more / the more, **D)** such / that, **E)** whether/or) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 20 [Cloze Test | Medium] [—]
+
+Normal regulation of the cell cycle ensures the passage of genetic material without mutations and aberrations, ---- proper completion of each phase is critical to the initiation of the following phases.
+
+Soru 20: Animals have varying degrees of natural intelligence, ---- allows them to learn specific kinds of behaviour, either from their own species or from good or bad experiences.
+A) how
+B) where
+C) whose
+D) why
+E) which
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 20
+Rationale: Paragraftaki 20. boşluk için doğru yanıt **E) which** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **E) which** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** how, **B)** where, **C)** whose, **D)** why) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 21 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 21. boşluğa uygun düşen sözcüğü bulunuz.
+A) Yet
+B) Thus
+C) Accordingly
+D) For example
+E) Otherwise
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 21
+Rationale: Paragraftaki 21. boşluk için doğru yanıt **A) Yet** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) Yet** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** Thus, **C)** Accordingly, **D)** For example, **E)** Otherwise) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 22 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 22. boşluğa uygun düşen sözcüğü bulunuz.
+A) By means of
+B) Regarding
+C) Despite
+D) Due to
+E) Besides
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 22
+Rationale: Paragraftaki 22. boşluk için doğru yanıt **C) Despite** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) Despite** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** By means of, **B)** Regarding, **D)** Due to, **E)** Besides) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 23 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 23. boşluğa uygun düşen sözcüğü bulunuz.
+A) enduring
+B) accurate
+C) eligible
+D) coincidental
+E) vulnerable
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 23
+Rationale: Paragraftaki 23. boşluk için doğru yanıt **A) enduring** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) enduring** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** accurate, **C)** eligible, **D)** coincidental, **E)** vulnerable) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 24 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 24. boşluğa uygun düşen sözcüğü bulunuz.
+A) to be formed
+B) to form
+C) to have been formed
+D) having formed
+E) formed
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 24
+Rationale: Paragraftaki 24. boşluk için doğru yanıt **E) formed** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **E) formed** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** to be formed, **B)** to form, **C)** to have been formed, **D)** having formed) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 25 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 25. boşluğa uygun düşen sözcüğü bulunuz.
+A) beyond
+B) at
+C) into
+D) with
+E) towards
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 25
+Rationale: Paragraftaki 25. boşluk için doğru yanıt **D) with** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **D) with** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** beyond, **B)** at, **C)** into, **E)** towards) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 26 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 26. boşluğa uygun düşen sözcüğü bulunuz.
+A) must not generate
+B) cannot generate
+C) may not have generated
+D) could not generate
+E) would not have generated
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 26
+Rationale: Paragraftaki 26. boşluk için doğru yanıt **D) could not generate** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **D) could not generate** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** must not generate, **B)** cannot generate, **C)** may not have generated, **E)** would not have generated) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 27 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 27. boşluğa uygun düşen sözcüğü bulunuz.
+A) For example
+B) As a result
+C) In brief
+D) Furthermore
+E) In contrast
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 27
+Rationale: Paragraftaki 27. boşluk için doğru yanıt **B) As a result** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) As a result** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** For example, **C)** In brief, **D)** Furthermore, **E)** In contrast) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 28 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 28. boşluğa uygun düşen sözcüğü bulunuz.
+A) called off
+B) took on
+C) diverted from
+D) interfered with
+E) set back
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 28
+Rationale: Paragraftaki 28. boşluk için doğru yanıt **B) took on** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) took on** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** called off, **C)** diverted from, **D)** interfered with, **E)** set back) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 29 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 29. boşluğa uygun düşen sözcüğü bulunuz.
+A) about
+B) around
+C) at
+D) towards
+E) through
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 29
+Rationale: Paragraftaki 29. boşluk için doğru yanıt **E) through** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **E) through** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** about, **B)** around, **C)** at, **D)** towards) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 30 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 30. boşluğa uygun düşen sözcüğü bulunuz.
+A) Rather than
+B) Owing to
+C) Similar to
+D) Regardless of
+E) In favour of
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 30
+Rationale: Paragraftaki 30. boşluk için doğru yanıt **C) Similar to** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) Similar to** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** Rather than, **B)** Owing to, **D)** Regardless of, **E)** In favour of) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 31 [Sentence Completion | Medium] [—]
+
+----; for instance, island-dwelling insects are commonly wingless due to flight increasing the likelihood of being carried out to sea.
+A) The consequences of flightlessness in insect species can be seriously detrimental
+B) Many wingless forms of insects can be attributed to environmental factors that promote flightlessness
+C) Generalisations in insect populations are difficult to make, due to many structural variations
+D) In winged insects, the relationship between different body parts involved in flight can be complicated
+E) Certain modifications which help some bugs locate their preys have been lost in time
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 31
+Rationale: Cümle tamamlama sorusunda doğru yanıt **B) Many wingless forms of insects can be attributed to environmental factors that promote flightlessness** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **B) Many wingless forms of insects can be attributed to environmental factors that promote flightlessness** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** The consequences of flightlessness in insect species can be seriously detrimental, **C)** Generalisations in insect populations are difficult to make, due to many structural variations, **D)** In winged insects, the relationship between different body parts involved in flight can be complicated, **E)** Certain modifications which help some bugs locate their preys have been lost in time) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 32 [Sentence Completion | Medium] [—]
+
+The gut and brain are more intimately connected than any other body systems ----.
+A) although the electrical stimulation of different central nervous system regions provides convincing evidence of its role in controlling digestive function
+B) before the nerve pathways linking the brain and the gut can be precisely defined by using tracers of nerve cells
+C) because the brain sends signals to the body about almost everything and many of those signals travel to the digestive tract
+D) while the information exchange between the brain and the gut can influence pain sensitivity
+E) given that consuming fermented foods has proven to support the digestive system as well as benefitting the gut-brain axis
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 32
+Rationale: Cümle tamamlama sorusunda doğru yanıt **C) because the brain sends signals to the body about almost everything and many of those signals travel to the digestive tract** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **C) because the brain sends signals to the body about almost everything and many of those signals travel to the digestive tract** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** although the electrical stimulation of different central nervous system regions provides convincing evidence of its role in controlling digestive function, **B)** before the nerve pathways linking the brain and the gut can be precisely defined by using tracers of nerve cells, **D)** while the information exchange between the brain and the gut can influence pain sensitivity, **E)** given that consuming fermented foods has proven to support the digestive system as well as benefitting the gut-brain axis) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 33 [Sentence Completion | Medium] [—]
+
+----; therefore, conservation management should be directed at whole landscapes instead of focusing on a single area in order to ensure their survival.
+A) The activity of modern humans has been one of the most significant factors affecting the landscapes
+B) Ecosystems may be classified according to the dominant type of habitat
+C) Certain animals and plants, including endangered species such as jaguars, range widely across several different ecosystems
+D) Temperate climate ecosystems tend to be simpler than others in terms of numbers of species
+E) The relationship between different organisms in an ecosystem shows the characteristics of the region
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 33
+Rationale: Cümle tamamlama sorusunda doğru yanıt **C) Certain animals and plants, including endangered species such as jaguars, range widely across several different ecosystems** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **C) Certain animals and plants, including endangered species such as jaguars, range widely across several different ecosystems** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** The activity of modern humans has been one of the most significant factors affecting the landscapes, **B)** Ecosystems may be classified according to the dominant type of habitat, **D)** Temperate climate ecosystems tend to be simpler than others in terms of numbers of species, **E)** The relationship between different organisms in an ecosystem shows the characteristics of the region) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 34 [Sentence Completion | Medium] [—]
+
+----, the real advances in railroad travel came in the United States, where greater distances fostered a different philosophy.
+A) Although railroading on the British model, which had short lines, spread throughout Europe
+B) Given that European engineers believed that locomotives could pull heavy loads up hills
+C) Whereas American railroad lines travelled over high mountains using switchbacks
+D) By the time Americans realised that trains could carry people and goods faster than ships
+E) Once British locomotives travelled smoothly on well-constructed railroads
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 34
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) Although railroading on the British model, which had short lines, spread throughout Europe** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) Although railroading on the British model, which had short lines, spread throughout Europe** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** Given that European engineers believed that locomotives could pull heavy loads up hills, **C)** Whereas American railroad lines travelled over high mountains using switchbacks, **D)** By the time Americans realised that trains could carry people and goods faster than ships, **E)** Once British locomotives travelled smoothly on well-constructed railroads) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 35 [Sentence Completion | Medium] [—]
+
+Even if the warming climate were to result in greater moisture and hence more precipitation in coastal zones, ----.
+A) certain organisms are well-adapted to tolerate drought under changing climate conditions
+B) semi-arid ecosystems have historically been important as livestock producing areas
+C) the change in the Earth's radiation balance affects the rate of precipitation
+D) other areas, such as continental interiors, would likely experience warming without significant additions of precipitation
+E) intensified land use caused by growing human populations is the main driver of desertification
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 35
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) other areas, such as continental interiors, would likely experience warming without significant additions of precipitation** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) other areas, such as continental interiors, would likely experience warming without significant additions of precipitation** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** certain organisms are well-adapted to tolerate drought under changing climate conditions, **B)** semi-arid ecosystems have historically been important as livestock producing areas, **C)** the change in the Earth's radiation balance affects the rate of precipitation, **E)** intensified land use caused by growing human populations is the main driver of desertification) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 36 [Sentence Completion | Medium] [—]
+
+----; however, these creatures are true minorities, accounting for just a tiny fraction of the animal world as over 97 per cent of animal species are invertebrates.
+A) Human perception of the animal kingdom tends to focus on relatively large vertebrates such as horses, birds, and fishes
+B) The small and boneless creatures called invertebrates dominate the animal kingdom in terms of population
+C) The members of vertebrate animals exhibit a trend towards increasing size
+D) Most animals are far more diverse and numerous than vertebrates thanks to their high reproduction rates
+E) Vertebrates are difficult to define due to the diversity and complexity of all creatures in the animal kingdom
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 36
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) Human perception of the animal kingdom tends to focus on relatively large vertebrates such as horses, birds, and fishes** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) Human perception of the animal kingdom tends to focus on relatively large vertebrates such as horses, birds, and fishes** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** The small and boneless creatures called invertebrates dominate the animal kingdom in terms of population, **C)** The members of vertebrate animals exhibit a trend towards increasing size, **D)** Most animals are far more diverse and numerous than vertebrates thanks to their high reproduction rates, **E)** Vertebrates are difficult to define due to the diversity and complexity of all creatures in the animal kingdom) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 37 [Sentence Completion | Medium] [—]
+
+It should be taken very seriously that 'biocides' are poisons designed to kill living cells; ----.
+A) on the contrary, biocide concentrates should not be allowed to enter surface water or the environment in general
+B) otherwise, respiratory protection should be utilised in the event of exposure to a biocide through inhalation
+C) instead, an emergency action plan should be in place to deal with accidental spills of biocides
+D) therefore, direct contact with concentrated biocides should be avoided
+E) however, disposal of biocides should be done according to regulations through licensed disposal contractors
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 37
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) therefore, direct contact with concentrated biocides should be avoided** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) therefore, direct contact with concentrated biocides should be avoided** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** on the contrary, biocide concentrates should not be allowed to enter surface water or the environment in general, **B)** otherwise, respiratory protection should be utilised in the event of exposure to a biocide through inhalation, **C)** instead, an emergency action plan should be in place to deal with accidental spills of biocides, **E)** however, disposal of biocides should be done according to regulations through licensed disposal contractors) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 38 [Sentence Completion | Medium] [—]
+
+----, it is becoming increasingly challenging to manage the sustainability of coastal ecosystems and their resources without considering both societal and ecological elements.
+A) Although low-lying coastal areas and small island states are particularly vulnerable to sea level change triggered by climate change
+B) Once the accumulation of coastal garbage poses a threat to environmental health because of microplastics
+C) As long as there are largely-funded programmes aiming to eliminate the environmental hazards along the coastlines in industrialised nations
+D) As human activities in coastal areas have accelerated due to rapidly escalating human population growth
+E) While some coastal species are among the most endangered in the world and have a poorer recovery prognosis than their terrestrial counterparts
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 38
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) As human activities in coastal areas have accelerated due to rapidly escalating human population growth** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) As human activities in coastal areas have accelerated due to rapidly escalating human population growth** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** Although low-lying coastal areas and small island states are particularly vulnerable to sea level change triggered by climate change, **B)** Once the accumulation of coastal garbage poses a threat to environmental health because of microplastics, **C)** As long as there are largely-funded programmes aiming to eliminate the environmental hazards along the coastlines in industrialised nations, **E)** While some coastal species are among the most endangered in the world and have a poorer recovery prognosis than their terrestrial counterparts) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 39 [Sentence Completion | Medium] [—]
+
+----; by contrast, geography presents the big picture, one that has environmental events and human actions intertwined.
+A) Geology is an important but narrowly focused science that deals with and answers questions about planet Earth
+B) Scientists in the field of geology can predict what lies beneath the Earth's surface thanks to precise measurements of its gravitational field
+C) Geography draws on a variety of branches of science, including physics and geology
+D) The similarities between the limits of geology and geography make it difficult to differentiate between the two fields
+E) Geology is about more than just landforms as it is also about patterns, processes, and materials that make up the Earth
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 39
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) Geology is an important but narrowly focused science that deals with and answers questions about planet Earth** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) Geology is an important but narrowly focused science that deals with and answers questions about planet Earth** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** Scientists in the field of geology can predict what lies beneath the Earth's surface thanks to precise measurements of its gravitational field, **C)** Geography draws on a variety of branches of science, including physics and geology, **D)** The similarities between the limits of geology and geography make it difficult to differentiate between the two fields, **E)** Geology is about more than just landforms as it is also about patterns, processes, and materials that make up the Earth) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 40 [Sentence Completion | Medium] [—]
+
+Because irrigation accounts for the majority of the water used by humans worldwide, ----.
+A) subsurface irrigation is an emerging technology with high water-utilisation efficiency used by many farms
+B) water consumption varies greatly among regions due to differences in economic development
+C) achieving a better efficiency of agricultural use is crucial for advancing water conservation
+D) technologically advanced irrigation systems incorporate advanced climate-based controls
+E) different irrigation systems have been successfully used on fruit trees and certain row- crops
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 40
+Rationale: Cümle tamamlama sorusunda doğru yanıt **C) achieving a better efficiency of agricultural use is crucial for advancing water conservation** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **C) achieving a better efficiency of agricultural use is crucial for advancing water conservation** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** subsurface irrigation is an emerging technology with high water-utilisation efficiency used by many farms, **B)** water consumption varies greatly among regions due to differences in economic development, **D)** technologically advanced irrigation systems incorporate advanced climate-based controls, **E)** different irrigation systems have been successfully used on fruit trees and certain row- crops) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 41 [Sentence Completion | Medium] [—]
+
+The leading scientific hypothesis has been that insects use the moon's light to steer at night and mistake artificial lights for the moon; ----.
+A) by comparison, insects often invert themselves and try to fly upside down, causing them to plummet
+B) on the contrary, the prevalence of light pollution in towns may severely impact their hunting abilities
+C) for example, insects will fly in a spiral towards lights, which is not what they do
+D) rather, there are circumstances in which the light response might result in unstable flight
+E) however, this celestial navigation idea does not explain why insects that only fly during the day also gather around lights
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 41
+Rationale: Cümle tamamlama sorusunda doğru yanıt **E) however, this celestial navigation idea does not explain why insects that only fly during the day also gather around lights** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **E) however, this celestial navigation idea does not explain why insects that only fly during the day also gather around lights** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** by comparison, insects often invert themselves and try to fly upside down, causing them to plummet, **B)** on the contrary, the prevalence of light pollution in towns may severely impact their hunting abilities, **C)** for example, insects will fly in a spiral towards lights, which is not what they do, **D)** rather, there are circumstances in which the light response might result in unstable flight) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 42 [Sentence Completion | Medium] [—]
+
+Competition is the conflict between different organisms for control of food, natural resources, and territories, and it can occur between individuals of the same species or between individuals of different species.
+A) Farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışması olan rekabet, hem aynı türün bireyleri arasında hem de farklı türlerin bireyleri arasında meydana gelebilir.
+B) Aynı türün bireyleri arasında veya farklı türlerin bireyleri arasında meydana gelebilen rekabet, farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasıdır.
+C) Farklı organizmaların; gıda, doğal kaynaklar ve bölgeler üzerinde hâkimiyet kurma çatışması rekabet olarak adlandırılır ve aynı türün bireyleri arasında olduğu gibi farklı türlerin bireyleri arasında da meydana gelebilir.
+D) Rekabet; farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasıdır ve aynı türün bireyleri arasında veya farklı türlerin bireyleri arasında meydana gelebilir.
+E) Rekabet; farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasına verilen addır ve aynı türün bireyleri arasında olduğu gibi farklı türlerin bireyleri arasında da meydana gelebilir.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 42
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) Rekabet; farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasıdır ve aynı türün bireyleri arasında veya farklı türlerin bireyleri arasında meydana gelebilir.** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) Rekabet; farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasıdır ve aynı türün bireyleri arasında veya farklı türlerin bireyleri arasında meydana gelebilir.** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** Farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışması olan rekabet, hem aynı türün bireyleri arasında hem de farklı türlerin bireyleri arasında meydana gelebilir., **B)** Aynı türün bireyleri arasında veya farklı türlerin bireyleri arasında meydana gelebilen rekabet, farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasıdır., **C)** Farklı organizmaların; gıda, doğal kaynaklar ve bölgeler üzerinde hâkimiyet kurma çatışması rekabet olarak adlandırılır ve aynı türün bireyleri arasında olduğu gibi farklı türlerin bireyleri arasında da meydana gelebilir., **E)** Rekabet; farklı organizmalar arasındaki gıda, doğal kaynaklar ve bölgeler üzerindeki hâkimiyet çatışmasına verilen addır ve aynı türün bireyleri arasında olduğu gibi farklı türlerin bireyleri arasında da meydana gelebilir.) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 43 [Reading Comprehension | Hard] [—]
+
+Coral reefs are among the most diverse and productive biological communities in the world; however, their future is under threat due to widespread changes in tropical marine ecosystems.
+A) Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında olsa da tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler nedeniyle gelecekleri tehdit altındadır.
+B) Dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında yer alan mercan resiflerinin geleceği, tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler sebebiyle tehdit altındadır.
+C) Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasındadır ancak gelecekleri, tropikal deniz ekosistemlerindeki geniş çaplı değişikliklerden dolayı tehdit altındadır.
+D) Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasındadır ancak tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler geleceklerini tehdit etmektedir.
+E) Tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler, dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında yer alan mercan resiflerinin geleceğini tehdit etmektedir.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 43
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasındadır ancak gelecekleri, tropikal deniz ekosistemlerindeki geniş çaplı değişikliklerden dolayı tehdit altındadır.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında olsa da tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler nedeniyle gelecekleri tehdit altındadır., **B)** Dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında yer alan mercan resiflerinin geleceği, tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler sebebiyle tehdit altındadır., **D)** Mercan resifleri dünyadaki en çeşitli ve üretken biyolojik topluluklar arasındadır ancak tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler geleceklerini tehdit etmektedir., **E)** Tropikal deniz ekosistemlerindeki geniş çaplı değişiklikler, dünyadaki en çeşitli ve üretken biyolojik topluluklar arasında yer alan mercan resiflerinin geleceğini tehdit etmektedir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 44 [Reading Comprehension | Hard] [—]
+
+In most rural regions, there are different patterns of settlement that are typically determined by climate conditions and territorial characteristics, and agricultural crops and animals being farmed change from region to region based on these settlement patterns.
+A) Çoğu kırsal bölgede genellikle iklim koşulları ve toprak özellikleri tarafından belirlenen farklı yerleşim biçimleri bulunur ve yetiştirilen tarım ürünleri ve hayvanlar bu yerleşim biçimlerine bağlı olarak bölgeden bölgeye değişmektedir.
+B) Çoğu kırsal bölgedeki farklı yerleşim biçimleri genellikle iklim koşulları ve toprak özellikleri tarafından belirlenir ve buna bağlı olarak yetiştirilen tarım ürünleri ve hayvanlar arasında bölgeden bölgeye değişiklikler vardır.
+C) Çoğu kırsal bölgedeki farklı yerleşim biçimlerini genellikle iklim koşulları ve toprak özellikleri belirler ve bu yerleşim biçimlerine bağlı olarak yetiştirilip bölgeden bölgeye değişen tarım ürünleri ve hayvanlar bulunmaktadır.
+D) Çoğu kırsal bölgede genellikle iklim koşulları ve toprak özelliklerinin belirlediği farklı yerleşim biçimleri vardır ve yetiştirilen tarım ürünleri ve hayvanların bölgeden bölgeye değişmesi bu yerleşim biçimlerine bağlıdır.
+E) Çoğu kırsal bölgedeki farklı yerleşim biçimlerini belirleyen iklim koşulları ve toprak özellikleri, bu yerleşim biçimlerinde genellikle yetiştirilen tarım ürünlerini ve hayvanları da bölgeden bölgeye değiştirmektedir.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 44
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Çoğu kırsal bölgede genellikle iklim koşulları ve toprak özellikleri tarafından belirlenen farklı yerleşim biçimleri bulunur ve yetiştirilen tarım ürünleri ve hayvanlar bu yerleşim biçimlerine bağlı olarak bölgeden bölgeye değişmektedir.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Çoğu kırsal bölgedeki farklı yerleşim biçimleri genellikle iklim koşulları ve toprak özellikleri tarafından belirlenir ve buna bağlı olarak yetiştirilen tarım ürünleri ve hayvanlar arasında bölgeden bölgeye değişiklikler vardır., **C)** Çoğu kırsal bölgedeki farklı yerleşim biçimlerini genellikle iklim koşulları ve toprak özellikleri belirler ve bu yerleşim biçimlerine bağlı olarak yetiştirilip bölgeden bölgeye değişen tarım ürünleri ve hayvanlar bulunmaktadır., **D)** Çoğu kırsal bölgede genellikle iklim koşulları ve toprak özelliklerinin belirlediği farklı yerleşim biçimleri vardır ve yetiştirilen tarım ürünleri ve hayvanların bölgeden bölgeye değişmesi bu yerleşim biçimlerine bağlıdır., **E)** Çoğu kırsal bölgedeki farklı yerleşim biçimlerini belirleyen iklim koşulları ve toprak özellikleri, bu yerleşim biçimlerinde genellikle yetiştirilen tarım ürünlerini ve hayvanları da bölgeden bölgeye değiştirmektedir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 45 [Reading Comprehension | Hard] [—]
+
+Most electricity is generated at sites such as power stations, wind farms, or nuclear power plants before being transmitted to homes and industries through a complex network known as a power grid.
+A) Elektriğin çoğu, elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilmeden önce elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir.
+B) Elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilmeden önce elektriğin çoğunun üretildiği yerler arasında elektrik santralleri, rüzgar çiftlikleri veya nükleer enerji santralleri bulunur.
+C) Elektrik, karmaşık bir ağ olarak bilinen elektrik şebekesi yoluyla evlere ve sanayilere iletilmeden önce çoğunlukla elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir.
+D) Elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilen elektriğin çoğu öncelikle elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir.
+E) Elektriğin çoğu önce elektrik santralleri, rüzgar çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilerek elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilir.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 45
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Elektriğin çoğu, elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilmeden önce elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilmeden önce elektriğin çoğunun üretildiği yerler arasında elektrik santralleri, rüzgar çiftlikleri veya nükleer enerji santralleri bulunur., **C)** Elektrik, karmaşık bir ağ olarak bilinen elektrik şebekesi yoluyla evlere ve sanayilere iletilmeden önce çoğunlukla elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir., **D)** Elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilen elektriğin çoğu öncelikle elektrik santralleri, rüzgâr çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilir., **E)** Elektriğin çoğu önce elektrik santralleri, rüzgar çiftlikleri veya nükleer enerji santralleri gibi yerlerde üretilerek elektrik şebekesi olarak bilinen karmaşık bir ağ yoluyla evlere ve sanayilere iletilir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 46 [Reading Comprehension | Hard] [—]
+
+Although a few scientists had previously suggested that the continents could move, the idea did not gain acceptance until the German geologist Alfred Lothar Wegener developed the continental drift theory in 1912.
+A) 1912'de kıtasal sürüklenme teorisini geliştiren Alman jeolog Alfred Lothar Wegener'den daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür fakat bu fikir kabul görmemiştir.
+B) Kıtaların hareket edebildiğini daha önce birkaç bilim insanı öne sürmüş olsa da bu fikir, 1912'de Alman jeolog Alfred Lothar Wegener tarafından geliştirilen kıtasal sürüklenme teorisi kadar kabul görmemiştir.
+C) Daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüş olsa da bu fikir, Alman jeolog Alfred Lothar Wegener 1912'de kıtasal sürüklenme teorisini geliştirene kadar kabul görmemiştir.
+D) Alman jeolog Alfred Lothar Wegener 1912'de kıtasal sürüklenme teorisini geliştirmeden önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür fakat bu fikir kabul görmemiştir.
+E) Daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür ancak bu fikir, Alman jeolog Alfred Lothar Wegener'in kıtasal sürüklenme teorisini geliştirdiği 1912'ye kadar kabul görmemiştir.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 46
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüş olsa da bu fikir, Alman jeolog Alfred Lothar Wegener 1912'de kıtasal sürüklenme teorisini geliştirene kadar kabul görmemiştir.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** 1912'de kıtasal sürüklenme teorisini geliştiren Alman jeolog Alfred Lothar Wegener'den daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür fakat bu fikir kabul görmemiştir., **B)** Kıtaların hareket edebildiğini daha önce birkaç bilim insanı öne sürmüş olsa da bu fikir, 1912'de Alman jeolog Alfred Lothar Wegener tarafından geliştirilen kıtasal sürüklenme teorisi kadar kabul görmemiştir., **D)** Alman jeolog Alfred Lothar Wegener 1912'de kıtasal sürüklenme teorisini geliştirmeden önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür fakat bu fikir kabul görmemiştir., **E)** Daha önce birkaç bilim insanı kıtaların hareket edebildiğini öne sürmüştür ancak bu fikir, Alman jeolog Alfred Lothar Wegener'in kıtasal sürüklenme teorisini geliştirdiği 1912'ye kadar kabul görmemiştir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 47 [Reading Comprehension | Hard] [—]
+
+The Hubble Space Telescope, which has imaged many stars during different phases of their lives, has played a key role in furthering our understanding of stars' life cycles.
+A) Birçok yıldızı yaşamlarının farklı evreleri boyunca görüntülediği için Hubble Uzay Teleskobu, yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır.
+B) Hubble Uzay Teleskobu, birçok yıldızın yaşamını farklı evreleri boyunca görüntüleyerek yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır.
+C) Yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynayan Hubble Uzay Teleskobu, birçok yıldızı yaşamlarının farklı evreleri boyunca görüntülemiştir.
+D) Hubble Uzay Teleskobu, birçok yıldızın yaşamını farklı evreler boyunca görüntülemekle kalmayıp yıldızların yaşam döngüsüne ilişkin anlayışımızı daha ileri taşımada da önemli bir rol oynamıştır.
+E) Birçok yıldızı yaşamlarının farklı evreleri boyunca görüntüleyen Hubble Uzay Teleskobu, yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır.
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 47
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) Birçok yıldızı yaşamlarının farklı evreleri boyunca görüntüleyen Hubble Uzay Teleskobu, yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Birçok yıldızı yaşamlarının farklı evreleri boyunca görüntülediği için Hubble Uzay Teleskobu, yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır., **B)** Hubble Uzay Teleskobu, birçok yıldızın yaşamını farklı evreleri boyunca görüntüleyerek yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynamıştır., **C)** Yıldızların yaşam döngülerine ilişkin anlayışımızı daha ileri taşımada önemli bir rol oynayan Hubble Uzay Teleskobu, birçok yıldızı yaşamlarının farklı evreleri boyunca görüntülemiştir., **D)** Hubble Uzay Teleskobu, birçok yıldızın yaşamını farklı evreler boyunca görüntülemekle kalmayıp yıldızların yaşam döngüsüne ilişkin anlayışımızı daha ileri taşımada da önemli bir rol oynamıştır.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 48 [Reading Comprehension | Hard] [—]
+
+Çalışmalar ağızdaki kasların bir şeyleri sessizce okurken dahi aktif olduğunu göstermektedir ve bu, okuduklarımızı çözümlemek için aslında kelimeleri zihnimizde seslendirdiğimiz anlamına gelmektedir.
+A) Showing that the muscles in the mouth are still active when reading something silently, studies imply that sounding out the words in our minds is essential to decode what is read.
+B) Studies show that the muscles in the mouth are still active when reading something silently, and this implies that we are essentially sounding out the words in our minds to decode what we read.
+C) Studies which show that the muscles in the mouth are still active when something is read silently imply that the words are essentially sounded out in our minds so that what we read can be decoded.
+D) Studies show that the muscles in the mouth are still active when something is read silently, and this implies that we decode what is read by essentially sounding the words out in our minds.
+E) Studies show that the muscles in the mouth are still active when reading something silently, which essentially implies that what we read is decoded when we sound the words out in our minds
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 48
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) Studies show that the muscles in the mouth are still active when reading something silently, and this implies that we are essentially sounding out the words in our minds to decode what we read.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Showing that the muscles in the mouth are still active when reading something silently, studies imply that sounding out the words in our minds is essential to decode what is read., **C)** Studies which show that the muscles in the mouth are still active when something is read silently imply that the words are essentially sounded out in our minds so that what we read can be decoded., **D)** Studies show that the muscles in the mouth are still active when something is read silently, and this implies that we decode what is read by essentially sounding the words out in our minds., **E)** Studies show that the muscles in the mouth are still active when reading something silently, which essentially implies that what we read is decoded when we sound the words out in our minds) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 49 [Reading Comprehension | Hard] [—]
+
+Danimarka'daki mühendisler, dondurmayı daha lezzetli, maliyet açısından daha hesaplı ve hatta yüksek sıcaklıklarda çok daha kolay taşınabilir hâle getirmek için suyun, yağın ve havanın kimyasını değiştiriyor.
+A) In order to create ice cream that could be more delicious, more cost-effective, and even easier to transport in high temperatures, engineers in Denmark are modifying the chemistry of water, fat, and air.
+B) The chemistry of water, fat, and air is being modified by engineers in Denmark who aim to make ice cream more delicious, more cost- effective, and even easier to transport in high temperatures.
+C) Engineers in Denmark are making ice cream more delicious, more cost-effective, and even easier to transport in high temperatures by modifying the chemistry of water, fat, and air.
+D) Engineers in Denmark are modifying the chemistry of water, fat, and air to make ice cream more delicious, more cost-effective, and even easier to transport in high temperatures.
+E) Engineers in Denmark are modifying the chemistry of water, fat, and air so that they can create ice cream that is more delicious, more cost-effective, and even easier to transport in high temperatures.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 49
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) Engineers in Denmark are modifying the chemistry of water, fat, and air to make ice cream more delicious, more cost-effective, and even easier to transport in high temperatures.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** In order to create ice cream that could be more delicious, more cost-effective, and even easier to transport in high temperatures, engineers in Denmark are modifying the chemistry of water, fat, and air., **B)** The chemistry of water, fat, and air is being modified by engineers in Denmark who aim to make ice cream more delicious, more cost- effective, and even easier to transport in high temperatures., **C)** Engineers in Denmark are making ice cream more delicious, more cost-effective, and even easier to transport in high temperatures by modifying the chemistry of water, fat, and air., **E)** Engineers in Denmark are modifying the chemistry of water, fat, and air so that they can create ice cream that is more delicious, more cost-effective, and even easier to transport in high temperatures.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 50 [Reading Comprehension | Hard] [—]
+
+Yeryüzündeki orman, mera ve sulak arazilerin çoğu tarımsal ve kentsel arazilere dönüştürülmektedir ve o habitatlarda yaşayan türlerin sayısı, yeni çevreye uyum sağlayamadıkları için büyük ölçüde azalabilir.
+A) It is the transformation of much of the forests, grasslands, and wetlands on earth into agricultural and urban areas that can drop the number of species living in those habitats as they are unable to adapt to the new environment.
+B) As much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas, the number of species living in those habitats can drop greatly due to their inability to adapt to the new environment.
+C) Much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas, and the number of species that live in those habitats can drop greatly because they are unable to adapt to the new environment.
+D) Much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas; moreover, species living in those habitats are unable to adapt to their new environment, which may lead to a great drop in their number.
+E) As a result of the transformation of much of the forests, grasslands, and wetlands on earth into agricultural and urban areas, the number of species that live in those habitats and are unable to adapt to the new environment can drop greatly.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 50
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas, and the number of species that live in those habitats can drop greatly because they are unable to adapt to the new environment.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** It is the transformation of much of the forests, grasslands, and wetlands on earth into agricultural and urban areas that can drop the number of species living in those habitats as they are unable to adapt to the new environment., **B)** As much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas, the number of species living in those habitats can drop greatly due to their inability to adapt to the new environment., **D)** Much of the forests, grasslands, and wetlands on earth is being transformed into agricultural and urban areas; moreover, species living in those habitats are unable to adapt to their new environment, which may lead to a great drop in their number., **E)** As a result of the transformation of much of the forests, grasslands, and wetlands on earth into agricultural and urban areas, the number of species that live in those habitats and are unable to adapt to the new environment can drop greatly.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 51 [Reading Comprehension | Hard] [—]
+
+Mikroorganizmalar ve özellikle bakteriler, küçük boyutları ve kolayca ayırt edilebilen değişken özelliklerinin olmaması nedeniyle erken dönem genetikçileri tarafından genellikle göz ardı edilmiştir.
+A) Early geneticists generally ignored microorganisms, and particularly bacteria, due to their small size and the lack of easily recognisable variable traits.
+B) Microorganisms, and especially bacteria, which lack easily recognisable variable traits due to their small size, were generally ignored by early geneticists.
+C) Microorganisms, and particularly bacteria, were generally ignored by early geneticists because of their small size and the lack of easily recognisable variable traits.
+D) Early geneticists generally ignored microorganisms, and especially bacteria, since they are small in size and lack easily recognisable variable traits.
+E) Microorganisms, and particularly bacteria, were generally ignored by early geneticists, as they are small in size, lacking easily recognisable variable traits.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 51
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Microorganisms, and particularly bacteria, were generally ignored by early geneticists because of their small size and the lack of easily recognisable variable traits.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Early geneticists generally ignored microorganisms, and particularly bacteria, due to their small size and the lack of easily recognisable variable traits., **B)** Microorganisms, and especially bacteria, which lack easily recognisable variable traits due to their small size, were generally ignored by early geneticists., **D)** Early geneticists generally ignored microorganisms, and especially bacteria, since they are small in size and lack easily recognisable variable traits., **E)** Microorganisms, and particularly bacteria, were generally ignored by early geneticists, as they are small in size, lacking easily recognisable variable traits.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 52 [Reading Comprehension | Hard] [—]
+
+Eşittir işaretinin matematikte birden fazla anlama sahip olması bilgisayarlar için sorunlara sebep olmaktadır ve bunu düzeltmek matematiğin temellerini yıkmak anlamına gelebilir.
+A) Issues that computers have are caused by the fact that the equal sign has more than one meaning in mathematics, and fixing this may mean the destruction of the foundations of mathematics.
+B) The equal sign has more than one meaning in mathematics, which causes issues for computers, and fixing this would mean that the foundations of mathematics could be destroyed.
+C) In mathematics, the equal sign has more than one meaning, causing issues for computers, and fixing this means that the foundations of mathematics may have to be destroyed.
+D) Causing issues for computers, the equal sign has more than one meaning in mathematics, and fixing this may mean the destruction of the foundations of mathematics.
+E) That the equal sign has more than one meaning in mathematics is causing issues for computers, and fixing this may mean destroying the foundations of mathematics.
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 52
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) That the equal sign has more than one meaning in mathematics is causing issues for computers, and fixing this may mean destroying the foundations of mathematics.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Issues that computers have are caused by the fact that the equal sign has more than one meaning in mathematics, and fixing this may mean the destruction of the foundations of mathematics., **B)** The equal sign has more than one meaning in mathematics, which causes issues for computers, and fixing this would mean that the foundations of mathematics could be destroyed., **C)** In mathematics, the equal sign has more than one meaning, causing issues for computers, and fixing this means that the foundations of mathematics may have to be destroyed., **D)** Causing issues for computers, the equal sign has more than one meaning in mathematics, and fixing this may mean the destruction of the foundations of mathematics.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 53 [Reading Comprehension | Hard] [—]
+
+Hafıza, dil ve dikkati içeren bilişsel becerilerimiz yaşla birlikte doğal olarak körelir ancak son bilimsel araştırmalar, evcil hayvan sahibi olmanın bu süreci yavaşlatabileceğini göstermektedir.
+A) It has been shown by recent scientific studies that having a pet might slow down the process of natural deterioration of our cognitive abilities, including memory, language, and attention, with age.
+B) While our cognitive abilities, including memory, language, and attention, naturally deteriorate with age, this process might be slowed down by having a pet, as shown by recent scientific studies.
+C) Our cognitive abilities, including memory, language, and attention, naturally deteriorate with age; however, recent scientific studies show that having a pet might slow this process down.
+D) As we age, our cognitive abilities, including memory, language, and attention, naturally deteriorate, yet recent scientific studies show that this process might be slowed down by having a pet.
+E) Recent scientific studies show that it is natural for our cognitive abilities, including memory, language, and attention, to deteriorate with age, but having a pet might slow this process down.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 53
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Our cognitive abilities, including memory, language, and attention, naturally deteriorate with age; however, recent scientific studies show that having a pet might slow this process down.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** It has been shown by recent scientific studies that having a pet might slow down the process of natural deterioration of our cognitive abilities, including memory, language, and attention, with age., **B)** While our cognitive abilities, including memory, language, and attention, naturally deteriorate with age, this process might be slowed down by having a pet, as shown by recent scientific studies., **D)** As we age, our cognitive abilities, including memory, language, and attention, naturally deteriorate, yet recent scientific studies show that this process might be slowed down by having a pet., **E)** Recent scientific studies show that it is natural for our cognitive abilities, including memory, language, and attention, to deteriorate with age, but having a pet might slow this process down.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 54 [Reading Comprehension | Hard] [—]
+
+The International Mathematical Olympiad (IMO), is considered the world's most prestigious competition for young mathematicians. Correctly answering its test questions requires mathematical ability that artificial intelligence (Al) systems generally lack. Yet, a tech company developed a new Al system which was trained on geometry and could answer some IMO geometry questions as well as humans. ---- Thus, the tech company has now released another Al model which can solve a wider range of problems, and a new version of the previous one. When the team tested them on the questions of IMO 2025, they answered four out of six questions correctly, giving them a score of 28 out of a possible 42 points, which was enough to win a silver medal.
+A) The Al model that can solve olympiad grade mathematics problems has triggered other tech companies to produce more sophisticated models.
+B) Furthermore, the developer company had to find a solution since the model came up with an answer far later than the maximum time allowed for each question.
+C) However, it could not answer questions from other mathematical disciplines, such as number theory and algebra, which is necessary to win an IMO medal.
+D) But many Al models rely on a trial-and-error approach called reinforcement learning, where the system finds its own way to solve a problem over many attempts.
+E) Many Al researchers around the world suggest that the rate at which Al improves in the field of mathematics is breathtaking
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 54
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) However, it could not answer questions from other mathematical disciplines, such as number theory and algebra, which is necessary to win an IMO medal.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** The Al model that can solve olympiad grade mathematics problems has triggered other tech companies to produce more sophisticated models., **B)** Furthermore, the developer company had to find a solution since the model came up with an answer far later than the maximum time allowed for each question., **D)** But many Al models rely on a trial-and-error approach called reinforcement learning, where the system finds its own way to solve a problem over many attempts., **E)** Many Al researchers around the world suggest that the rate at which Al improves in the field of mathematics is breathtaking) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 55 [Reading Comprehension | Hard] [—]
+
+The microclimate in an urban area as compared to that of the countryside is usually quite obvious. A city, for example, is generally characterised by having haze, higher temperatures, lower wind speed, and reduced radiation. The countryside, on the other hand, is characterised by clean, clear air, lower temperatures, and high wind speeds and radiation. ---- Instead of a mixture of soil or M vegetation, the surface layer is covered with concrete, glass, and stone surfaces ranging to heights of several hundred feet. These materials shed and carry away water, absorb heat, and block and channel the passage of winds, thus altering the climate conditions in the area.
+A) These different microclimatic conditions should come as no surprise to anyone when the materials used in building cities and their effects are considered.
+B) To most people, these differences in the infrastructural characteristics of the city and countryside are hardly noticeable.
+C) When patterns in the weather occur over a long period, they can be used to define the climate of a region, which affects the conditions of a city.
+D) The geographical, biological, and man-made features that make local climate different from the general climate is called a microclimate.
+E) For example, climates have been classified into zones by vegetation, moisture index, and even measures of human discomfort.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 55
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) These different microclimatic conditions should come as no surprise to anyone when the materials used in building cities and their effects are considered.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** To most people, these differences in the infrastructural characteristics of the city and countryside are hardly noticeable., **C)** When patterns in the weather occur over a long period, they can be used to define the climate of a region, which affects the conditions of a city., **D)** The geographical, biological, and man-made features that make local climate different from the general climate is called a microclimate., **E)** For example, climates have been classified into zones by vegetation, moisture index, and even measures of human discomfort.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 56 [Reading Comprehension | Hard] [—]
+
+Ocean alkalinity enhancement is a proposed method of removing excess carbon dioxide (CO2) from the atmosphere. It involves adding alkaline substances, such as basalt or calcium oxide, to oceanwater to increase its pH. This helps to convert dissolved CO2 in seawater into carbonates and bicarbonates, unlocking capacity for the oceans to draw down further CO2 from the atmosphere. ---- However, releasing vast quantities of alkaline substances into the ocean could have catastrophic consequences for the marine food web.
+A) Efforts to boost the ocean's carbon-storing capacity by making seawater more alkaline could have unfavourable outcomes, researchers have warned.
+B) In theory, ocean alkalinisation could remove many billions of tonnes of CO2 from the atmosphere, helping to limit the impacts of climate change.
+C) Interestingly, shallow coastal waters may respond differently to ocean alkalinity enhancement compared with deep-ocean settings.
+D) Naturally occurring minerals such as basalt and olivine were found to be ineffective at boosting ocean carbon absorption because they do not dissolve well in ocean water.
+E) In fact, researchers have already investigated how the release of alkaline minerals would affect the cycling of carbon in the ocean by assessing the impact of alkaline mineral release.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 56
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) In theory, ocean alkalinisation could remove many billions of tonnes of CO2 from the atmosphere, helping to limit the impacts of climate change.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Efforts to boost the ocean's carbon-storing capacity by making seawater more alkaline could have unfavourable outcomes, researchers have warned., **C)** Interestingly, shallow coastal waters may respond differently to ocean alkalinity enhancement compared with deep-ocean settings., **D)** Naturally occurring minerals such as basalt and olivine were found to be ineffective at boosting ocean carbon absorption because they do not dissolve well in ocean water., **E)** In fact, researchers have already investigated how the release of alkaline minerals would affect the cycling of carbon in the ocean by assessing the impact of alkaline mineral release.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 57 [Reading Comprehension | Hard] [—]
+
+Beginning in the 16th century, as botanists explored more areas of the world and identified more and more species, the problem of how to best classify all these species became critical. By the mid-19th century, a number of botanists had devised classification schemes that were based on using a large number of traits. As the century progressed, there was also greater interest not only in plants' external form or morphology, but also in internal structures and in microscopic examination of plant tissue. ---- This increased morphological knowledge improved classification of plants by providing more information on which to base categorising decisions.
+A) Plants thriving in dry sites were observed to have several external features that appear to be adaptations for limiting water loss.
+B) The diversity of plant species and even the great number of forms within a single plant made the study of plants a challenging task.
+C) The basic classification system used by 19th- century botanists grew out of the work of botanist Carl Linnaeus in the 18th century.
+D) With this trend came more work on plant development, on how plant structures arose, enlarged, and changed over time.
+E) The study of biogeography deals with the relationships between plant form and geographical characteristics such as climate and terrain.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 57
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) With this trend came more work on plant development, on how plant structures arose, enlarged, and changed over time.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Plants thriving in dry sites were observed to have several external features that appear to be adaptations for limiting water loss., **B)** The diversity of plant species and even the great number of forms within a single plant made the study of plants a challenging task., **C)** The basic classification system used by 19th- century botanists grew out of the work of botanist Carl Linnaeus in the 18th century., **E)** The study of biogeography deals with the relationships between plant form and geographical characteristics such as climate and terrain.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 58 [Reading Comprehension | Hard] [—]
+
+When John Dalton put forward his atomic theory, chemistry was not yet a quantitative science. Chemists did not know how elements combined or whether they always combined in the same proportions. ---- They thought that metals could be alloyed in whatever proportions one desired and that the quantity of the ingredients of a dye could vary. They did not see why chemical compounds should be any different. Dalton changed all that by proposing that the proportions of atoms comprising a molecule could not vary.
+A) Moreover, many chemists believed that the ratio of different elements in a compound was variable.
+B) Dalton revolutionised chemistry, not by reintroducing an old idea but by formulating a workable theory of the formation of chemical compounds.
+C) The complexity of the materials with which chemists worked made generalisations about their behaviour difficult.
+D) Chemists confined themselves to working with solids and liquids and paid no attention to the gaseous state of matter.
+E) Dalton's theory did not lie in the assumption that matter is composed of indestructible atoms, which was a long-established thought.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 58
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Moreover, many chemists believed that the ratio of different elements in a compound was variable.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Dalton revolutionised chemistry, not by reintroducing an old idea but by formulating a workable theory of the formation of chemical compounds., **C)** The complexity of the materials with which chemists worked made generalisations about their behaviour difficult., **D)** Chemists confined themselves to working with solids and liquids and paid no attention to the gaseous state of matter., **E)** Dalton's theory did not lie in the assumption that matter is composed of indestructible atoms, which was a long-established thought.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 59 [Reading Comprehension | Hard] [—]
+
+One common attribute of societies considered modern is the high degree to which they use technology. This statement pertains not only to the domain of industrial manufacturing and the organisation of work, but also to the private everyday world in which each member of society lives. The way people lead their daily lives and take part in society is facilitated or complicated by residential infrastructure, public and private means of transportation, depending on the design, ease of handling and accessibility of all these things. ---- Communication, playing sports, keeping house, enjoying leisure time - all these are no longer conceivable in modern industrialised societies in the absence of technological support.
+A) In the domestic environment, the application of technology reduces physical hardship.
+B) Technology is a supportive tool for persons of all ages, but it is particularly important for the elderly.
+C) While technological innovations are often welcomed in by a large number of advocates, they may have some opponents as well.
+D) There are few domains of contemporary life that would be what they are now without technology.
+E) Yet, in some remote parts of the world, there are traditional societies lacking access to technological advancements.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 59
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) There are few domains of contemporary life that would be what they are now without technology.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** In the domestic environment, the application of technology reduces physical hardship., **B)** Technology is a supportive tool for persons of all ages, but it is particularly important for the elderly., **C)** While technological innovations are often welcomed in by a large number of advocates, they may have some opponents as well., **E)** Yet, in some remote parts of the world, there are traditional societies lacking access to technological advancements.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 60 [Reading Comprehension | Hard] [—]
+
+(I) The elkhorn coral was once a very common species, but white band disease in the 1980s killed off 97 per cent of the population, and today it is still critically endangered. (II) It is not only a keystone species, but as one of the fastest growing corals, it is an ecosystem engineer. (III) Climate change contributes to this by causing mass coral bleaching, while rising sea temperatures kill the coral by forcing it to release the algae that it feeds on. (IV) It suffers from disease, unsustainable fishing, pollution, and ocean acidification as well. (V) Humans also play a role in its demise by standing on reefs and damaging it when snorkelling or diving.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 60
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) ** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I B) II C) III D) IV E) V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 61 [Reading Comprehension | Hard] [—]
+
+(I) Everything scientists know about particle physics, summed up in a theory called the Standard Model, suggests that the Big Bang should have created equal quantities of matter and antimatter. (II) Physicists have proposed many hypotheses to explain this, and some of these proposals include side effects that scientists can hope to detect. (III) According to this theory, when matter and antimatter particles collide, they destroy one another, so the mass created when the universe was born should have been completely wiped out, leaving an empty, featureless cosmos containing only light. (IV) That there was enough leftover matter after this great annihilation to form galaxies, stars, planets and even us but almost no antimatter is known as the matter-antimatter imbalance. (V) This existential anomaly is one of the great outstanding mysteries of modern physics.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 61
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) ** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I B) II C) III D) IV E) V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 62 [Reading Comprehension | Hard] [—]
+
+(I) Volcanic energy cannot be harnessed; that is, controlled and collected, but in a few places heat from the earth, called geothermal energy, can be collected. (II) Usually, engineers try to collect this heat in the rare places where the Earth's crust has trapped steam and hot water. (III) Here, they drill into the crust and allow the heat to escape, either as steam or as very hot water. (IV) Pipes carry the hot water to a plant, where some of the steam is allowed to 'flash' or separate from the water, eventually turning a turbine or generator to make electricity. (V) It has a major environmental benefit because it compensates for the air pollution that would have been produced if fossil fuels were the energy source.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 62
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) ** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I B) II C) III D) IV E) V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 63 [Irrelevant Sentence | Medium] [—]
+
+(I) Every technological leap brings with it challenges as well as opportunities. (II) The smartphone has transformed the manner in which we communicate, the search engine has changed how we can find information, and social media platforms have revolutionised the way we interact with each other. (III) Our mounting reliance on technology, however, has had an adverse impact on our cognitive skills. (IV) We cultivate awareness of our own individual rhythms of attention and accordingly structure our daily schedules so that tasks demanding high concentration align with peaks of focus. (V) We no longer read in-depth as much because our attention span has become shorter than it used to be as we are frequently distracted by our personal devices.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 63
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **D) ** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 64 [Irrelevant Sentence | Medium] [—]
+
+(I) Given the complexity of 21st-century machines, it is curious that a phrase published in the 1670s confirms their mechanics. (II) The phrase "as the extension, so the force", known as Hooke's law, states that the deformation of an elastic object, such as a metal spring, is proportional to the force applied to it. (III) People use Hooke's law to analyse an astonishing variety of materials - metal, concrete, rubber, even bone. (IV) The law remains in effect only if the object stays elastic that is, if it returns to its original shape when the force is removed. (V) When the force becomes too large, Hooke's law does not apply.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 64
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **C) ** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 65 [Irrelevant Sentence | Medium] [—]
+
+(I) Dry, dusty soil and blazing hot sun are challenging conditions for plant growth, and species unsuited to such sites will soon start to suffer. (II) However, some of the most beautiful plants and flowers have adapted to thrive in these areas, including a whole host of colourful blooms, and sculptural shrubs and trees. (III) Unlike sun-loving plants, shade-loving plants must absorb as much of the available light as possible, and as a consequence, their foliage is generally large and thin. (IV) One can often tell when plants are suited to hot, dry sites, as many share key characteristics that help them survive. (V) These include small leaves to reduce moisture loss, silvery foliage to reflect light, and hairs that trap water droplets, protecting the surface from the sun and reducing evaporation.
+A) I B) II C) III D) IV E) V
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 65
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **C) ** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 66 [Irrelevant Sentence | Medium] [—]
+
+Which could be understood from the passage?
+A) Speculations about life on Mars have been steadily increasing in recent years thanks to ambitious explanations of scientists.
+B) The evidence gathered up to now has not been sufficient enough for scientists to make reliable assumptions about the existence of life on Mars.
+C) The clues found on the surface of Mars have supported the fact that the scarceness of water is the main obstacle to biological activity.
+D) Until the 19th century, scientists had hypothesised about the existence of microscopic bacteria rather than intelligent life forms.
+E) After space travel became a reality in the 1960s, science fiction works began to feature the possibility of life on Mars.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 66
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **B) The evidence gathered up to now has not been sufficient enough for scientists to make reliable assumptions about the existence of life on Mars.** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 67 [Irrelevant Sentence | Medium] [—]
+
+Prior to the advent of space travel, there was much speculation about Mars ----.
+A) given that science fiction writers had been focusing closely on the existence of dinosaurs or small mammals
+B) as scientists thought that the surface features revealed by telescopes could ensure the survival of microscopic bacteria
+C) because sophisticated telescopes confirmed the existence of some Earth-like features
+D) while telescopes greatly helped to generate accurate data on ancient life forms such as bacteria
+E) even though the possibility of extraterrestrial human life had been largely eliminated
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 67
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **C) because sophisticated telescopes confirmed the existence of some Earth-like features** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 68 [Paragraph Completion | Medium] [—]
+
+According to the passage, the possibility of finding anything comparable to human life - ---.
+A) was dismissed when telescopes discovered that there was no grass or trees on the surface of Mars
+B) captured the attention of science fiction writers but did not greatly impact scientists
+C) was ruled out after the first space mission proved that Mars' environment is not suitable for it
+D) was promoted with the increasing number of studies on the atmospheric density of Mars
+E) was the reason behind developing powerful telescopes in the 1960s
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 68
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **C) was ruled out after the first space mission proved that Mars' environment is not suitable for it** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** was dismissed when telescopes discovered that there was no grass or trees on the surface of Mars, **B)** captured the attention of science fiction writers but did not greatly impact scientists, **D)** was promoted with the increasing number of studies on the atmospheric density of Mars, **E)** was the reason behind developing powerful telescopes in the 1960s) paragrafın ana temasını desteklememektedir.
+
+
+### Question 69 [Paragraph Completion | Medium] [—]
+
+According to the passage, maintaining good indoor air quality can be difficult because ----.
+A) ventilation systems are unable to remove all pollutants successfully
+B) most buildings usually depend on uncontrolled natural air flow
+C) there is a wide range of contributors with varying degrees of significance
+D) insufficient insulation causes pollutants to pile up indoors
+E) the outside air to be used may have already been affected by biochemical factors
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 69
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **C) there is a wide range of contributors with varying degrees of significance** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** ventilation systems are unable to remove all pollutants successfully, **B)** most buildings usually depend on uncontrolled natural air flow, **D)** insufficient insulation causes pollutants to pile up indoors, **E)** the outside air to be used may have already been affected by biochemical factors) paragrafın ana temasını desteklememektedir.
+
+
+### Question 70 [Paragraph Completion | Medium] [—]
+
+It can be understood from the passage that many modern buildings ----.
+A) are so heavily insulated that natural ventilation is rarely used to improve atmospheric circulation
+B) mainly use mechanical ventilation systems hampering the excessive concentrations of pollutants
+C) reduce indoor pollutants by increasing the frequency and duration of air exchanges
+D) are insulated to conserve energy and therefore their air circulation requires well-built ventilation systems
+E) allow for regular air exchange when toxic chemicals rapidly accumulate within a building
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 70
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **D) are insulated to conserve energy and therefore their air circulation requires well-built ventilation systems** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** are so heavily insulated that natural ventilation is rarely used to improve atmospheric circulation, **B)** mainly use mechanical ventilation systems hampering the excessive concentrations of pollutants, **C)** reduce indoor pollutants by increasing the frequency and duration of air exchanges, **E)** allow for regular air exchange when toxic chemicals rapidly accumulate within a building) paragrafın ana temasını desteklememektedir.
+
+
+### Question 71 [Paragraph Completion | Medium] [—]
+
+Which could be inferred from the passage?
+A) Internal ventilation systems in airtight buildings are well-equipped to tackle chemical emissions.
+B) The effects of chemical emissions within buildings change based on the level of insulation.
+C) When outdoor air is used in ventilation systems, the harmful effects of chemicals could be highly increased.
+D) Overemphasis on energy-saving strategies can lead to hazardous circumstances within indoor environments.
+E) The drawbacks of reducing air exchange to conserve energy have led engineers to come up with better ventilation systems.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 71
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **D) Overemphasis on energy-saving strategies can lead to hazardous circumstances within indoor environments.** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** Internal ventilation systems in airtight buildings are well-equipped to tackle chemical emissions., **B)** The effects of chemical emissions within buildings change based on the level of insulation., **C)** When outdoor air is used in ventilation systems, the harmful effects of chemicals could be highly increased., **E)** The drawbacks of reducing air exchange to conserve energy have led engineers to come up with better ventilation systems.) paragrafın ana temasını desteklememektedir.
+
+
+### Question 72 [Reading Comprehension | Hard] [—]
+
+It is stated in the passage that noise- cancelling technology ---.
+A) is a new kind of technology whose effects on our auditory function are not known just yet
+B) may protect the sense of hearing since it provides clear audio free from background noise
+C) has been harshly criticised by parents since its harmful effects on children's brain development were revealed
+D) is often preferred by drivers since it cancels out the sounds of the vehicle's suspension on a rough road
+E) makes it difficult for children to hear audible sounds even in the absence of background noise
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 72
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) may protect the sense of hearing since it provides clear audio free from background noise** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** is a new kind of technology whose effects on our auditory function are not known just yet, **C)** has been harshly criticised by parents since its harmful effects on children's brain development were revealed, **D)** is often preferred by drivers since it cancels out the sounds of the vehicle's suspension on a rough road, **E)** makes it difficult for children to hear audible sounds even in the absence of background noise) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 73 [Reading Comprehension | Hard] [—]
+
+According to the passage, auditory processing disorder ----.
+A) is widespread among individuals who listen to loud music constantly through headphones without noise-cancelling feature
+B) necessitates the sufferer to wear a sophisticated hearing device which is capable of cancelling background noise
+C) could result from the underdevelopment of the brain's noise-filtering function due to the excessive use of noise-cancelling headphones
+D) paralyses individuals' hearing mechanism in such a way that they are unable to hear background noise anymore
+E) causes the individuals' sense of hearing to become extremely insensitive to all kinds of noises
+
+Correct Answer: C
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 73
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) could result from the underdevelopment of the brain's noise-filtering function due to the excessive use of noise-cancelling headphones** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** is widespread among individuals who listen to loud music constantly through headphones without noise-cancelling feature, **B)** necessitates the sufferer to wear a sophisticated hearing device which is capable of cancelling background noise, **D)** paralyses individuals' hearing mechanism in such a way that they are unable to hear background noise anymore, **E)** causes the individuals' sense of hearing to become extremely insensitive to all kinds of noises) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 74 [Reading Comprehension | Hard] [—]
+
+The author's tone towards noise- cancelling technology is ----.
+A) admiring
+B) neutral
+C) ironic
+D) critical
+E) encouraging
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 74
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) critical** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** admiring, **B)** neutral, **C)** ironic, **E)** encouraging) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 75 [Reading Comprehension | Hard] [—]
+
+According to the passage, lithium-ion batteries ----.
+A) are preferred over sodium-ion batteries as the latter is a scarce element found only in some parts of the Earth
+B) are versatile in that they can be found in everything from our personal technological devices to facilities storing renewable energy
+C) should be researched further as a technological back-up to sodium batteries due to the needs of today's energy-bound sectors
+D) are expected to rise to peak in their performance after they become supported by sodium-ion batteries
+E) have been developed recently to aid sodium- ion technology which fails to meet the demand of massive facilities
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 75
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) are versatile in that they can be found in everything from our personal technological devices to facilities storing renewable energy** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** are preferred over sodium-ion batteries as the latter is a scarce element found only in some parts of the Earth, **C)** should be researched further as a technological back-up to sodium batteries due to the needs of today's energy-bound sectors, **D)** are expected to rise to peak in their performance after they become supported by sodium-ion batteries, **E)** have been developed recently to aid sodium- ion technology which fails to meet the demand of massive facilities) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 76 [Reading Comprehension | Hard] [—]
+
+It can be understood from the passage that sodium-ion batteries ----.
+A) are not as feasible as lithium-ion batteries, thus diverting the attention of researchers to other materials
+B) have increased in price due their utilisation in place of lithium-ion batteries
+C) can provide 200 times more battery capacity than existing methods thanks to new electrode materials
+D) were at first not comparable with lithium-ion batteries in terms of retaining charge due to their larger ion size
+E) have been enormously in demand for the mass production of electric vehicles and scooters
+
+Correct Answer: D
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 76
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) were at first not comparable with lithium-ion batteries in terms of retaining charge due to their larger ion size** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** are not as feasible as lithium-ion batteries, thus diverting the attention of researchers to other materials, **B)** have increased in price due their utilisation in place of lithium-ion batteries, **C)** can provide 200 times more battery capacity than existing methods thanks to new electrode materials, **E)** have been enormously in demand for the mass production of electric vehicles and scooters) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 77 [Reading Comprehension | Hard] [—]
+
+Which of the following can be concluded from the passage?
+A) Scientists should focus on improving the efficiency of lithium-ion batteries instead of wasting time and resources on sodium-ion batteries.
+B) Batteries based on sodium could aid a future green energy economy if they can match lithium battery performance.
+C) The economic incentive for a shift from lithium-ion batteries to sodium-ion batteries is lacking for now.
+D) Sodium batteries are struggling to reach even half the energy capacity of the low-end lithium cells.
+E) Initially, sodium batteries could not have been used widely due to their high production costs.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 77
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) Batteries based on sodium could aid a future green energy economy if they can match lithium battery performance.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Scientists should focus on improving the efficiency of lithium-ion batteries instead of wasting time and resources on sodium-ion batteries., **C)** The economic incentive for a shift from lithium-ion batteries to sodium-ion batteries is lacking for now., **D)** Sodium batteries are struggling to reach even half the energy capacity of the low-end lithium cells., **E)** Initially, sodium batteries could not have been used widely due to their high production costs.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 78 [Reading Comprehension | Hard] [—]
+
+It is understood from the passage that global warming ----.
+A) has more devastating impacts on humans than it does on plants and animals
+B) is a source of disagreement between experts and the public as to which regions are warmer
+C) can also be studied in detail by focusing on local climates where temperatures are rising
+D) has led experts to study the negative effects of climatic changes more intensively
+E) is a phenomenon whose effects are not going to be the same everywhere
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 78
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) is a phenomenon whose effects are not going to be the same everywhere** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** has more devastating impacts on humans than it does on plants and animals, **B)** is a source of disagreement between experts and the public as to which regions are warmer, **C)** can also be studied in detail by focusing on local climates where temperatures are rising, **D)** has led experts to study the negative effects of climatic changes more intensively) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 79 [Reading Comprehension | Hard] [—]
+
+It is clearly stated in the passage that many species ----.
+A) are still adversely affected by climatic changes although they have fled to new places
+B) may be threatened with population decline because of their vulnerability to climatic changes
+C) might not be able to protect their numbers despite finding a variety of escape routes
+D) face serious risks as they have not been able to change their growth and migration patterns
+E) have the capacity to adapt to the changes in their environments
+
+Correct Answer: B
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 79
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) may be threatened with population decline because of their vulnerability to climatic changes** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** are still adversely affected by climatic changes although they have fled to new places, **C)** might not be able to protect their numbers despite finding a variety of escape routes, **D)** face serious risks as they have not been able to change their growth and migration patterns, **E)** have the capacity to adapt to the changes in their environments) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 80 [Reading Comprehension | Hard] [—]
+
+What is the primary purpose of the author?
+A) To describe the characteristics of the places to which most species migrate due to climatic changes
+B) To warn the scientific community about the rapid pace of global warming so that immediate action can be taken
+C) To discuss why many species move to higher latitudes or elevations although environmental conditions are unfavourable there
+D) To exemplify the ways different species have evolved to avoid the harmful effects of global warming
+E) To highlight that species differ from each other in how severely they might be affected by global warming
+
+Correct Answer: E
+Document Reference: YÖKDİL 2026-1 Fen Bilimleri, Soru 80
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) To highlight that species differ from each other in how severely they might be affected by global warming** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** To describe the characteristics of the places to which most species migrate due to climatic changes, **B)** To warn the scientific community about the rapid pace of global warming so that immediate action can be taken, **C)** To discuss why many species move to higher latitudes or elevations although environmental conditions are unfavourable there, **D)** To exemplify the ways different species have evolved to avoid the harmful effects of global warming) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+

@@ -1,0 +1,1284 @@
+### Question 1 [Vocabulary | Medium] [—]
+
+By 1997, the phenomenon of Internet-based electronic commerce was fully launched, with wide ranging ......... for businesses, consumers, and society, which made the idea of commerce over the Internet both feasible and attractive.
+A) objections
+B) implications
+C) accusations
+D) constraints
+E) suspicions
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 1
+Rationale: Cümle Türkçe çevirisi: '1997 yılına gelindiğinde, İnternet tabanlı elektronik ticaret olgusu, işletmeler, tüketiciler ve toplum için geniş kapsamlı doğurguları/sonuçlarıyla tam anlamıyla başlatılmış ve bu da İnternet üzerinden ticaret fikrini hem uygulanabilir hem de cazip hale getirmiştir.'
+'Implications for...' kalıbı 'bir şey üzerindeki etkileri/doğurguları' anlamına gelir. Doğru cevap **B) implications** (doğurgular, olası etkiler) seçeneğidir.
+Çeldiriciler: **A) objections** (itirazlar), **C) accusations** (suçlamalar), **D) constraints** (kısıtlamalar), **E) suspicions** (şüpheler) bağlama uymamaktadır.
+
+
+### Question 2 [Vocabulary | Medium] [—]
+
+Aestivation is the scientiﬁc name for the practice of summer hibernation, which refers to the period when animals lower their heart rate and metabolism for the ......... of their energy as a survival strategy in countries with extreme heat.
+A) deterioration
+B) conservation
+C) removal
+D) interruption
+E) inspection
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 2
+Rationale: Cümle Türkçe çevirisi: 'Estivasyon, aşırı sıcakların yaşandığı ülkelerde hayvanların bir hayatta kalma stratejisi olarak enerjilerini korumak amacıyla kalp atış hızlarını ve metabolizmalarını düşürdükleri dönemi ifade eden yaz uykusunun bilimsel adıdır.'
+'Conservation of energy' (enerjinin korunumu/korunması) kalıbı biyolojik bağlamla örtüşür. Doğru cevap **B) conservation** (koruma, muhafaza) şıkkıdır.
+Çeldiriciler: **A) deterioration** (kötüleşme), **C) removal** (kaldırma), **D) interruption** (kesinti), **E) inspection** (denetim) anlamca olumsuzdur.
+
+
+### Question 3 [Vocabulary | Medium] [—]
+
+In palaeontological climate studies, better instruments have brought an ......... level of precision to analyses, allowing researchers to zoom in on ever narrower timescales to understand climatic eﬀects on human populations.
+A) indistinguishable
+B) inconsistent
+C) unprecedented
+D) irreversible
+E) unacceptable
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 3
+Rationale: Cümle Türkçe çevirisi: 'Paleontolojik iklim çalışmalarında daha iyi aletler, Dünya'nın tarihsel iklim kayıtlarını anlamaya benzeri görülmemiş düzeyde bir hassasiyet kazandırmıştır.'
+'Unprecedented level of precision' (benzeri görülmemiş hassasiyet düzeyi) tamlaması bilimin gelişimini vurgular. Doğru cevap **C) unprecedented** (benzeri görülmemiş, emsalsiz) seçeneğidir.
+Çeldiriciler: **A) irrecoverable** (geri döndürülemez), **B) unambiguous** (belirgin/açık), **D) inconsistent** (tutarsız), **E) identical** (birebir aynı).
+
+
+### Question 4 [Vocabulary | Medium] [—]
+
+It is only with the rise of modern astronomy and space technology that scientists have been able to ......... investigate the chemical evolution of the universe.
+A) inherently
+B) properly
+C) temporarily
+D) inevitably
+E) obscurely
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 4
+Rationale: Cümle Türkçe çevirisi: 'Avustralya'da yaşayan yerli memeli türlerinin sayısı son 200 yılda önemli ölçüde düşmüştür ve bu durum kıtanın genel biyoçeşitliliği için ciddi bir tehdit oluşturmaktadır.'
+'Significantly' zarfı tükenme miktarının büyüklüğünü belirtir. Doğru cevap **B) significantly** (önemli ölçüde, ciddi biçimde) şıkkıdır.
+
+
+### Question 5 [Vocabulary | Medium] [—]
+
+Although no algorithm is inﬁnitely complex, there are some that would require millions of years to be ......... by a human being but can be done within a few seconds by computers.
+A) executed
+B) postponed
+C) defended
+D) dispersed
+E) hindered
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 5
+Rationale: Cümle Türkçe çevirisi: 'Kuantum bilgisayarlar, klasik bilgisayarların çözmesi binlerce yıl sürecek karmaşık problemleri saniyeler içinde çözme potansiyeline sahiptir.'
+'Potential to solve' (çözme potansiyeli) yapısı kuantum teknolojisinin vaadini ifade eder. Doğru cevap **A) potential** (potansiyel, imkan) seçeneğidir.
+
+
+### Question 6 [Vocabulary | Medium] [—]
+
+New research shows that animals use various communication strategies; for example, dogs and birds take turns when they communicate, and chimpanzees ......... a form of reciprocal conversation.
+A) give up
+B) break oﬀ
+C) engage in
+D) prevail over
+E) turn down
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 6
+Rationale: Cümle Türkçe çevirisi: 'Güneş panellerinin verimliliği, kullanılan malzemenin ışığı emme ve elektriğe dönüştürme kapasitesine bağlı olarak doğrudan değişir.'
+'Convert into' fiili 'bir şeyi başka bir şeye dönüştürmek' demektir. Doğru cevap **C) convert** (dönüştürmek) şıkkıdır.
+
+
+### Question 7 [Grammar & Tenses | Medium] [—]
+
+By the early 18th century, the developmental patterns of many organisms .........; however, there was still much disagreement about how the early stages ..........
+A) have been observed / were progressing
+B) must have been observed / would progress
+C) had been observed / progressed
+D) would have been observed / used to progress
+E) could have been observed / should progress
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 7
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **C) had been observed / progressed** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **C) had been observed / progressed** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** have been observed / were progressing, **B)** must have been observed / would progress, **D)** would have been observed / used to progress, **E)** could have been observed / should progress) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 8 [Grammar & Tenses | Medium] [—]
+
+Although researchers ......... access to an unexplored area of the Paciﬁc Ocean after an advanced US submersible named Nereus ......... 10 kilometres underwater during a deep-sea expedition, they remain positive about the future of deep-sea explorations.
+A) are losing / had disintegrated
+B) would lose / could disintegrate
+C) will lose / may have disintegrated
+D) had lost / would have disintegrated
+E) have lost / disintegrated
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 8
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **E) have lost / disintegrated** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **E) have lost / disintegrated** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** are losing / had disintegrated, **B)** would lose / could disintegrate, **C)** will lose / may have disintegrated, **D)** had lost / would have disintegrated) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 9 [Grammar & Tenses | Medium] [—]
+
+Today, the Sun is ......... constant surveillance from space because the more we understand the Sun, the better we are able to predict when a potentially dangerous solar storm will be directed ......... the Earth.
+A) against / within
+B) at / around
+C) under / towards
+D) about / onto
+E) for / behind
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 9
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **C) under / towards** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **C) under / towards** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** against / within, **B)** at / around, **D)** about / onto, **E)** for / behind) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 10 [Grammar & Tenses | Medium] [—]
+
+Most animals are born with a ﬁxed set of sounds ......... communication, and a few, such as songbirds, can imitate other sounds they hear ......... them.
+A) with / on
+B) into / over
+C) along / upon
+D) for / around
+E) about / through
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 10
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **D) for / around** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **D) for / around** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** with / on, **B)** into / over, **C)** along / upon, **E)** about / through) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 11 [Grammar & Tenses | Medium] [—]
+
+Enzymes can catalyse a broad range of chemical transformations ......... remarkable selectivity and speciﬁcity, and most enzymes are very eﬃcient and operate ......... mild conditions.
+A) with / in
+B) across / towards
+C) from / on
+D) about / over
+E) beyond / above
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 11
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **A) with / in** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **A) with / in** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**B)** across / towards, **C)** from / on, **D)** about / over, **E)** beyond / above) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 12 [Grammar & Tenses | Medium] [—]
+
+Crop rotation is switching plant species within an environment ......... a resident insect population which is adapted to one of the crops cannot survive when a new one is planted into the ﬁeld.
+A) so that
+B) just as
+C) although
+D) before
+E) whether
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 12
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **A) so that** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **A) so that** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**B)** just as, **C)** although, **D)** before, **E)** whether) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 13 [Grammar & Tenses | Medium] [—]
+
+Air conditioning is commonly thought of as a method of cooling interiors; ........., it also treats the factors of temperature, humidity, purity, and movement of air.
+A) as a result
+B) conversely
+C) however
+D) otherwise
+E) for example
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 13
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **C) however** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **C) however** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** as a result, **B)** conversely, **D)** otherwise, **E)** for example) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 14 [Grammar & Tenses | Medium] [—]
+
+In 1869, the Russian chemist Dmitri Mendeleev proposed arranging the elements in groups according to their shared properties in a periodic table; ........., he changed a highly speculative branch of chemistry into a true, logical science.
+A) otherwise
+B) instead
+C) as a result
+D) still
+E) in contrast
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 14
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **C) as a result** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **C) as a result** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** otherwise, **B)** instead, **D)** still, **E)** in contrast) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 15 [Grammar & Tenses | Medium] [—]
+
+......... puﬀer ﬁshes have an impressive arsenal of defensive tactics, they may be threatened as a result of overﬁshing for resale to meet the demands of the tourist industry.
+A) As
+B) If
+C) After
+D) Even though
+E) When
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 15
+Rationale: Bu gramer / edat / zaman sorusunda doğru cevap **D) Even though** seçeneğidir.
+Cümlede yer alan zaman göstergeleri (time clauses/signals), etken/edilgen yapı veya edat (preposition) kullanımı kuralları dikkate alındığında **D) Even though** yapısı cümleye dilbilgisel ve anlamsal tam uyum sağlamaktadır.
+Diğer seçenekler (**A)** As, **B)** If, **C)** After, **E)** When) zaman uyumsuzluğu (tense mismatch) ya da yanlış edat eşleşmesi nedeniyle elenmektedir.
+
+
+### Question 16 [Cloze Test | Medium] [—]
+
+......... smartphone applications that identify plants from photographs can be as very little as 4 per cent accurate, they can put people searching for food at risk and also lead to endangered plants being mislabelled.
+A) Because
+B) While
+C) Until
+D) As if
+E) As soon as
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 16
+Rationale: Paragraftaki 16. boşluk için doğru yanıt **A) Because** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) Because** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** While, **C)** Until, **D)** As if, **E)** As soon as) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 17 [Cloze Test | Medium] [—]
+
+......... smartphone applications that identify plants from photographs can be as very little as 4 per cent accurate, they can put people searching for food at risk and also lead to endangered plants being mislabelled.
+
+Soru 17: Scientists have developed computer systems that use artiﬁcial intelligence to better analyse the images of seaﬂoor ......... algorithms to improve search and navigation of a target area.
+A) as well as
+B) regardless of
+C) in case of
+D) despite
+E) unlike
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 17
+Rationale: Paragraftaki 17. boşluk için doğru yanıt **A) as well as** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) as well as** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** regardless of, **C)** in case of, **D)** despite, **E)** unlike) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 18 [Cloze Test | Medium] [—]
+
+......... smartphone applications that identify plants from photographs can be as very little as 4 per cent accurate, they can put people searching for food at risk and also lead to endangered plants being mislabelled.
+
+Soru 18: ......... the modern inﬂuence of human activities on atmospheric chemistry, the naturally occurring greenhouse gases had fairly stable atmospheric concentrations.
+A) For the purpose of
+B) Prior to
+C) In relation to
+D) Instead of
+E) Thanks to
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 18
+Rationale: Paragraftaki 18. boşluk için doğru yanıt **B) Prior to** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) Prior to** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** For the purpose of, **C)** In relation to, **D)** Instead of, **E)** Thanks to) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 19 [Cloze Test | Medium] [—]
+
+......... smartphone applications that identify plants from photographs can be as very little as 4 per cent accurate, they can put people searching for food at risk and also lead to endangered plants being mislabelled.
+
+Soru 19: Being a proliﬁc scientist, Albert Einstein ......... published his special theory of relativity ......... two other theories that became part of the fundamental understanding of matter in the universe in 1905.
+A) whether / or
+B) so / that
+C) not only / but also
+D) the more / the more
+E) either / or
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 19
+Rationale: Paragraftaki 19. boşluk için doğru yanıt **C) not only / but also** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) not only / but also** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** whether / or, **B)** so / that, **D)** the more / the more, **E)** either / or) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 20 [Cloze Test | Medium] [—]
+
+......... smartphone applications that identify plants from photographs can be as very little as 4 per cent accurate, they can put people searching for food at risk and also lead to endangered plants being mislabelled.
+
+Soru 20: A research team at Stanford University analysed the spread of viral pathogens in 5,380 agricultural plant populations by using data from previous studies that focused on plant populations ......... some diseases are typically present.
+A) where
+B) which
+C) what
+D) how
+E) why Researchers wonder about people's attitude towards renewable energy sources and how to approach it. A common approach in attitude studies is to use the sociodemographic characteristics of the respondents to explain variation (21) ......... the attitude towards wind power, such as gender, education, income, and age. The attitude relations of the ﬁrst three sociodemographic variables (22) ......... diﬀerent directions. For example, most educated individuals promote the use of wind power by considering its ecological beneﬁts, while those who are less knowledgeable remain indiﬀerent to the issue. (23) ........., the eﬀect of age on the acceptance of wind power seems to be more consistent. (24) ......... a few surveys that reveal negative attitudes adopted by the youth, the main headline seems to be that younger people are more positive towards wind power when compared to older people. The relevance of this apparent age eﬀect (25) ......... in a broader perspective with future research.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 20
+Rationale: Paragraftaki 20. boşluk için doğru yanıt **A) where** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) where** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** which, **C)** what, **D)** how, **E)** why Researchers wonder about people's attitude towards renewable energy sources and how to approach it. A common approach in attitude studies is to use the sociodemographic characteristics of the respondents to explain variation (21) ......... the attitude towards wind power, such as gender, education, income, and age. The attitude relations of the ﬁrst three sociodemographic variables (22) ......... diﬀerent directions. For example, most educated individuals promote the use of wind power by considering its ecological beneﬁts, while those who are less knowledgeable remain indiﬀerent to the issue. (23) ........., the eﬀect of age on the acceptance of wind power seems to be more consistent. (24) ......... a few surveys that reveal negative attitudes adopted by the youth, the main headline seems to be that younger people are more positive towards wind power when compared to older people. The relevance of this apparent age eﬀect (25) ......... in a broader perspective with future research.) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 21 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 21. boşluğa uygun düşen sözcüğü bulunuz.
+A) on
+B) from
+C) to
+D) at
+E) in
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 21
+Rationale: Paragraftaki 21. boşluk için doğru yanıt **E) in** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **E) in** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** on, **B)** from, **C)** to, **D)** at) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 22 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 22. boşluğa uygun düşen sözcüğü bulunuz.
+A) release
+B) suspend
+C) precede
+D) indicate
+E) accumulate
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 22
+Rationale: Paragraftaki 22. boşluk için doğru yanıt **D) indicate** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **D) indicate** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** release, **B)** suspend, **C)** precede, **E)** accumulate) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 23 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 23. boşluğa uygun düşen sözcüğü bulunuz.
+A) Likewise
+B) Accordingly
+C) Yet
+D) For instance
+E) In other words
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 23
+Rationale: Paragraftaki 23. boşluk için doğru yanıt **C) Yet** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **C) Yet** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** Likewise, **B)** Accordingly, **D)** For instance, **E)** In other words) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 24 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 24. boşluğa uygun düşen sözcüğü bulunuz.
+A) With the goal of
+B) Except for
+C) In terms of
+D) Due to
+E) By means of
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 24
+Rationale: Paragraftaki 24. boşluk için doğru yanıt **B) Except for** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) Except for** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** With the goal of, **C)** In terms of, **D)** Due to, **E)** By means of) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 25 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 25. boşluğa uygun düşen sözcüğü bulunuz.
+A) can be seen
+B) has been seen
+C) may have been seen
+D) was seen
+E) had been seen
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 25
+Rationale: Paragraftaki 25. boşluk için doğru yanıt **A) can be seen** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) can be seen** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** has been seen, **C)** may have been seen, **D)** was seen, **E)** had been seen) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 26 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 26. boşluğa uygun düşen sözcüğü bulunuz.
+A) controversy
+B) abundance
+C) precaution
+D) obligation
+E) severity
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 26
+Rationale: Paragraftaki 26. boşluk için doğru yanıt **B) abundance** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) abundance** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** controversy, **C)** precaution, **D)** obligation, **E)** severity) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 27 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 27. boşluğa uygun düşen sözcüğü bulunuz.
+A) have revealed
+B) will reveal
+C) were revealing
+D) had revealed
+E) would have revealed
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 27
+Rationale: Paragraftaki 27. boşluk için doğru yanıt **A) have revealed** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) have revealed** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** will reveal, **C)** were revealing, **D)** had revealed, **E)** would have revealed) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 28 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 28. boşluğa uygun düşen sözcüğü bulunuz.
+A) Along with
+B) As opposed to
+C) Despite
+D) Regarding
+E) Thanks to
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 28
+Rationale: Paragraftaki 28. boşluk için doğru yanıt **A) Along with** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **A) Along with** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**B)** As opposed to, **C)** Despite, **D)** Regarding, **E)** Thanks to) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 29 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 29. boşluğa uygun düşen sözcüğü bulunuz.
+A) On the contrary
+B) Instead
+C) Otherwise
+D) Furthermore
+E) Firstly
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 29
+Rationale: Paragraftaki 29. boşluk için doğru yanıt **D) Furthermore** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **D) Furthermore** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** On the contrary, **B)** Instead, **C)** Otherwise, **E)** Firstly) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 30 [Cloze Test | Medium] [—]
+
+Aşağıdaki parçada 30. boşluğa uygun düşen sözcüğü bulunuz.
+A) among
+B) for
+C) against
+D) beyond
+E) within
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 30
+Rationale: Paragraftaki 30. boşluk için doğru yanıt **B) for** seçeneğidir.
+Paragrafın genel akışı, cümleler arası bağlaç ilişkisi ve dilbilgisel kurgusu incelendiğinde boşluğu en mantıklı ve doğru biçimde **B) for** seçeneği tamamlamaktadır.
+Çeldirici şıklar (**A)** among, **C)** against, **D)** beyond, **E)** within) metindeki anlam akışını kesintiye uğratmakta veya zıt bir anlam yaratmaktadır.
+
+
+### Question 31 [Sentence Completion | Medium] [—]
+
+......... because the amount of light it spreads across the sky is detrimental to viewing faint little celestial bodies through telescopes.
+A) The light that is reﬂected by the Earth and illuminates the Moon is known as earthshine
+B) The Moon is an impressive object that is not always welcomed by astronomers
+C) Earthshine is not visible in the sky unless the Moon is at its waxing Moon phase
+D) In terms of reﬂecting the light, the Moon is not as reﬂective as the Earth
+E) Astronomers refer to the early phases between new Moon and full Moon as waxing phases
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 31
+Rationale: Cümle tamamlama sorusunda doğru yanıt **B) The Moon is an impressive object that is not always welcomed by astronomers** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **B) The Moon is an impressive object that is not always welcomed by astronomers** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** The light that is reﬂected by the Earth and illuminates the Moon is known as earthshine, **C)** Earthshine is not visible in the sky unless the Moon is at its waxing Moon phase, **D)** In terms of reﬂecting the light, the Moon is not as reﬂective as the Earth, **E)** Astronomers refer to the early phases between new Moon and full Moon as waxing phases) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 32 [Sentence Completion | Medium] [—]
+
+While greenhouses were developed in northern regions as a means of protecting crops against cold temperatures, .........
+A) they are also used in arid regions with the aim of preventing excessive solar radiation exposure
+B) they can meet the increasing consumer demand for high- quality food products
+C) in countries where greenhouse production is an important industry, universities are generally involved in research on crop production
+D) the largest growth of the greenhouse industry occurred throughout the world following World War II
+E) low-tech greenhouses are suﬃcient for winter production in the mild winter climates
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 32
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) they are also used in arid regions with the aim of preventing excessive solar radiation exposure** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) they are also used in arid regions with the aim of preventing excessive solar radiation exposure** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** they can meet the increasing consumer demand for high- quality food products, **C)** in countries where greenhouse production is an important industry, universities are generally involved in research on crop production, **D)** the largest growth of the greenhouse industry occurred throughout the world following World War II, **E)** low-tech greenhouses are suﬃcient for winter production in the mild winter climates) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 33 [Sentence Completion | Medium] [—]
+
+Even though the Canadian Arctic is a freezing desert with little moisture, .........
+A) animals adapted to the region generally migrate north in spring and head south in winter
+B) the forest north of the 60th parallel of latitude yields to frozen tundra and rock
+C) the icy ground is known as permafrost and oﬀers little to no vegetation
+D) wildlife ﬂourishes in the brief summer when the top layer of ice melts
+E) the tundra is mostly bare and frozen year-round a few inches below the surface
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 33
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) wildlife ﬂourishes in the brief summer when the top layer of ice melts** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) wildlife ﬂourishes in the brief summer when the top layer of ice melts** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** animals adapted to the region generally migrate north in spring and head south in winter, **B)** the forest north of the 60th parallel of latitude yields to frozen tundra and rock, **C)** the icy ground is known as permafrost and oﬀers little to no vegetation, **E)** the tundra is mostly bare and frozen year-round a few inches below the surface) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 34 [Sentence Completion | Medium] [—]
+
+Given that reliable and extensive climate data has only been collected randomly and partially for little more than 100 years, .........
+A) predicting future climates is vital for maintaining the existence of certain species
+B) climatologists have to rely on proxy data such as lake levels and soil type when interpreting past climates
+C) timed predictions of climatic developments can be made on a daily or monthly basis
+D) researchers have reported river freezings, crop failures, and years without summers
+E) there has been a steady increase in the extreme weather events recently due to global warming
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 34
+Rationale: Cümle tamamlama sorusunda doğru yanıt **B) climatologists have to rely on proxy data such as lake levels and soil type when interpreting past climates** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **B) climatologists have to rely on proxy data such as lake levels and soil type when interpreting past climates** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** predicting future climates is vital for maintaining the existence of certain species, **C)** timed predictions of climatic developments can be made on a daily or monthly basis, **D)** researchers have reported river freezings, crop failures, and years without summers, **E)** there has been a steady increase in the extreme weather events recently due to global warming) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 35 [Sentence Completion | Medium] [—]
+
+......... as new farming practices reduced the number of workers needed to produce food for the growing population.
+A) The mid-1700s saw a shift from an agricultural society to an industrial society
+B) Prior to the 18th century, agricultural practices were as they had been since the Middle Ages
+C) Great Britain was once an agricultural society in which farmers worked long hours using simple tools
+D) The agricultural sciences ﬂourished in the Western world during the 19th century
+E) Mechanisation of agriculture made food production very eﬃcient in developed nations
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 35
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) The mid-1700s saw a shift from an agricultural society to an industrial society** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) The mid-1700s saw a shift from an agricultural society to an industrial society** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** Prior to the 18th century, agricultural practices were as they had been since the Middle Ages, **C)** Great Britain was once an agricultural society in which farmers worked long hours using simple tools, **D)** The agricultural sciences ﬂourished in the Western world during the 19th century, **E)** Mechanisation of agriculture made food production very eﬃcient in developed nations) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 36 [Sentence Completion | Medium] [—]
+
+New technologies are often equated with signiﬁcant progress .........
+A) given that they may also have negative social side eﬀects and may cause a shift of power from one group to another
+B) although they are indispensable in making our daily lives much easier and ensuring a better future
+C) while they help us to eradicate diseases and communicate with our friends around the world
+D) before every individual focuses on how they will use these technologies at home, in public places, and at work
+E) because they can help us to do things that were not previously possible and solve problems that have plagued humanity for centuries
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 36
+Rationale: Cümle tamamlama sorusunda doğru yanıt **E) because they can help us to do things that were not previously possible and solve problems that have plagued humanity for centuries** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **E) because they can help us to do things that were not previously possible and solve problems that have plagued humanity for centuries** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** given that they may also have negative social side eﬀects and may cause a shift of power from one group to another, **B)** although they are indispensable in making our daily lives much easier and ensuring a better future, **C)** while they help us to eradicate diseases and communicate with our friends around the world, **D)** before every individual focuses on how they will use these technologies at home, in public places, and at work) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 37 [Sentence Completion | Medium] [—]
+
+Fire might be used to control weed development, which can lead to destruction of vegetation and recovery of clean land for cultivation; .........
+A) therefore, weeds can interfere with fruit crop cultivation and production, nutritional elements, light, and air that are available in reduced quantities
+B) for example, weeds can cause indirect damage by creating microclimate conditions that can favour the growth of microorganisms
+C) however, only a reduced percentage of weed seeds is killed that way and weeds can consistently develop during the following cultivation cycle
+D) conversely, in cool climate zones, weed vegetative growth is greatly reduced during extreme seasons
+E) actually, weeds can produce chemical compounds that can exert allelopathy, resulting in tree growth limitation
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 37
+Rationale: Cümle tamamlama sorusunda doğru yanıt **C) however, only a reduced percentage of weed seeds is killed that way and weeds can consistently develop during the following cultivation cycle** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **C) however, only a reduced percentage of weed seeds is killed that way and weeds can consistently develop during the following cultivation cycle** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** therefore, weeds can interfere with fruit crop cultivation and production, nutritional elements, light, and air that are available in reduced quantities, **B)** for example, weeds can cause indirect damage by creating microclimate conditions that can favour the growth of microorganisms, **D)** conversely, in cool climate zones, weed vegetative growth is greatly reduced during extreme seasons, **E)** actually, weeds can produce chemical compounds that can exert allelopathy, resulting in tree growth limitation) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 38 [Sentence Completion | Medium] [—]
+
+The fact that cloned organisms are prone to numerous health problems and tend to die prematurely puzzles genetic engineers .........
+A) because natural clones such as identical twins do not experience these challenges
+B) just as genomic clones are the same regardless of the cell type used to prepare them
+C) provided that manipulated cloning is primarily a research method at present
+D) so that scientists can use cloning for therapeutic applications in creating recombinant DNA products
+E) whereas the cloning of entire organisms, such as Dolly the sheep, is extraordinarily diﬃcult
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 38
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) because natural clones such as identical twins do not experience these challenges** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) because natural clones such as identical twins do not experience these challenges** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** just as genomic clones are the same regardless of the cell type used to prepare them, **C)** provided that manipulated cloning is primarily a research method at present, **D)** so that scientists can use cloning for therapeutic applications in creating recombinant DNA products, **E)** whereas the cloning of entire organisms, such as Dolly the sheep, is extraordinarily diﬃcult) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 39 [Sentence Completion | Medium] [—]
+
+........., agriculture and domestication of animals freed humans to develop a wide range of impressive technologies.
+A) Just as hunting enhanced hand skills and major cognitive developments
+B) Even if hunter-gatherer communities could not support high population densities due to the unpredictability of food resources
+C) Since techniques used by hunter-gatherers to increase food supplies included the use of ﬁre to stimulate new growth
+D) Given that Arctic peoples, who are well adapted to metabolising foods high in animal fat, relied primarily on hunting
+E) Although knives were used for hunting and personal protection from the earliest times until well into the Middle Ages
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 39
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) Just as hunting enhanced hand skills and major cognitive developments** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) Just as hunting enhanced hand skills and major cognitive developments** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** Even if hunter-gatherer communities could not support high population densities due to the unpredictability of food resources, **C)** Since techniques used by hunter-gatherers to increase food supplies included the use of ﬁre to stimulate new growth, **D)** Given that Arctic peoples, who are well adapted to metabolising foods high in animal fat, relied primarily on hunting, **E)** Although knives were used for hunting and personal protection from the earliest times until well into the Middle Ages) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 40 [Sentence Completion | Medium] [—]
+
+Dry climatic conditions provided a suitable niche for the establishment of Neolithic settlements .........
+A) because they could not cultivate the land when precipitation ceased for a long time
+B) given that people living in this climate had developed a nomadic lifestyle where grazing was the only economic activity
+C) although dry climates had unique qualities that have intrigued travellers and investigators alike
+D) as debilitating waterborne diseases such as malaria, which inﬂict the more humid areas, were less common in arid zones
+E) since these climates posed a potential danger for those travelling there due to extreme weather elements
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 40
+Rationale: Cümle tamamlama sorusunda doğru yanıt **D) as debilitating waterborne diseases such as malaria, which inﬂict the more humid areas, were less common in arid zones** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **D) as debilitating waterborne diseases such as malaria, which inﬂict the more humid areas, were less common in arid zones** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** because they could not cultivate the land when precipitation ceased for a long time, **B)** given that people living in this climate had developed a nomadic lifestyle where grazing was the only economic activity, **C)** although dry climates had unique qualities that have intrigued travellers and investigators alike, **E)** since these climates posed a potential danger for those travelling there due to extreme weather elements) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 41 [Sentence Completion | Medium] [—]
+
+.........; therefore, international cooperation is necessary to fully and eﬀectively ﬁght cybercrime.
+A) Cybercrime is unique in that the perpetrator and the victim of such a crime can be anywhere in the world
+B) Countries using cyberattacks against each other raise the question as to whether these activities are truly crimes or acts of war
+C) Old criminal legislation in many instances is still applicable to cyber situations, thus not requiring any additional legislation
+D) One's motivations for committing cybercrime may have an impact on what type of cybercrime that person commits
+E) In a cyber incident, an individual's personal rights can be violated with the revelation of private data
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 41
+Rationale: Cümle tamamlama sorusunda doğru yanıt **A) Cybercrime is unique in that the perpetrator and the victim of such a crime can be anywhere in the world** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **A) Cybercrime is unique in that the perpetrator and the victim of such a crime can be anywhere in the world** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**B)** Countries using cyberattacks against each other raise the question as to whether these activities are truly crimes or acts of war, **C)** Old criminal legislation in many instances is still applicable to cyber situations, thus not requiring any additional legislation, **D)** One's motivations for committing cybercrime may have an impact on what type of cybercrime that person commits, **E)** In a cyber incident, an individual's personal rights can be violated with the revelation of private data) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 42 [Sentence Completion | Medium] [—]
+
+The information technology revolution, which has impacted every facet of business world, society, and life with a speed beyond imagination, can be regarded as the latest revolution in the history of humankind.
+A) Bilgi teknolojisi devrimi; iş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkilemenin yanı sıra insanlık tarihindeki en son devrim olarak da değerlendirilebilir.
+B) İnsanlık tarihindeki en son devrim olarak değerlendirilebilecek bilgi teknolojisi devriminin iş dünyasının, toplumun ve hayatın her yönünü etkilediği hız, hayal gücünün ötesindedir.
+C) İnsanlık tarihinin en son devrimi olarak değerlendirilen bilgi teknolojisi devrimi, hayal gücünün ötesinde bir hızla iş dünyasının, toplumun ve hayatın her yönünde etkili olmuştur.
+D) İnsanlık tarihindeki en son devrim olarak değerlendirilebilen bilgi teknolojisi devrimi, iş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkilemiştir.
+E) İş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkileyen bilgi teknolojisi devrimi, insanlık tarihindeki en son devrim olarak değerlendirilebilir.
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 42
+Rationale: Cümle tamamlama sorusunda doğru yanıt **E) İş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkileyen bilgi teknolojisi devrimi, insanlık tarihindeki en son devrim olarak değerlendirilebilir.** seçeneğidir.
+Ana cümle ile yan cümle arasındaki mantıksal ilişki (zıtlık 'while/although', neden-sonuç 'because/since', koşul 'if/unless', veya zaman) incelendiğinde **E) İş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkileyen bilgi teknolojisi devrimi, insanlık tarihindeki en son devrim olarak değerlendirilebilir.** şıkkı hem dilbilgisel hem de anlamsal açıdan tam bir bütünlük sunmaktadır.
+Diğer şıklar (**A)** Bilgi teknolojisi devrimi; iş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkilemenin yanı sıra insanlık tarihindeki en son devrim olarak da değerlendirilebilir., **B)** İnsanlık tarihindeki en son devrim olarak değerlendirilebilecek bilgi teknolojisi devriminin iş dünyasının, toplumun ve hayatın her yönünü etkilediği hız, hayal gücünün ötesindedir., **C)** İnsanlık tarihinin en son devrimi olarak değerlendirilen bilgi teknolojisi devrimi, hayal gücünün ötesinde bir hızla iş dünyasının, toplumun ve hayatın her yönünde etkili olmuştur., **D)** İnsanlık tarihindeki en son devrim olarak değerlendirilebilen bilgi teknolojisi devrimi, iş dünyasının, toplumun ve hayatın her yönünü hayal gücünün ötesinde bir hızla etkilemiştir.) anlam kayması (semantic shift) veya yanlış bağlaç eşleşmesi sunduğu için elenir.
+
+
+### Question 43 [Reading Comprehension | Hard] [—]
+
+Although the global positioning system, developed at the end of the 20th century was expected to render all previous navigation technologies impractical, some of these technologies are still being used in certain commercial applications.
+A) 20. yüzyılın sonunda küresel konumlandırma sisteminin geliştirilmesinden sonra beklenen şey, önceki tüm navigasyon teknolojilerinin kullanışsız hâle gelmesiyken belirli ticari uygulamalarda håla bu teknolojilerin bazıları kullanılmaktadır.
+B) 20. yüzyılın sonunda geliştirilen küresel konumlandırma sisteminin önceki tüm navigasyon teknolojilerini kullanışsız hâle getirmesi beklendiyse de bu teknolojilerin bazıları belirli ticari uygulamalarda håla kullanılmaktadır.
+C) Küresel konumlandırma sisteminin daha önce geliştirilen tüm navigasyon teknolojilerini 20. yüzyılın sonunda kullanışsız hâle getirmesi beklendiyse de bazı ticari uygulamalar hâla bu teknolojileri kullanmaktadır.
+D) 20. yüzyılın sonunda küresel konumlandırma sistemi geliştirildiğinde önceki tüm navigasyon teknolojilerini kullanışsız hâle getirmesi beklenmişti ancak bazı teknolojiler belirli ticari uygulamalarda hâla kullanılmaktadır.
+E) Daha önceki tüm navigasyon teknolojilerinin, küresel konumlandırma sisteminin geliştirilmesiyle 20. yüzyılın sonunda kullanışsız hâle gelmesi beklenmişti ancak bu teknolojilerin bazıları belirli ticari uygulamalarda hâla kullanılmaktadır.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 43
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) 20. yüzyılın sonunda geliştirilen küresel konumlandırma sisteminin önceki tüm navigasyon teknolojilerini kullanışsız hâle getirmesi beklendiyse de bu teknolojilerin bazıları belirli ticari uygulamalarda håla kullanılmaktadır.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** 20. yüzyılın sonunda küresel konumlandırma sisteminin geliştirilmesinden sonra beklenen şey, önceki tüm navigasyon teknolojilerinin kullanışsız hâle gelmesiyken belirli ticari uygulamalarda håla bu teknolojilerin bazıları kullanılmaktadır., **C)** Küresel konumlandırma sisteminin daha önce geliştirilen tüm navigasyon teknolojilerini 20. yüzyılın sonunda kullanışsız hâle getirmesi beklendiyse de bazı ticari uygulamalar hâla bu teknolojileri kullanmaktadır., **D)** 20. yüzyılın sonunda küresel konumlandırma sistemi geliştirildiğinde önceki tüm navigasyon teknolojilerini kullanışsız hâle getirmesi beklenmişti ancak bazı teknolojiler belirli ticari uygulamalarda hâla kullanılmaktadır., **E)** Daha önceki tüm navigasyon teknolojilerinin, küresel konumlandırma sisteminin geliştirilmesiyle 20. yüzyılın sonunda kullanışsız hâle gelmesi beklenmişti ancak bu teknolojilerin bazıları belirli ticari uygulamalarda hâla kullanılmaktadır.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 44 [Reading Comprehension | Hard] [—]
+
+Even if agricultural plants have access to as much water as they need, their productivity usually depends on their ability to obtain nitrogen in suitable forms.
+A) Tarımsal bitkilerin ihtiyaç duydukları kadar suya erişimi olsa bile verimlilikleri genellikle nitrojeni uygun formlarda alabilmelerine bağlıdır.
+B) İhtiyaç duydukları kadar suya erişimi olan tarımsal bitkilerin verimliliği bile genellikle nitrojeni uygun formlarda alabilmelerine bağlıdır.
+C) Verimlilikleri genellikle nitrojeni uygun formlarda alabilmelerine bağlı olan tarımsal bitkilerin ihtiyaç duydukları kadar suya erişimi vardır.
+D) Genellikle ihtiyaç duydukları kadar suya erişimi olan tarımsal bitkilerin bile verimli olmaları, nitrojeni uygun formlarda alabilmelerine bağlıdır.
+E) Tarımsal bitkilerin verimliliği, nitrojeni uygun formlarda alabilmelerine bağlı olsa da genellikle ihtiyaç duydukları kadar suya erişimi vardır.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 44
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Tarımsal bitkilerin ihtiyaç duydukları kadar suya erişimi olsa bile verimlilikleri genellikle nitrojeni uygun formlarda alabilmelerine bağlıdır.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** İhtiyaç duydukları kadar suya erişimi olan tarımsal bitkilerin verimliliği bile genellikle nitrojeni uygun formlarda alabilmelerine bağlıdır., **C)** Verimlilikleri genellikle nitrojeni uygun formlarda alabilmelerine bağlı olan tarımsal bitkilerin ihtiyaç duydukları kadar suya erişimi vardır., **D)** Genellikle ihtiyaç duydukları kadar suya erişimi olan tarımsal bitkilerin bile verimli olmaları, nitrojeni uygun formlarda alabilmelerine bağlıdır., **E)** Tarımsal bitkilerin verimliliği, nitrojeni uygun formlarda alabilmelerine bağlı olsa da genellikle ihtiyaç duydukları kadar suya erişimi vardır.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 45 [Reading Comprehension | Hard] [—]
+
+The Arctic tern may see more daylight each year than all other creatures because it spends so much time in high latitudes of both hemispheres, where days are long during the summer.
+A) Kuzey sumrusu, yaz boyunca günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçirdiği için her yıl diğer tüm canlılardan daha fazla gün ışığı görebilir.
+B) Yaz boyunca günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçiren Kuzey sumrusu, her yıl diğer tüm canlılara kıyasla daha fazla gün ışığı görebilir.
+C) Kuzey sumrusu, günlerin yaz boyunca uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçirerek her yıl diğer tüm canlılardan daha fazla gün Işığı görür.
+D) Kuzey sumrusunun her yıl diğer tüm canlılardan daha fazla gün ışığı görebilmesinin nedeni, her iki yarım kürenin yüksek enlemlerinde yaz boyunca günlerin uzun olması ve buralarda çok fazla zaman geçirmesidir.
+E) Diğer tüm canlılara kıyasla daha fazla gün ışığı gören Kuzey sumrusu, günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde yaz boyunca çok fazla zaman geçirir.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 45
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Kuzey sumrusu, yaz boyunca günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçirdiği için her yıl diğer tüm canlılardan daha fazla gün ışığı görebilir.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Yaz boyunca günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçiren Kuzey sumrusu, her yıl diğer tüm canlılara kıyasla daha fazla gün ışığı görebilir., **C)** Kuzey sumrusu, günlerin yaz boyunca uzun olduğu her iki yarım kürenin yüksek enlemlerinde çok fazla zaman geçirerek her yıl diğer tüm canlılardan daha fazla gün Işığı görür., **D)** Kuzey sumrusunun her yıl diğer tüm canlılardan daha fazla gün ışığı görebilmesinin nedeni, her iki yarım kürenin yüksek enlemlerinde yaz boyunca günlerin uzun olması ve buralarda çok fazla zaman geçirmesidir., **E)** Diğer tüm canlılara kıyasla daha fazla gün ışığı gören Kuzey sumrusu, günlerin uzun olduğu her iki yarım kürenin yüksek enlemlerinde yaz boyunca çok fazla zaman geçirir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 46 [Reading Comprehension | Hard] [—]
+
+Stem cells in adult humans are found in bone marrow and fat tissues, and they can both divide indeﬁnitely in a laboratory setting and be stimulated into becoming a variety of cell types.
+A) Laboratuvar ortamında sonsuz kez bölünebilen kök hücreler, hem yetişkin insanların kemik iliğinde ve yağ dokularında bulunur hem de çeşitli hücre türlerine dönüştürülmek üzere uyarılabilir.
+B) Yetişkin insanların kemik iliğinde ve yağ dokularında bulunan kök hücreler, laboratuvar ortamında sonsuz kez bölünebilirken çeşitli hücre türlerine dönüştürülmek üzere de uyarılabilirler.
+C) Yetişkin insanlarda kök hücreler kemik iliğinde ve yağ dokularda bulunur ve hem laboratuvar ortamında sonsuz kez bölünebilir hem de çeşitli hücre türlerine dönüştürülmek üzere uyarılabilirler.
+D) Kök hücreler yetişkin insanlarda kemik iliğinde ve yağ dokularda bulunur ve laboratuvar ortamında sonsuz kez bölünebilmelerinin yanı sıra uyarılarak çeşitli hücre türlerine de dönüştürülebilirler.
+E) Kök hücreler yetişkin insanların kemik iliğinde ve yağ dokularında bulunur ve hem laboratuvar ortamında sonsuz kez bölünebilir hem de uyarılarak çeşitli hücre türlerine dönüştürülebilirler.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 46
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Yetişkin insanlarda kök hücreler kemik iliğinde ve yağ dokularda bulunur ve hem laboratuvar ortamında sonsuz kez bölünebilir hem de çeşitli hücre türlerine dönüştürülmek üzere uyarılabilirler.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Laboratuvar ortamında sonsuz kez bölünebilen kök hücreler, hem yetişkin insanların kemik iliğinde ve yağ dokularında bulunur hem de çeşitli hücre türlerine dönüştürülmek üzere uyarılabilir., **B)** Yetişkin insanların kemik iliğinde ve yağ dokularında bulunan kök hücreler, laboratuvar ortamında sonsuz kez bölünebilirken çeşitli hücre türlerine dönüştürülmek üzere de uyarılabilirler., **D)** Kök hücreler yetişkin insanlarda kemik iliğinde ve yağ dokularda bulunur ve laboratuvar ortamında sonsuz kez bölünebilmelerinin yanı sıra uyarılarak çeşitli hücre türlerine de dönüştürülebilirler., **E)** Kök hücreler yetişkin insanların kemik iliğinde ve yağ dokularında bulunur ve hem laboratuvar ortamında sonsuz kez bölünebilir hem de uyarılarak çeşitli hücre türlerine dönüştürülebilirler.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 47 [Reading Comprehension | Hard] [—]
+
+Many industrialised countries have prioritised the development of policies based on sustainable energy sources in order to cope with environmental pollution resulting from the overexploitation of fossil fuels.
+A) Birçok sanayi ülkesi, fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmek için sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermiştir.
+B) Birçok sanayi ülkesinin sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermesinin sebebi, fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmektir.
+C) Fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele eden birçok sanayi ülkesi, sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermiştir.
+D) Fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmek amacıyla birçok sanayi ülkesinde sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik verilmiştir.
+E) Birçok sanayi ülkesi, sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vererek fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmektedir.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 47
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Birçok sanayi ülkesi, fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmek için sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermiştir.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Birçok sanayi ülkesinin sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermesinin sebebi, fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmektir., **C)** Fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele eden birçok sanayi ülkesi, sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vermiştir., **D)** Fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmek amacıyla birçok sanayi ülkesinde sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik verilmiştir., **E)** Birçok sanayi ülkesi, sürdürülebilir enerji kaynaklarına dayalı politikaların geliştirilmesine öncelik vererek fosil yakıtların aşırı kullanımından kaynaklanan çevre kirliliği ile mücadele etmektedir.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 48 [Reading Comprehension | Hard] [—]
+
+Bilim insanlarının atmosferden karbondioksidi emmek için geliştirdiği sıvı çözücülerin çevreyi temizleme konusunda yararlı olduğu kanıtlanmıştır.
+A) Scientists have proved that liquid solvents developed to absorb carbon dioxide from the atmosphere is helpful in cleaning up the environment.
+B) Absorbing carbon dioxide from the atmosphere, liquid solvents developed by scientists have been proved to be helpful in cleaning up the environment.
+C) Liquid solvents that scientists developed to absorb carbon dioxide from the atmosphere have been proved to be helpful in cleaning up the environment.
+D) Scientists developing liquid solvents have proved that absorbing carbon dioxide from the atmosphere is helpful in cleaning up the environment.
+E) Liquid solvents developed by scientists to clean up the environment have been proved to be helpful in absorbing carbon dioxide from the atmosphere.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 48
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) Liquid solvents that scientists developed to absorb carbon dioxide from the atmosphere have been proved to be helpful in cleaning up the environment.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Scientists have proved that liquid solvents developed to absorb carbon dioxide from the atmosphere is helpful in cleaning up the environment., **B)** Absorbing carbon dioxide from the atmosphere, liquid solvents developed by scientists have been proved to be helpful in cleaning up the environment., **D)** Scientists developing liquid solvents have proved that absorbing carbon dioxide from the atmosphere is helpful in cleaning up the environment., **E)** Liquid solvents developed by scientists to clean up the environment have been proved to be helpful in absorbing carbon dioxide from the atmosphere.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 49 [Reading Comprehension | Hard] [—]
+
+Dünya üzerinde iki milyondan fazla canlı türü bulunmaktadır ve her biri hayatta kalmak için farklı adaptasyonlar geliştirdiğinden birbiri ile tamamen aynı hiçbir tür yoktur.
+A) There are more than two million living species on Earth which are not exactly the same with one another because of the diﬀerent adaptations each kind has developed to survive.
+B) There are more than two million living species on Earth, and there is no kind exactly the same with one another as each one has developed diﬀerent adaptations to survive.
+C) Because there are more than two million living species on Earth and each of them has developed diﬀerent adaptations for survival, there is not a single kind exactly the same with one another.
+D) In more than two million living species on Earth, there is no kind exactly the same with one another as each one has developed diﬀerent adaptations for survival.
+E) More than two million living species on Earth have developed diﬀerent adaptations to survive; thus, there is not a single kind exactly the same with one another.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 49
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) There are more than two million living species on Earth, and there is no kind exactly the same with one another as each one has developed diﬀerent adaptations to survive.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** There are more than two million living species on Earth which are not exactly the same with one another because of the diﬀerent adaptations each kind has developed to survive., **C)** Because there are more than two million living species on Earth and each of them has developed diﬀerent adaptations for survival, there is not a single kind exactly the same with one another., **D)** In more than two million living species on Earth, there is no kind exactly the same with one another as each one has developed diﬀerent adaptations for survival., **E)** More than two million living species on Earth have developed diﬀerent adaptations to survive; thus, there is not a single kind exactly the same with one another.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 50 [Reading Comprehension | Hard] [—]
+
+Yapay zekâ teknolojisi bazı çalışanlar için üretkenliği artırmayı vaat eden yeni bir araçken gelişmiş ülkelerdeki çoğu çalışan, mesleklerinin önemini yitirdiğine tanık olabilir.
+A) For some workers, the artiﬁcial intelligence technology is a new tool that is promising for raising productivity, yet most workers in developed countries may witness that their professions have lost their signiﬁcance.
+B) While the artiﬁcial intelligence technology is a new tool that promises to raise productivity for some workers, most workers in developed countries may witness that their professions have lost their signiﬁcance.
+C) Some workers view the artiﬁcial intelligence technology as a new tool that is promising for the enhancement of productivity, but most workers in developed countries may witness that their professions have lost their signiﬁcance.
+D) Although many workers in developed countries may witness that their professions have lost their signiﬁcance due to the artiﬁcial intelligence technology, it is a new tool promising to enhance productivity for some workers.
+E) Whereas the artiﬁcial intelligence technology as a new tool promises to raise productivity for some workers, there could be many workers in developed countries who may witness that their professions have lost their signiﬁcance.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 50
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) While the artiﬁcial intelligence technology is a new tool that promises to raise productivity for some workers, most workers in developed countries may witness that their professions have lost their signiﬁcance.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** For some workers, the artiﬁcial intelligence technology is a new tool that is promising for raising productivity, yet most workers in developed countries may witness that their professions have lost their signiﬁcance., **C)** Some workers view the artiﬁcial intelligence technology as a new tool that is promising for the enhancement of productivity, but most workers in developed countries may witness that their professions have lost their signiﬁcance., **D)** Although many workers in developed countries may witness that their professions have lost their signiﬁcance due to the artiﬁcial intelligence technology, it is a new tool promising to enhance productivity for some workers., **E)** Whereas the artiﬁcial intelligence technology as a new tool promises to raise productivity for some workers, there could be many workers in developed countries who may witness that their professions have lost their signiﬁcance.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 51 [Reading Comprehension | Hard] [—]
+
+Mimarlık genel olarak şehir tasarımı konularını kapsasa da şehir planlaması mühendislik, peyzaj ve yapı işlerinin temel doğası gereği 20. yüzyılda bağımsız bir meslek hâline gelmiştir.
+A) Architecture generally covers the issues of city design; however, the basic nature of engineering, landscape, and construction work made urban planning an independent profession in the 20th century.
+B) Urban planning, which evolved into an independent profession in the 20th century due to the basic nature of engineering, landscape, and construction work, mainly includes the issues of city design as does architecture.
+C) While architecture mainly involves the issues of city design, urban planning emerged as an independent profession in the 20th century in line with the basic nature of engineering, landscape, and construction work.
+D) Although architecture generally includes the issues of city design, urban planning became an independent profession in the 20th century due to the basic nature of engineering, landscape, and construction work.
+E) Even though the issues of city design are generally included in architecture, urban planning was transformed into an independent profession in the 20th century owing to the basic nature of engineering, landscape, and construction work.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 51
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) Although architecture generally includes the issues of city design, urban planning became an independent profession in the 20th century due to the basic nature of engineering, landscape, and construction work.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Architecture generally covers the issues of city design; however, the basic nature of engineering, landscape, and construction work made urban planning an independent profession in the 20th century., **B)** Urban planning, which evolved into an independent profession in the 20th century due to the basic nature of engineering, landscape, and construction work, mainly includes the issues of city design as does architecture., **C)** While architecture mainly involves the issues of city design, urban planning emerged as an independent profession in the 20th century in line with the basic nature of engineering, landscape, and construction work., **E)** Even though the issues of city design are generally included in architecture, urban planning was transformed into an independent profession in the 20th century owing to the basic nature of engineering, landscape, and construction work.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 52 [Reading Comprehension | Hard] [—]
+
+Kimyasal biyoloji alanı, organik maddelerin yalnızca canlı organizmalar tarafından üretilebileceği inancını reddeden Alman kimyager Friedrich Wöhler'in devrim yaratan çalışmalarıyla ortaya çıkmıştır.
+A) The ﬁeld of chemical biology emerged with the German chemist Friedrich Wöhler whose revolutionary works deﬁed the belief that organic substances could only be produced by living organisms.
+B) Thanks to the revolutionary works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms, the ﬁeld of chemical biology emerged.
+C) The emergence of the German chemist Friedrich Wöhler's works that deﬁed the belief that organic substances could only be produced by living organisms revolutionised the ﬁeld of chemical biology.
+D) The ﬁeld of chemical biology was revolutionised with the emergence of the works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms.
+E) The ﬁeld of chemical biology emerged with the revolutionary works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms.
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 52
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) The ﬁeld of chemical biology emerged with the revolutionary works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** The ﬁeld of chemical biology emerged with the German chemist Friedrich Wöhler whose revolutionary works deﬁed the belief that organic substances could only be produced by living organisms., **B)** Thanks to the revolutionary works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms, the ﬁeld of chemical biology emerged., **C)** The emergence of the German chemist Friedrich Wöhler's works that deﬁed the belief that organic substances could only be produced by living organisms revolutionised the ﬁeld of chemical biology., **D)** The ﬁeld of chemical biology was revolutionised with the emergence of the works of the German chemist Friedrich Wöhler, who deﬁed the belief that organic substances could only be produced by living organisms.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 53 [Reading Comprehension | Hard] [—]
+
+Atom saatleri dünyadaki en doğru kronometrelerdir ve zamanı ölçmek için atomlar tarafından daima oldukça kesin bir ışık frekansı şeklinde emilen ve yayılan enerjiyi kullanırlar.
+A) Atomic clocks are the most accurate timekeepers in the world, and they use the energy absorbed and emitted by atoms, which is always in the form of a very precise frequency of light, to measure time.
+B) Atomic clocks, which are the most accurate timekeepers in the world, use the energy absorbed and emitted by atoms to measure time and this energy is always in the form of a very precise frequency of light.
+C) Atomic clocks are the most accurate timekeepers in the world, and while measuring time they use the energy that atoms absorb and emit in the form of a very precise frequency of light.
+D) The energy absorbed and emitted by atoms is always in the form of a very precise frequency of light, and atomic clocks use this energy to measure time as the most accurate timekeepers in the world.
+E) Being the most accurate timekeepers in the world, atomic clocks measure time by using the energy absorbed and emitted by atoms, which is always in the form of a very precise frequency of light.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 53
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Atomic clocks are the most accurate timekeepers in the world, and they use the energy absorbed and emitted by atoms, which is always in the form of a very precise frequency of light, to measure time.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Atomic clocks, which are the most accurate timekeepers in the world, use the energy absorbed and emitted by atoms to measure time and this energy is always in the form of a very precise frequency of light., **C)** Atomic clocks are the most accurate timekeepers in the world, and while measuring time they use the energy that atoms absorb and emit in the form of a very precise frequency of light., **D)** The energy absorbed and emitted by atoms is always in the form of a very precise frequency of light, and atomic clocks use this energy to measure time as the most accurate timekeepers in the world., **E)** Being the most accurate timekeepers in the world, atomic clocks measure time by using the energy absorbed and emitted by atoms, which is always in the form of a very precise frequency of light.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 54 [Reading Comprehension | Hard] [—]
+
+Humans have long relied on nature for building materials - creating simple homes from living or once- living materials such as grass, wood, reeds, bamboo, and animal skins. These homes often followed the aesthetics of the natural landscape. Today, bioarchitects build on this tradition by using sustainable, natural materials. They may also mimic nature's form and function to achieve greater beauty and ecological value, regardless of whether the structure is built with natural materials. ......... The end results take on many forms, including massive apartment complexes, towering oﬃce buildings, grand museums, and humble homes.
+A) This modern approach takes nature-inspired building to new heights by re-purposing discarded materials and even relying on living organisms to supply power.
+B) Earthwork mounds with living plants on the roofs sheltered settlers from wind and temperature extremes, while providing grazing for farm animals.
+C) Bioarchitecture is rooted in the ancient human practice of building dwellings from natural materials, resulting in structures that blend into their surroundings.
+D) To meet housing, energy, and sustainability goals, the methods and materials of bioarchitectural design must become more widely available.
+E) To make a real impact on the quality of our lives and on the environment, bioarchitecture must become aﬀordable so that more people can embrace it.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 54
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) This modern approach takes nature-inspired building to new heights by re-purposing discarded materials and even relying on living organisms to supply power.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Earthwork mounds with living plants on the roofs sheltered settlers from wind and temperature extremes, while providing grazing for farm animals., **C)** Bioarchitecture is rooted in the ancient human practice of building dwellings from natural materials, resulting in structures that blend into their surroundings., **D)** To meet housing, energy, and sustainability goals, the methods and materials of bioarchitectural design must become more widely available., **E)** To make a real impact on the quality of our lives and on the environment, bioarchitecture must become aﬀordable so that more people can embrace it.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 55 [Reading Comprehension | Hard] [—]
+
+Nanobiomedicine refers to the biomedical applications of natural or synthetic nanomaterials, biological nanodevices or nanomachines. This is an emerging scientiﬁc discipline which has great potential for imaging, early diagnosis, and targeted therapy of numerous diseases that are hard to control such as cancer. Nanomaterials may be the most important tools which have greatly improved the advancement of the biomedical areas. The most commonly used nanomaterials for biomedical applications include graphene-based nanoparticles, magnetic nanoparticles, gold nanostructures, etc. ......... To illustrate, small nanoparticles have the ability to transport through biological barriers and, thus, can deliver the drug to the target site.
+A) In hybrid nanoparticles, the sizes of the hybrids signiﬁcantly increase, compared with those of the individual nanoparticles.
+B) There are important parameters for these nanoparticles used in biomedical areas, one of them is having suitable particle size.
+C) In recent years, nanocomposites containing diﬀerent types of nanoparticles have been investigated in detail since they are multifunctional.
+D) The biomedical applications of nanomaterials include reducing drug resistance, targeted drug delivery, and controlled drug release.
+E) The great challenge of nanohybrid materials is that the functions of each nanoparticle may be reduced after being united.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 55
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) There are important parameters for these nanoparticles used in biomedical areas, one of them is having suitable particle size.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** In hybrid nanoparticles, the sizes of the hybrids signiﬁcantly increase, compared with those of the individual nanoparticles., **C)** In recent years, nanocomposites containing diﬀerent types of nanoparticles have been investigated in detail since they are multifunctional., **D)** The biomedical applications of nanomaterials include reducing drug resistance, targeted drug delivery, and controlled drug release., **E)** The great challenge of nanohybrid materials is that the functions of each nanoparticle may be reduced after being united.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 56 [Reading Comprehension | Hard] [—]
+
+Fungi are a hidden earthly dimension scientists only now learning how to see. ......... For example, where plants have cell walls made of cellulose, fungi have chitin, a type of ﬁbre also found in the exoskeletons of insects. And fungi are heterotrophs, that is, capable of eating other organisms, often breaking down wood and dead plant matter by releasing and reabsorbing enzymes. Without fungi, dead plants and animals would pile up on forest ﬂoors, and most trees would struggle to ﬁnd the nutrients they need to survive.
+A) They thrive in soil and grow edible stalks like plants, but many of their characteristics are distinctly unplantlike.
+B) Our world has become more connected than ever, and fungi have embarked on countless global journeys.
+C) Climate change is allowing these organisms to thrive in ecosystems that were once too cold and dry.
+D) Fungi have evolved to live in speciﬁc environments, sometimes in partnership with just one other species.
+E) Their reproductive traits make fungi uniquely adaptable, with climates and landscapes changing at a record pace.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 56
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) They thrive in soil and grow edible stalks like plants, but many of their characteristics are distinctly unplantlike.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** Our world has become more connected than ever, and fungi have embarked on countless global journeys., **C)** Climate change is allowing these organisms to thrive in ecosystems that were once too cold and dry., **D)** Fungi have evolved to live in speciﬁc environments, sometimes in partnership with just one other species., **E)** Their reproductive traits make fungi uniquely adaptable, with climates and landscapes changing at a record pace.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 57 [Reading Comprehension | Hard] [—]
+
+Most historians consider Galileo Galilei as the ﬁrst scientist of the Scientiﬁc Revolution. ......... The observation that all bodies fall at the same speed in a vacuum is just one of Galileo's ideas that led to the laws of motion and eventually to relativity theory. Galileo also contributed to the study of mathematical inﬁnity. His inﬂuence comes not only through his popular books about the solar system, kinematics, and materials, but also as a result of his inventions.
+A) His greatest fame is for discoveries in astronomy, but his inﬂuence on physics is pervasive.
+B) He was judged for his astronomical discoveries and asked to deny them.
+C) He built his ﬁrst telescope in 1609 and eventually obtained a magniﬁcation of about 30 power.
+D) He was known to repeat experiments and analyses after they were initially conducted by earlier scientists.
+E) His observations on the swinging time of lamps in the Cathedral of Pisa led to the creation of the pendulum- driven clock.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 57
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) His greatest fame is for discoveries in astronomy, but his inﬂuence on physics is pervasive.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** He was judged for his astronomical discoveries and asked to deny them., **C)** He built his ﬁrst telescope in 1609 and eventually obtained a magniﬁcation of about 30 power., **D)** He was known to repeat experiments and analyses after they were initially conducted by earlier scientists., **E)** His observations on the swinging time of lamps in the Cathedral of Pisa led to the creation of the pendulum- driven clock.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 58 [Reading Comprehension | Hard] [—]
+
+Our planet spins like a toy that turns round and round when its handle is moved up and down, during its long journey around the Sun. Rather than revolving about a vertical axis, however, the Earth has always been spinning about an axis that is tilted at 23.44°. The amount of tilt is never constant, and displays natural short-term and long- term cycles. ......... And this is happening right now, on an extraordinary scale, due to us. As global heating drives the melting of the polar ice sheets, it causes enormous volumes of water to ﬂow into the oceans. In a recent paper, scientists have revealed that this redistribution of mass is very slightly modifying the world's tilt.
+A) In addition to modifying tilt, this movement of mass water has also slowed the planet's rotation.
+B) The Earth's tilt can also be changed by shifting huge amounts of mass around the planet.
+C) Scientists have found that using underground water impacts the Earth's tilt more than melting polar caps.
+D) In itself, polar melting is not suﬃcient to account for all of the tilt change.
+E) A tiny change in the Earth's rotation is not going to have an impact on the climate change.
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 58
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) The Earth's tilt can also be changed by shifting huge amounts of mass around the planet.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** In addition to modifying tilt, this movement of mass water has also slowed the planet's rotation., **C)** Scientists have found that using underground water impacts the Earth's tilt more than melting polar caps., **D)** In itself, polar melting is not suﬃcient to account for all of the tilt change., **E)** A tiny change in the Earth's rotation is not going to have an impact on the climate change.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 59 [Reading Comprehension | Hard] [—]
+
+Although traditional clockwork clocks dominated for several centuries, it is quite likely that people do not have a single one in their home today. This is due to a discovery that was made early in the 20th century concerning a common mineral called 'quartz'. This discovery made it possible to construct timepieces that were at least ten times more accurate than the best traditional clocks. ......... This was because the electronic devices of those days were bulky and unreliable, and it was several decades before a later generation of miniaturised electronics made quartz clocks and watches a viable proposition.
+A) The ﬁrst mechanical clocks, with bells but no hands or dials, appeared in northern Italy and Germany.
+B) Timepieces were gradually reﬁned and improved with greater precision and greater practicality.
+C) A major leap forward in accuracy came in the latter part of the 17th century, with the introduction of pendulum clocks.
+D) The ﬁrst such quartz clock was built in 1927, but it did not create an immediate revolution as expected.
+E) They were the ﬁrst devices to actually bear the name 'clock' deriving from the Latin word clocca, which means 'bell'.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 59
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) The ﬁrst such quartz clock was built in 1927, but it did not create an immediate revolution as expected.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** The ﬁrst mechanical clocks, with bells but no hands or dials, appeared in northern Italy and Germany., **B)** Timepieces were gradually reﬁned and improved with greater precision and greater practicality., **C)** A major leap forward in accuracy came in the latter part of the 17th century, with the introduction of pendulum clocks., **E)** They were the ﬁrst devices to actually bear the name 'clock' deriving from the Latin word clocca, which means 'bell'.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 60 [Reading Comprehension | Hard] [—]
+
+(I) Deﬁning the problem is the ﬁrst and most critical step of problem analysis. (II) To best approach a solution, the problem must be well-understood and the guidelines or design considerations for a project must be clear. (III) In the creation of a new automobile, for example, the engineers must know if they should design for fuel economy or for brute power. (V) Once a general design or technology is selected, the work is sub-divided and various team members assume speciﬁc responsibilities. (V) Many questions like this arise in every engineering project, and they must all be answered at the very beginning if the engineers are to work eﬃciently towards a solution.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 60
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) IV** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I, **B)** II, **C)** III, **E)** V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 61 [Reading Comprehension | Hard] [—]
+
+(I) Designed to drive across alien terrain, robotic rovers are mobile science labs that hunt out interesting sites and conduct on-the-spot investigations. (II) With their own power supply, they are armed with scientiﬁc instruments, including cameras and rock analysis tools. (III) Mars is the only planet that robotic rovers have explored, with four rovers having successfully visited it. (IV) Ground controllers back on Earth decide where the rovers should go and what they should do. (V) Because of the extended distance between the two, the directions take a few minutes to get through, and the collected data is relayed directly to Earth.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 61
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) III** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I, **B)** II, **D)** IV, **E)** V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 62 [Reading Comprehension | Hard] [—]
+
+(I) The ﬁrst scientiﬁc society founded in the capital of Prussia was the Royal Society of Sciences in 1700 by Gottfried Wilhelm Leibniz under the patronage of the elector of Brandenburg, Frederick III. (II) The society was hampered by what was to become a permanent problem in 18th-century Berlin science: conﬂict between its French and German members. (III) Frederick hoped to make Prussia a centre of learning, an impulse that also led to the founding of the University of Halle and Prussia's shift to the Gregorian calendar. (IV) The society received a monopoly on the production, importation, and sale of almanacs and calendars in Prussia. (V) It was the ﬁrst scientiﬁc society to be funded this way, setting an inﬂuential precedent.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 62
+Rationale: Okuma parçası analizi sorusunda doğru cevap **B) II** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** I, **C)** III, **D)** IV, **E)** V) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 63 [Irrelevant Sentence | Medium] [—]
+
+(I) For most of us, time is experienced as a linear sequence of events that ﬂow from the present into the past, while possible futures are laid out before us. (II) However, some cultures in diﬀerent parts of the world ﬁnd a cyclical view of time more useful. (III) For instance, nature watchers tend to be more attuned to circular time, where life and its rhythms are shaped by the ﬂow of cycles and seasons. (IV) This apparent circular ﬂow is what gives organisms a chance to return, reappraise and build on experience in order to pass adaptive traits along a spiral of life. (V) While some of the greatest minds have contemplated the concept of time for over a century, their theories do not always match up to our everyday experience of time.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 63
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **E) V** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 64 [Irrelevant Sentence | Medium] [—]
+
+(I) The genome of an organism consists of thousands of genes, and this entire genome must be replicated as new cells are produced. (II) However, this process is not perfect, and a few errors, known as mutations, are likely to occur each time the genome is replicated. (III) How cells control gene expression in ways that enable a complex organism to develop and function is a major focus of current biological research. (IV) They occur spontaneously; they can also be induced by outside. factors, including chemicals and radiation. (V) Most of them are either harmful or have no eﬀect, but occasionally a mutation improves the functioning of the organism under the environmental conditions it encounters.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 64
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **C) III** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 65 [Irrelevant Sentence | Medium] [—]
+
+(I) The ways in which certain animals and plants interact have evolved in some cases to make them interdependent for nutrition, respiration, reproduction, or other aspects of survival. (II) However, ecology represents the organised body of knowledge that deals with the interactions between living organisms and their non-living environments. (III) A major example of animal-plant interactions involves the continual processes of photosynthesis and cellular respiration. (IV) In these processes, green plants are classiﬁed as 'ecological producers', having the unique ability, by photosynthesis, to take carbon dioxide and incorporate it into organic molecules. (V) Animals, on the other hand, are classiﬁed as 'consumers', taking the products of photosynthesis and chemically breaking them down at the cellular level to produce energy for life activities.
+A) I
+B) II
+C) III
+D) IV
+E) V
+
+Correct Answer: B
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 65
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **B) II** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 66 [Irrelevant Sentence | Medium] [—]
+
+Which of the following can be said about Tilman?
+A) He has worked on thousands of experiments about energy sources.
+B) He collaborated with the US government to promote switchgrass as an alternative to corn.
+C) He found out an alternative biofuel crop just by coincidence.
+D) He is an ecologist aiming to raise awareness about climate-friendly agriculture.
+E) He failed in developing an ecologically-sound grass species despite 12 years' worth of data.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 66
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **C) He found out an alternative biofuel crop just by coincidence.** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 67 [Irrelevant Sentence | Medium] [—]
+
+What can be understood from the data collected by Tilman and his colleagues?
+A) Mixing diﬀerent native grasses in with switchgrass provides more biomass.
+B) Switchgrass on its own is able to replenish depleted soils.
+C) Plots which were given fertiliser grew far more than those which were not given any.
+D) Mixed grasses were beneﬁcial only when they were ecologically and functionally similar.
+E) Plots including mixed native grasses may have higher levels of carbon footprint.
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 67
+Rationale: Paragrafın anlam bütünlüğünü bozan cümle sorusunda doğru yanıt **A) Mixing diﬀerent native grasses in with switchgrass provides more biomass.** seçeneğidir.
+Paragraftaki ana düşünce dizilimi incelendiğinde bu cümle konunun odak noktasından sapmakta ve düşünce zincirini kırmaktadır.
+Diğer seçenekler birbirini bağlayan ve destekleyen bir mantık silsilesi izlemektedir.
+
+
+### Question 68 [Paragraph Completion | Medium] [—]
+
+Which could be understood from the passage?
+A) For an ecological study to be seen as successful, it needs to deliver unpredictable outcomes.
+B) Ecologists need to irrigate and fertilise the plot they are going to study on as the ﬁrst step.
+C) Researchers should study with vegetation which are mixed as it will be more ﬁnancially feasible.
+D) The study conducted by Tilman and his colleagues yielded unexpected and promising results.
+E) Switchgrass is the most commonly used source of biofuel in the US.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 68
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **D) The study conducted by Tilman and his colleagues yielded unexpected and promising results.** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** For an ecological study to be seen as successful, it needs to deliver unpredictable outcomes., **B)** Ecologists need to irrigate and fertilise the plot they are going to study on as the ﬁrst step., **C)** Researchers should study with vegetation which are mixed as it will be more ﬁnancially feasible., **E)** Switchgrass is the most commonly used source of biofuel in the US.) paragrafın ana temasını desteklememektedir.
+
+
+### Question 69 [Paragraph Completion | Medium] [—]
+
+Which of the following is true of the aircraft tragedy mentioned in the passage?
+A) It was an unfortunate event for the passengers as the US government failed to put enough eﬀort to ﬁnd the wreckage.
+B) It happened because the plane had not been ﬁtted with the basic version of ELT.
+C) It marked a turning point in technology-enhanced search and rescue in aircraft history.
+D) It caused the US Congress to pass a law to overcome the limitations of ELT.
+E) It involved some US statesmen who were working on safety equipment in aircraft.
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 69
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **C) It marked a turning point in technology-enhanced search and rescue in aircraft history.** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** It was an unfortunate event for the passengers as the US government failed to put enough eﬀort to ﬁnd the wreckage., **B)** It happened because the plane had not been ﬁtted with the basic version of ELT., **D)** It caused the US Congress to pass a law to overcome the limitations of ELT., **E)** It involved some US statesmen who were working on safety equipment in aircraft.) paragrafın ana temasını desteklememektedir.
+
+
+### Question 70 [Paragraph Completion | Medium] [—]
+
+According to the passage the device called 'ELT' .........
+A) was missing in the aircraft that got lost in a tragic accident although it was required by law
+B) sometimes failed to work eﬀectively as manual start up was essential to send signals
+C) was intended to send signals from time to time to spot the location of aircraft while in ﬂight
+D) was invented in a period when space technology development became advanced
+E) proved less useful over time as it had more limitations than beneﬁts
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 70
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **E) proved less useful over time as it had more limitations than beneﬁts** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** was missing in the aircraft that got lost in a tragic accident although it was required by law, **B)** sometimes failed to work eﬀectively as manual start up was essential to send signals, **C)** was intended to send signals from time to time to spot the location of aircraft while in ﬂight, **D)** was invented in a period when space technology development became advanced) paragrafın ana temasını desteklememektedir.
+
+
+### Question 71 [Paragraph Completion | Medium] [—]
+
+What is the primary purpose of the author?
+A) To give detailed information about a serious aircraft accident that occurred in 1970
+B) To highlight the contributions of the US congress to the enhancement of aircraft safety
+C) To exemplify the beneﬁts and drawbacks of the Emergency Locator Transmitter
+D) To explain how the satellite-aided search and rescue system came into being
+E) To draw particular attention to the frequency on which the space-based system operates
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 71
+Rationale: Paragraf tamamlama sorusunda boş bırakılan yeri en iyi tamamlayan seçenek **D) To explain how the satellite-aided search and rescue system came into being** şıkkıdır.
+Boşluğun öncesindeki bilgiler ile sonrasındaki çıkarım arasında köprü kuran bu seçenek, metindeki zamir (pronoun) referansları ve anahtar kavramlarla tam uyum sağlar.
+Diğer çeldiriciler (**A)** To give detailed information about a serious aircraft accident that occurred in 1970, **B)** To highlight the contributions of the US congress to the enhancement of aircraft safety, **C)** To exemplify the beneﬁts and drawbacks of the Emergency Locator Transmitter, **E)** To draw particular attention to the frequency on which the space-based system operates) paragrafın ana temasını desteklememektedir.
+
+
+### Question 72 [Reading Comprehension | Hard] [—]
+
+According to the passage, 'Archimedes' discovery exempliﬁes ........
+A) the progress of science at a constant rate over time
+B) the necessity of disciplined hard work to achieve success
+C) the importance of intuition, which is a non-rational process
+D) the critical role of human imagination in science
+E) the major shortcomings of the human mind
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 72
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) the importance of intuition, which is a non-rational process** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** the progress of science at a constant rate over time, **B)** the necessity of disciplined hard work to achieve success, **D)** the critical role of human imagination in science, **E)** the major shortcomings of the human mind) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 73 [Reading Comprehension | Hard] [—]
+
+Which of the following is implied in the passage?
+A) It is completely misleading to say that science does not develop by precise rational steps.
+B) The principle 'anything goes' fails to ﬁt in all the branches of science.
+C) All scientiﬁc work must connect with the previous advances and proceed by adding a novel perspective.
+D) Great discoveries may not always result from just logical thought and gradual progression.
+E) Scientists should share their discoveries with others so that science can advance in a holistic way.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 73
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) Great discoveries may not always result from just logical thought and gradual progression.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** It is completely misleading to say that science does not develop by precise rational steps., **B)** The principle 'anything goes' fails to ﬁt in all the branches of science., **C)** All scientiﬁc work must connect with the previous advances and proceed by adding a novel perspective., **E)** Scientists should share their discoveries with others so that science can advance in a holistic way.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 74 [Reading Comprehension | Hard] [—]
+
+It can be understood from the passage that the principle of 'anything goes' can be associated with .........
+A) the liberation of imagination in science from conventional norms
+B) the inevitability of ﬁxed rules for scientiﬁc developments
+C) the exciting side of scientiﬁc discoveries
+D) the acceptance of linear advancement
+E) the requirement of concrete evidence for new theories
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 74
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) the liberation of imagination in science from conventional norms** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** the inevitability of ﬁxed rules for scientiﬁc developments, **C)** the exciting side of scientiﬁc discoveries, **D)** the acceptance of linear advancement, **E)** the requirement of concrete evidence for new theories) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 75 [Reading Comprehension | Hard] [—]
+
+According to the passage, Anders Celsius .........
+A) suggested changing the measurements he originally oﬀered for boiling and freezing water later in his life
+B) was largely inspired by scientists who received prizes for their major contributions to scholarly discussions
+C) put forward strong arguments to challenge the idea that air pressure can change the boiling point of water
+D) combined his expertise in astronomy, physics, and mathematics to come up with the Centigrade scale
+E) oﬀered some key arguments in a study that has deeply impacted how thermometers operate today
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 75
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) oﬀered some key arguments in a study that has deeply impacted how thermometers operate today** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** suggested changing the measurements he originally oﬀered for boiling and freezing water later in his life, **B)** was largely inspired by scientists who received prizes for their major contributions to scholarly discussions, **C)** put forward strong arguments to challenge the idea that air pressure can change the boiling point of water, **D)** combined his expertise in astronomy, physics, and mathematics to come up with the Centigrade scale) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 76 [Reading Comprehension | Hard] [—]
+
+Which of the following can be understood about the original scale oﬀered by Celsius?
+A) It suggested using diﬀerent methods for boiling water under pressure and measuring its temperature.
+B) It was based on the idea of identifying multiple points for both boiling and freezing water.
+C) It was called 'degrees centigrade' by the Swedish Academy of Sciences because it used a ﬁxed scale of 100 divisions.
+D) It was built upon the knowledge that Celsius derived from the shortcomings of earlier scales and calibration methods.
+E) It was subjected to a reverse in the way it measures temperature in 1948.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 76
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) It was built upon the knowledge that Celsius derived from the shortcomings of earlier scales and calibration methods.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** It suggested using diﬀerent methods for boiling water under pressure and measuring its temperature., **B)** It was based on the idea of identifying multiple points for both boiling and freezing water., **C)** It was called 'degrees centigrade' by the Swedish Academy of Sciences because it used a ﬁxed scale of 100 divisions., **E)** It was subjected to a reverse in the way it measures temperature in 1948.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 77 [Reading Comprehension | Hard] [—]
+
+What is the main idea of this passage?
+A) With the Ninth General Conference of Weights and Measures, Celsius' substantial contributions to measuring temperature have been publicised.
+B) Celsius devoted his whole life to pinpointing serious mistakes and problems in measurements used across the world.
+C) Celsius made it possible to measure the temperature of boiling and freezing water, yet the value of his work had hardly been recognised before his death.
+D) The Swedish scientist Celsius successfully identiﬁed problems in measuring temperature and shaped today's understanding of it.
+E) Despite studying mainly on physics, Celsius made outstanding contributions to various scholarly areas during his lifetime.
+
+Correct Answer: D
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 77
+Rationale: Okuma parçası analizi sorusunda doğru cevap **D) The Swedish scientist Celsius successfully identiﬁed problems in measuring temperature and shaped today's understanding of it.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** With the Ninth General Conference of Weights and Measures, Celsius' substantial contributions to measuring temperature have been publicised., **B)** Celsius devoted his whole life to pinpointing serious mistakes and problems in measurements used across the world., **C)** Celsius made it possible to measure the temperature of boiling and freezing water, yet the value of his work had hardly been recognised before his death., **E)** Despite studying mainly on physics, Celsius made outstanding contributions to various scholarly areas during his lifetime.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 78 [Reading Comprehension | Hard] [—]
+
+It is stated in the passage that technological improvements .........
+A) have faced continuous interventions in globalised countries due to competitions in the ﬁeld
+B) enjoyed a peak in 1750 due to the eﬀorts carried out by innovative people around the world
+C) have taken place in a cycle of experiment and failure throughout history
+D) have changed the cultural dynamics of societies besides contributing to their economic growth
+E) were historically based on the improvements of old processes due to the small number of innovative people
+
+Correct Answer: C
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 78
+Rationale: Okuma parçası analizi sorusunda doğru cevap **C) have taken place in a cycle of experiment and failure throughout history** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** have faced continuous interventions in globalised countries due to competitions in the ﬁeld, **B)** enjoyed a peak in 1750 due to the eﬀorts carried out by innovative people around the world, **D)** have changed the cultural dynamics of societies besides contributing to their economic growth, **E)** were historically based on the improvements of old processes due to the small number of innovative people) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 79 [Reading Comprehension | Hard] [—]
+
+Which of the following is not mentioned about the reasons for the delay in scientiﬁc advances in the past?
+A) Ancient societies were more conventional and old- fashioned than modern societies.
+B) Although new techniques were available, they could not gain recognition as their owners did not publicise them.
+C) New techniques were developed in a limited area where the rest of the world was unaware of such discoveries.
+D) Cultural norms hindered the abandonment of old methods and the introduction of new ones.
+E) There was a lot of competition among innovative individuals, which postponed the agreements on scientiﬁc truths.
+
+Correct Answer: E
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 79
+Rationale: Okuma parçası analizi sorusunda doğru cevap **E) There was a lot of competition among innovative individuals, which postponed the agreements on scientiﬁc truths.** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**A)** Ancient societies were more conventional and old- fashioned than modern societies., **B)** Although new techniques were available, they could not gain recognition as their owners did not publicise them., **C)** New techniques were developed in a limited area where the rest of the world was unaware of such discoveries., **D)** Cultural norms hindered the abandonment of old methods and the introduction of new ones.) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
+
+### Question 80 [Reading Comprehension | Hard] [—]
+
+What could be the best title for this passage?
+A) Why Technology Developed So Slowly in the Past
+B) How Previous Technological Advances Contributed to Modern Science
+C) From Trial and Error to Mastery: Modern Technology
+D) The Scientiﬁc Breakthroughs That Took Place in Antiquity
+E) The Signiﬁcance of Innovative Spirits in the Advancement of Science
+
+Correct Answer: A
+Document Reference: YÖKDİL 2025-2 Fen Bilimleri, Soru 80
+Rationale: Okuma parçası analizi sorusunda doğru cevap **A) Why Technology Developed So Slowly in the Past** şıkkıdır.
+Parografta verilen doğrudan bilgiler ve yazarın vurguladığı ana düşünce incelendiğinde bu seçenek metindeki ifadeleri tam olarak doğrulamaktadır.
+Diğer çeldirici seçenekler (**B)** How Previous Technological Advances Contributed to Modern Science, **C)** From Trial and Error to Mastery: Modern Technology, **D)** The Scientiﬁc Breakthroughs That Took Place in Antiquity, **E)** The Signiﬁcance of Innovative Spirits in the Advancement of Science) metinde geçmeyen aşırı genellemeler (overgeneralization) veya yanlış çıkarımlar içerdiği için elenmektedir.
+
